@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Testing"
             }
+          },
+          {
+            "id": "d62b9cbbee77770d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tutorial 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tutorial 2"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,8 +191,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "c2c47c76b62eacb4",
+  "active": "d62b9cbbee77770d",
   "lastOpenFiles": [
+    "Tutorial 2.md",
     "Testing.md"
   ]
 }
