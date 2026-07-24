@@ -2,7 +2,7 @@ Journaling in today's possible after effects of thinking I am cursed and experie
 And importance imposing your positive will on reality, no matter how delusional.
 Journaling positive event like they have already happened. And drawing runes on an book.
 
-Never watching demonic pornography, and maintaining spiritual hygeine
+Never watching demonic pornography. and maintaining spiritual hygeine
 
 Archdemon of self-entitlement and grandiose 
 excessive hubris.
