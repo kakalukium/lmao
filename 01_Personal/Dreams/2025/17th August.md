@@ -1,0 +1,1 @@
+Met mum, showed Her my obsidian Note design, She was impressed. 
