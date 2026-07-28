@@ -1,6 +1,23 @@
 https://x.com/i/status/2079258495388377561
 ## Conversation[BOSS](https://x.com/thebeautyofsaas)[@thebeautyofsaas](https://x.com/thebeautyofsaas)
 
+https://x.com/i/status/2080719367214379143
+Separate posts about X scraping YT automation
+
+
+10/10 books worth your time
+
+> **Jacob Posel @jacob\_posel** · 2026-07-20
+> 
+> Can anyone point me towards a great book list :)
+> 
+> ![Image](https://pbs.twimg.com/media/HNsCC7KXwAA6VJX?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HNsCSyoX0AMdFwC?format=png&name=large) ![Image](https://pbs.twimg.com/media/HNsCZ-BXQAA5eoE?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HNsChHJXYAA81mN?format=jpg&name=large)
+
+
+
+
+
+
 10/10 books worth your time
 
 [![Image](https://pbs.twimg.com/media/HNsCC7KXwAA6VJX?format=jpg&name=small)](https://x.com/thebeautyofsaas/status/2079258495388377561/photo/1)[![Image](https://pbs.twimg.com/media/HNsCZ-BXQAA5eoE?format=jpg&name=small)](https://x.com/thebeautyofsaas/status/2079258495388377561/photo/3)Quote
@@ -118,3 +135,16 @@ If you can obtain: > Marriage to a person you love (with frequent sex) > Couple 
 Quote
 
 Frequent sex is a monogamous relationship would boost "happiness" (fake term) way more than 50K. It's pretty much priceless. A billionaire in a sexless marriage is living a terrible life. Having a great wife would more than 10x his "happiness." x.com/idyllicmusing/…
+
+
+---
+
+https://x.com/i/status/2081350790384418830
+Somewhere along the way, people started treating self-love and being loved by someone else as if they were opposites. They aren’t. You can know your worth, enjoy your own company, heal your wounds and still hope someone chooses to walk through life with you. Independence doesn’t cancel the desire for companionship. We weren’t made to prove we need nobody. we were made to share life without losing ourselves.
+
+https://x.com/i/status/2081494734816559444
+
+I stopped making excuses for it. Everyone gets busy but consistency isn’t about texting every minute or being perfect….it’s about making someone feel like they matter over time. If I have to keep guessing where I stand, chasing the same energy I give or constantly lowering my expectations, I take that as my answer. Consistency isn’t a luxury in a relationship; it’s what builds love and trust.
+
+>how do y’all deal with inconsistency in relationships?
+

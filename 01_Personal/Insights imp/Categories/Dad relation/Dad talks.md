@@ -50,4 +50,32 @@ Me heavy reading karto, Bhair study karao bulat.
 
 
 
-Helloo
+---
+
+
+He is also of an unempathetic character, and incapable of understanding how his actions of deprivation hurt and kills the talent potential of his loved one.
+
+
+Reminding you for consistent funds is highly toxic where I've to beg for funds, and feels more like gambling on an slot machine with rollercoaster emotions, and is drains my energy, 
+And letting you know about all my grievances is once again falling on dear ears.
+
+Generous access to predictable funds and financial liberalisation.
+Till the time I cannot have access to generous amounts of predictable funds, That I can have access to freely at any time,
+I can't to be in an viable position to pursue technical or entrepreneurial excellence.
+
+I cannot tolerate your uncertain  and toxic payment methods, playing me for a fool.
+
+With vague delays and partial installments, 
+
+- Either you are unwilling and have an malicious dishonourable character, 
+- Or you are economically incapable.
+
+Either provide me with your credit card, or access to larger pool of predictable funds. 
+
+For my financial needs. 
+
+Your financial incompetence is also why I feel miserly, and also why I've had to sacrifice my social and love Life.
+
+You are killing my entrepreneurial ambitions and leaving me unable to cultivate my scientific/technical talent.
+
+Analogy of water going to plants. Form amiraelus
