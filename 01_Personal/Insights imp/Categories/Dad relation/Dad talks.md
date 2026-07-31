@@ -79,3 +79,10 @@ Your financial incompetence is also why I feel miserly, and also why I've had to
 You are killing my entrepreneurial ambitions and leaving me unable to cultivate my scientific/technical talent.
 
 Analogy of water going to plants. Form amiraelus
+
+Chihiro s affairs search term for how in capitalism, people are externally motivated by incentives, but the man of superior cogniion, internally driven staying true to his vision.
+
+
+They are at best credentials chasing rot memorizers, and if anything, this self destructive feminist society even encourages employment into bullshit make believe jobs and their parasitism. 
+Theirs is more slave coded counterfeit intelligence, whilst mine is an more superior form of abstract intelligence capable to connect methodically and systemically different ideas, efficiently problem solve, 
+Become an pioneer/ inventor/ innovator/ business decision maker. 

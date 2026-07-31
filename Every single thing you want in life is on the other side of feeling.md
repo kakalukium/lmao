@@ -46,290 +46,36 @@ Upon feeling this, a great level of chronic tension leaves the body and energy c
 
 > You might already be aware of how important this is, yet you will do anything it takes to not feel it, just do it, feel the thing, heaven is on the other side, FEEL IT.
 
+.
 
 
+https://x.com/i/status/2082643306031268043
+Oftentimes we want so badly to simply carry on with life and not let things “defeat us” that it actually turns into repression. Then eventually, when you finally let yourself feel the gravity of the events that transpired, you realize they did in fact affect you more deeply than you thought and you can then feel the open wound. So much of the pain is the denial itself.
 
+Hold the wound gently and with grace. Let yourself accept it and grieve it. You are never unaffected by the world, but the way it affects you doesn’t define you unless you hold onto it. 
 
+Sometimes the wounds just need to be acknowledged for them to heal. Don’t deprive yourself of that.
 
+Recognize yourself in the pain. Mourn your deaths and then you can truly carry on.
 
-To view keyboard shortcuts, press question mark
+https://x.com/i/status/2082889922940133843
 
-[View keyboard shortcuts](https://x.com/i/keyboard_shortcuts)
-----------------------------------------------------------------------------------------------------------------
+The existence of mosquitoes is evidence enough of the Devil
 
-Working with demons is like drinking alcohol You are borrowing life force from the future, or from a higher version of yourself, to briefly access higher states of consciousness or success or freedom You will always accrue a karmic debt
+There is a minuscule, airborne creature with a piercing snout that stabs into your skin, injects saliva, and literally siphons the liquid inside your body that keeps you alive
 
-Do you mean demons in the sense of negative attachments and psychological/inner work? Or demons as in actual beings?
+It feeds on the juices of your viscera
 
-I don't understand why it's bad to learn from them and integrate them?
+It is a literal monstrosity, a beast, an unnatural creation with hellish intention 
 
-Because getting your power now is abuse. Spiritual work is the first priority, then comes the power.
+It should exist only in horror stories, and yet it is real
 
-You must come to terms with the trauma that caused them to manifest in the first place, arising as you. Learning from them is learning what inspired them to come into existance to protect you maladaptively. After they are at peace, they may not even need manifest at all.
+And it is everywhere
 
+And there is nothing you can do to get rid of it
 
+You have been brainwashed into thinking this is okay
 
- (7) Denie 𓂀 on X: "@theralkia I don't understand why it's bad to learn from them and integrate them?" / X
+This world is vile, and you call it normal
 
-To view keyboard shortcuts, press question mark
-
-[View keyboard shortcuts](/i/keyboard_shortcuts)
----------------------------------------------------------------------------------------------------
-
-[
-
-Post
-
-
-
-](/compose/post)
-
-[
-
-](/home)[
-
-](/explore)[
-
-](/i/grok)[
-
-1
-
-
-
-
-
-](/notifications)[
-
-6
-
-
-
-
-
-](/i/chat)
-
-Post
-----
-
-See new posts
-
-Conversation
-============
-
-[
-
-![](https://pbs.twimg.com/profile_images/2003200410950234112/dEGm4prG_x96.jpg)
-
-](/theralkia)
-
-[Nornal Guy ![](https://abs.twimg.com/emoji/v2/svg/1f9d9-200d-2642-fe0f.svg)](/theralkia) 
-
-[
-
-@theralkia
-
-](/theralkia)
-
-·
-
-[12h](/theralkia/status/2072458335530721330)
-
-Working with demons is like drinking alcohol You are borrowing life force from the future, or from a higher version of yourself, to briefly access higher states of consciousness or success or freedom You will always accrue a karmic debt
-
-20
-
-24
-
-421
-
-[
-
-14K
-
-
-
-](/theralkia/status/2072458335530721330/analytics)
-
-[
-
-![](https://pbs.twimg.com/profile_images/2032958845526347779/t3PHkM3r_x96.jpg)
-
-](/realdenie)
-
-[
-
-Denie 𓂀
-
-
-
-](/realdenie)
-
-[
-
-@realdenie
-
-](/realdenie)
-
-·
-
-[12h](/realdenie/status/2072458593496879240)
-
-Do you mean demons in the sense of negative attachments and psychological/inner work? Or demons as in actual beings?
-
-1
-
-8
-
-[
-
-1K
-
-
-
-](/realdenie/status/2072458593496879240/analytics)
-
-[
-
-![](https://pbs.twimg.com/profile_images/2003200410950234112/dEGm4prG_x96.jpg)
-
-](/theralkia)
-
-[Nornal Guy ![](https://abs.twimg.com/emoji/v2/svg/1f9d9-200d-2642-fe0f.svg)](/theralkia) 
-
-[
-
-@theralkia
-
-](/theralkia)
-
-·
-
-[11h](/theralkia/status/2072468637194350958)
-
-Same thing
-
-1
-
-1
-
-17
-
-[
-
-961
-
-
-
-](/theralkia/status/2072468637194350958/analytics)
-
-[
-
-![](https://pbs.twimg.com/profile_images/2032958845526347779/t3PHkM3r_x96.jpg)
-
-](/realdenie)
-
-[
-
-Denie 𓂀
-
-
-
-](/realdenie)
-
-[
-
-@realdenie
-
-](/realdenie)
-
-Follow
-
-Click to Follow realdenie
-
-I don't understand why it's bad to learn from them and integrate them?
-
-[5:31 AM · Jul 2, 2026](/realdenie/status/2072470785520709660)
-
-·
-
-[
-
-330
-
-Views](/realdenie/status/2072470785520709660/analytics)
-
-1
-
-4
-
-[
-
-![](https://pbs.twimg.com/profile_images/2067370628479655936/4l2xpH0Q_x96.jpg)
-
-](/Shrimpster10)
-
-[
-
-..
-
-
-
-](/Shrimpster10)
-
-[
-
-@Shrimpster10
-
-](/Shrimpster10)
-
-·
-
-[3h](/Shrimpster10/status/2072590696062840990)
-
-Because getting your power now is abuse. Spiritual work is the first priority, then comes the power.
-
-[
-
-32
-
-
-
-](/Shrimpster10/status/2072590696062840990/analytics)
-
-[
-
-![](https://pbs.twimg.com/profile_images/1973787357246844929/5-Hq0dpH_x96.jpg)
-
-](/Necromunger1)
-
-[
-
-Necromunger
-
-
-
-](/Necromunger1)
-
-[
-
-@Necromunger1
-
-](/Necromunger1)
-
-·
-
-[7h](/Necromunger1/status/2072529155644850419)
-
-You must come to terms with the trauma that caused them to manifest in the first place, arising as you. Learning from them is learning what inspired them to come into existance to protect you maladaptively. After they are at peace, they may not even need manifest at all.
-
-1
-
-[
-
-88
-
-
-
-](/Necromunger1/status/2072529155644850419/analytics)
-
-Save
+The Devil owns your mind

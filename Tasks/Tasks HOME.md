@@ -83,3 +83,30 @@ It’s interesting how this works. I’ll have dry spells where I can’t work w
 But every time my environment understands or supports one of my aims/ideas I work with ease, peace, and enthusiasm.
 
 This is directly proportional to how much I get from them. I can only do what the humans “allow” me to, not more, not less
+
+https://x.com/i/status/2082162100349067766
+Conscious, attractive men want women who can embody all the archetypes. 
+They want a woman who can be the 
+girlfriend, child, mother, porn star, oracle, etc. 
+
+Women larping as the trad wife are hiding from themselves and a conscious man will be repelled because he will hold more feminine energy than she does.
+
+You must be able to give him every part of yourself.
+
+https://x.com/i/status/2082126990878912854
+don’t ever be embarrassed about your life. we all go through seasons that shake us, humble us, and force us to rebuild from nothing. moving back home, losing your job, getting your heart broken, hitting rock bottom, or struggling mentally does not make you a failure it makes you human. shame will keep you hiding in a season that was meant to rebuild you. learn, recover, and rise again.
+
+
+https://x.com/i/status/2082173497166446786
+Game theory explains why improving yourself rarely fixes your outcomes. People keep treating their own skills and discipline as a dominant variable because it's the one they can consciously control. They end up running never-ending optimizations but leave the whole structure around them untouched. Suddenly, they are the shiniest object in the room, but it gets them nowhere. That's because a diamond in the mud is still part of the mud. Cleaning it and putting it back to where you found it changes absolutely nothing. Hence, you must change the structure. Swipe the whole room clean; toss out the junk. Ask yourself which environment converts what you already have into a return and what it would cost to move there. Don't spend a decade improving yourself while covered in filth. The structure around you either works for you or against you. There is no middle ground.
+
+
+https://x.com/i/status/2082476119228645422
+
+Sometimes the universe does not just remove people to protect you; it quarantines them away from you so their negative karma does not infect your path.
+
+Do not mourn the exit. While you are being elevated into divine alignment, they are left behind to face the consequences of their own ego, pride, and deception.
+
+Trust the separation. The karmic accounts always settle.
+
+https://x.com/i/status/2083018268181246247
