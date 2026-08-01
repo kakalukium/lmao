@@ -1,0 +1,11 @@
+
+.*
+
+!/.gitignore
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.trash/
+*.tmp
+sync.ffs_db
+
