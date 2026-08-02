@@ -36,6 +36,10 @@ U just have to want it violently enough, and it'll become easy to get.
 
 to compete is a fundamentally feminine instinct. Masculinity dominates through coordination, not rivalry. Men build power collectively. Women compete for status with other women, even when they appear cooperative. Their entire lives revolve around jealousy. It's not just an emotion to them, it's the defining force behind how they perceive themselves and everyone else. People think they're competing against men. Lowkey, they're competing against each other, using men as the scoreboard. The men become puppets, the real contest is status.
 
+https://x.com/i/status/2083811380470399473
+
+the paradox of life is that you have to let go of everything you love, mentally, for everything to love you back.
+
 ---
 
 ## Comments
@@ -88,3 +92,6 @@ You dig enough and they're either running a laundering op, or have a genius co-f
 They have a signature energy fingerprint so I'll see and just know at this point lol - train & trust your gut
 
 Or they just got lucky - in that case, you'll need to wait for a few yrs which will reveal their colours. You can usually sniff the insecurity off of these types though
+
+https://x.com/i/status/2083811380470399473
+https://x.com/i/status/2083811380470399473
