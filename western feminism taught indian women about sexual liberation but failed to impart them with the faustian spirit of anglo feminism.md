@@ -76,3 +76,6 @@ meanwhile women here wanna hoe and still be perceived as sati savitri
 > **Pixel Tech Lab @lab\_pixel12661** · [2026-05-25](https://x.com/lab_pixel12661/status/2058944909768552487)
 > 
 > Eh might not be true. American women lie about having 10 body count while having 100. You'll see countless reddit posts by men finding out gf said a body count and real body count is different
+
+
+western feminism taught indian women about sexual 
