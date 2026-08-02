@@ -1,0 +1,1 @@
+I feel his negative energies, Donnot share anything too much personal with him. 

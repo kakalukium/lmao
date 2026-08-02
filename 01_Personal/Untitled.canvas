@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"dd20210931422523","x":-1633,"y":-426,"width":250,"height":60,"type":"text","text":""},
+		{
+			"id":"9b6e9db9390eb556",
+			"type":"text",
+			"text":"Lets say all audio files from \n- Naval\n- Chris williamsons podcasts\n- Sadia khan\n- psych hacks\n- ",
+			"styleAttributes":{},
+			"x":-780,
+			"y":-390,
+			"width":260,
+			"height":260
+		},
+		{"id":"339affd55bb930d5","type":"text","text":"- Spoofing\n- Scraping\n- LLM prompt Library \n- RAG ","x":-490,"y":-520,"width":250,"height":190},
+		{"id":"9505fd4ecc2b3f69","type":"text","text":"**Scraping**\n- Speech To text Models\n- Trends scraping From Social Media\n","x":-490,"y":-320,"width":250,"height":190}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

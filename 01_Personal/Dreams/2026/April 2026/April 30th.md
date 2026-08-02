@@ -1,0 +1,1 @@
+A dream where I recieved confirmation it is me who created / projecting my reality.

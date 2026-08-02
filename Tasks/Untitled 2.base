@@ -1,0 +1,21 @@
+views:
+  - type: table
+    name: Cards
+    filters:
+      and:
+        - file.path.containsAny("May 2026", "Clippings", "May 2026 ii")
+    order:
+      - file.name
+      - file.backlinks
+      - file.path
+    sort:
+      - property: file.ctime
+        direction: DESC
+    imageAspectRatio: 1.9
+    columnSize:
+      file.name: 362
+  - type: table
+    name: View 2
+    order:
+      - file.name
+      - file.backlinks

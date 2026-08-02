@@ -1,0 +1,4 @@
+---
+source: "https://x.com/frontierindica/status/2069306264220524808"
+---
+Most of the confusion in Indian political debate dissolves the moment you hold two facts together, that this is a genuinely large economy and a genuinely poor society at the same time. The aggregate buys real geopolitical weight and a seat at tables that matter, while the per capita number explains why a worker inside that same economy still cannot afford comforts a far smaller country treats as ordinary. The trouble starts when a country begins to feel like its GDP rank rather than its income rank, since the second one is the only number people actually live inside.

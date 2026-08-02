@@ -1,0 +1,54 @@
+If something was meant for you, It shall always find its way to you. 
+It shall always find its way to be yours.
+
+The indentured fragility of life generally in the contemporary industrial agrarian society, 
+Despite the emancipation freeing tools, you still need to keep an eye on cautionary tailwinds of petty dissuading forces, that very much can adversely effect you with superceding irrationality.
+
+Ideas on
+Suffering with dignity, not getting angry.
+
+Finding an inner circle with whom you can effectively rely on.
+
+https://x.com/i/status/2060768450239172959
+https://x.com/i/status/2060730450889285803
+
+The solution is neither wallowing in self pity, nihilism, victimhood, depression and defeatist attitude, and neither is it to be flamboyant in an disillusioned pride or hubris. It is somewhere in between.
+It is to face these hardships and life's dissatisfaction with self-honesty, feeling the depths of the crisis you see yourself in,
+and taking radical guided, pre-cognizant path to improvements to put yourself in a position to thrive, be holistically victorious, and rise above survival drivels. 
+
+> [!NOTE] ""
+> As a man, the only emotions you should feel are to go from confusion to resolve- Chihiro
+
+On Chihiro,
+It is natural for someone of his background to see through the veneers of hypocritical social niceties, with hyper- cynicism, and perhaps because of his inferior racial profile, or his promiscuous mechanical/non-spiritual proclivities, 
+he might still fall short in the full puzzle of searching for an effective inner circle to rely on.
+But I believe, just like how he skeptically pointed out to be very much true on us, in an individual ascension journeys, 
+These times could be formative tests of refining ourselves, and to be faithful to the higher powers to be, orchestrating your path to liberation, and cultivating your spritual oasis.
+
+My credulousness in, what if, this realm is largely about achieving spiritual growth, with ineffable self belief, love and will, subsequently to have your desires take shape.
+Let go of all the powerful emotional bonds from the past.
+Perhaps seek to immortalise and supplement his work for psychological resilience, just like he said that*he is more like a soul catalyst*.
+
+Show respect to the higher powers to be, conspiring for you, by being a faithful warrior and a devoted learner.
+
+Use the gnosis from spiritual initiation to upward economic mobility, 
+And this also means, females can never be your equal, from their biological constraints, most people have fallen to be satans cocksuckers, revolve around the void axis. 
+At best, you can maybe save her from herself, and from the vices of the sinful world. 
+But be rest assured, you are self sufficient and it's only spiritual men, who can face the devil in the eye, after coming in terms with their physical mortality. 
+
+Perhaps after having some initial breakthroughs, you could search for romance partners. I am sure, the universe shall meet you halfway. 
+Clearly, you've to control impulsiveness for you to be an spiritual leader.
+
+Ideas on timeline inversion. 
+
+You still lack the economic, social and material means to impose your order onto fallible females, to better serve you. 
+Even spiritual & intellectually. 
+
+> [!NOTE] Game theory trick:
+> 
+> Destroy your own options. It seems counterintuitive at first glance, but it's frequently used as a powerful commitment strategy.
+> Burning your bridges actively prompts you to commit fully and play with intention. 
+> You won't be able to run away anymore. 
+> There is no safety.
+> And that allows you to go all-out.
+> https://x.com/i/status/2061150214879346986
