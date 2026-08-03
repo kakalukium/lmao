@@ -12,3 +12,5 @@
 - [[A loser is defined by his poverty of spirit, not his circumstances.]]
 - [[The game itself, like all games of its era, is a metaphor for overcoming learned helplessness. But you will win if you are non-fearful.]]
 - [[‘Real life’ is about solving problems under conditions of inescapable stress]]
+- [[You may NEVER put a spell on someone. The moment you try to affect someone’s will, even subtly, you step out of white initiation and enter Satanic–Luciferic magic.]]
+- 

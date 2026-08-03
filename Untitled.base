@@ -1,6 +1,9 @@
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - '!file.folder.startsWith("Images")'
     order:
       - file.name
       - file.path
