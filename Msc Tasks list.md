@@ -21,3 +21,8 @@ https://x.com/i/status/2068405645489910180
 - [ ] https://x.com/i/status/2017987925879972350
 Those are all material things and thus have no connection to state of consciousness whatsoever. If they did, then those who were abused by Epstein and co were also "living the best life" because they also got to go to those places and communicate with those people
 
+
+
+https://x.com/i/status/2084100887308640257
+https://x.com/i/status/2084100887308640257
+

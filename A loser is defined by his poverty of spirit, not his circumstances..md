@@ -86,7 +86,8 @@ Related/relevant:
 > 2025-12-08
 > 
 > Haunting Ground is an intricate emotional simulation of trauma and аbusе.
-> 
+> [[The game itself, like all games of its era, is a metaphor for overcoming learned helplessness. But you will win if you are non-fearful.]]
+
 > It’s a ‘cult classic’ with mixed reviews because when it came out a lot of people could not finish the game, and you can’t blame them because it is unplayable if you’re prone to learned helplessness IRL x.com/RayPeatHeadSho…
 
 ---

@@ -110,3 +110,5 @@ Do not mourn the exit. While you are being elevated into divine alignment, they 
 Trust the separation. The karmic accounts always settle.
 
 https://x.com/i/status/2083018268181246247
+
+https://x.com/i/status/2084229819626066182
