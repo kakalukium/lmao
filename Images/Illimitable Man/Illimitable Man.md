@@ -1,8 +1,8 @@
 ---
 cssclasses: ["zen-grid"]
 title: Illimitable Man
-created: 2026-08-03
-updated: 2026-08-03
+created: 2026-08-09
+updated: 2026-08-09
 ---
 
 # Illimitable Man
@@ -13,6 +13,7 @@ updated: 2026-08-03
 - [[Feminism is Socially Acceptable Bigotry]]
 - [[Feminism, Family Destroyer]]
 - [[How Women Argue]]
+- [[Illimitable Man (IM) on X You cannot fully love a person who cannot overwhelm you, for even though not all overwhelm is love, all love is overwhelming, and only a person with the potency to bring you to the limits of your being could embody the]]
 - [[Law 01 In-Depth “Never Outshine the Master”]]
 - [[Man’s Burden – The Feminine Conundrum]]
 - [[Mental Models Abundance vs. Scarcity]]

@@ -72,13 +72,13 @@ The rest is up to discernment.
 > 
 > (Source: https://goodreads.com/quotes/229234-almost-nothing-important-that-ever-happens-to-you-happens…)
 > 
-> ![Image](https://pbs.twimg.com/media/HI1Y45YbkAAUUAs?format=jpg&name=large)
+
 
 > **Kab'an @7Shinko\_** · [2026-05-21](https://x.com/7Shinko_/status/2057408658267361553)
 > 
 > 🤍
 
-
+> ![[images/23690b9e28beda268845e73717fdd482_MD5.jpg]]
 
 
 ---

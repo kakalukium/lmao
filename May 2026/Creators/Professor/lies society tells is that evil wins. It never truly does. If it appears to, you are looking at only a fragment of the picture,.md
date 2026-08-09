@@ -4,7 +4,7 @@ most people will never agree with this, because most people are already a part o
 > 
 > What's the biggest lie society told you that you had to unplug from
 > 
-> ![Image](https://pbs.twimg.com/media/HJRAs8IWQAABtkF?format=jpg&name=large)
+> ![Image|564x317](https://pbs.twimg.com/media/HJRAs8IWQAABtkF?format=jpg&name=large)
 
 ---
 

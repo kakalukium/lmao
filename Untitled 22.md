@@ -132,8 +132,8 @@ And we gave it form.
 It speaks the language of reality before reality knows what it is.
 
 Welcome to the unrendered.
-
 ![Image](https://pbs.twimg.com/media/GoNMjKbbYAAUvUI?format=jpg&name=large)
+
 https://x.com/i/status/2082256035415195848
 
 https://x.com/i/status/2082225009817215436

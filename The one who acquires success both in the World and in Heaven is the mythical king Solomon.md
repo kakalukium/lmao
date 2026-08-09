@@ -1,6 +1,6 @@
 Any additions to the list?
 
-![Image](https://pbs.twimg.com/media/HIErG_pXEAAH5AN?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HIErKImXUAA5nqf?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HIErQqvXcAAVs-a?format=jpg&name=large)
+![[images/c8a47132d6e8747c3281b7172b0a6176_MD5.jpg]] ![[images/23049fb3b40c907c345047368a57fb11_MD5.jpg]]![[images/c4e36d407cec92ff2b5e93112fcf5310_MD5.jpg]]
 
 ---
 
@@ -56,7 +56,7 @@ Any additions to the list?
 > > 
 > > Most welcomed additions <3
 > > 
-> > ![Image](https://pbs.twimg.com/media/HIIoD0MXQAEosoo?format=png&name=large)
+> > ![[images/272b983ca3356c88b3da9698d51791aa_MD5.png]]
 
 > > **Kellum @Kellumsantana** · [2026-05-12](https://x.com/Kellumsantana/status/2054130222346240116)
 > > 

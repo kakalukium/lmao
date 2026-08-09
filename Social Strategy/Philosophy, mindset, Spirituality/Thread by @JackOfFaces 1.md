@@ -14,6 +14,31 @@ We enforce the most logical outcome just by looking. But only if we're there to 
 > 
 > It enforces a logical reality. x.com/JackOfFaces/st…
 
+
+**JACK OF FACES** @JackOfFaces 2025-07-03
+
+That is not what quantum physics says.
+
+It says that the act of observation collapses matter from its superposition state and forces molecules into positions where they're most likely to be.
+
+The implications of the non-sensationalized truth are even grander, so study it first.
+
+> 2025-07-03
+> 
+> Quantum physics says reality is influenced by observation. Your attention literally shapes your world.
+
+---
+
+**Segovax** @faceman\_\_\_ [2025-07-04](https://x.com/faceman___/status/1941101754067931271)
+
+Lots of people dont understand the ds experiment. The observer is not the human eye, but a device that creates a physical interaction and obtains "which-path" info. Eye contact has zero effect on the outcome of the experiment. Even still, it's a very profound experiment.
+
+---
+
+**JACK OF FACES** @JackOfFaces [2025-07-04](https://x.com/JackOfFaces/status/1941107403795448126)
+
+🩶
+
 ---
 
 **Chino** @ChinoAIO [2025-07-04](https://x.com/ChinoAIO/status/1940966111509610655)

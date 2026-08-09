@@ -8,4 +8,6 @@
 - [ ] another ear muffs
 - [ ] https://x.com/i/status/2037256291869958322
     A new hat 
+- [ ] curtain
+- [ ] trimmer
 - [ ] 
