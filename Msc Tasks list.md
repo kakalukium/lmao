@@ -26,3 +26,4 @@ Those are all material things and thus have no connection to state of consciousn
 https://x.com/i/status/2084100887308640257
 https://x.com/i/status/2084100887308640257
 
+https://x.com/i/status/2084435104424984715

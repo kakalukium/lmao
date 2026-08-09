@@ -86,3 +86,6 @@ Chihiro s affairs search term for how in capitalism, people are externally motiv
 They are at best credentials chasing rot memorizers, and if anything, this self destructive feminist society even encourages employment into bullshit make believe jobs and their parasitism. 
 Theirs is more slave coded counterfeit intelligence, whilst mine is an more superior form of abstract intelligence capable to connect methodically and systemically different ideas, efficiently problem solve, 
 Become an pioneer/ inventor/ innovator/ business decision maker. 
+
+
+A calm and an quiet shelter in an middle class residential place, made of high grade construction materials.

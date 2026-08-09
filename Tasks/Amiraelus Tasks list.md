@@ -851,7 +851,7 @@ A stupid man mistakes one for another, loses himself navigating between these th
 
 
 
-## July 26th
+# July 26th
 https://x.com/i/status/2078959873656582245
 https://x.com/i/status/2078944235060187242
 
@@ -862,3 +862,6 @@ https://x.com/i/status/2078128133736141196
 https://x.com/i/status/2077887260469428699
 
 https://x.com/i/status/2076310777162609038
+
+https://x.com/i/status/2013214816249282873
+https://x.com/i/status/1989666828491395345
