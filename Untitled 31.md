@@ -124,11 +124,11 @@ in this case, even if nobody picks you today, you’ve still increased your valu
 > 
 > C.S. Lewis wrote about this in an essay called First and Second Things. He said that paradoxically, you're more likely to get what you want when getting it isn't the most important thing in your life. If you put the highest thing first, you'll often get the second thing as well. x.com/MVP\_Mindset/st…
 > 
-> ![Image](https://pbs.twimg.com/media/HPIz2aDXsAALmsL?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HPEDql9XAAAj6Ag?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HPED-7wWgAADbt7?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HPEDsZSWYAAdzzg?format=jpg&name=large)
+> ![[images/bfebccd11f6981fe7833e01eef767d30_MD5.jpg]]![[images/737396c2db749eb5b2a6c614dad80f2c_MD5.jpg]]![[images/c2c2522475f713124b92b1fdf0da5404_MD5.jpg]]![[images/1dfcc75db206ae4a01a6da8ef392a72b_MD5.jpg]]
 
 ---
 
-![Image](https://pbs.twimg.com/media/HPPhHmbWcAAIQiX?format=jpg&name=large)
+![[images/9e6af8272e5da0ce50af554144cf6fd1_MD5.jpg]]
 
 ---
 
@@ -152,7 +152,7 @@ in this case, even if nobody picks you today, you’ve still increased your valu
 > 
 > every hour spent improving your craft, character, x.com/david\_perell/s…
 > 
-> ![Image](https://pbs.twimg.com/media/HPIz2aDXsAALmsL?format=jpg&name=large)
+> ![[images/bfebccd11f6981fe7833e01eef767d30_MD5.jpg]]
 
 ---
 
@@ -186,7 +186,7 @@ life is different when the butterflies want you, but most humans never experienc
 > 
 > See the moments that stood out the most from Day 1 to crowning the new champions.
 > 
-> ![Embedded video](https://pbs.twimg.com/media/HO5A3YdWkAAHJyP?format=jpg&name=large)
+> ![[images/cfe5288d5c6bd6760fa590076b9d7de3_MD5.jpg]]
 
 > **voidwalker @Stream\_Consc** · [2026-08-08](https://x.com/Stream_Consc/status/2086145889664668014)
 > 
