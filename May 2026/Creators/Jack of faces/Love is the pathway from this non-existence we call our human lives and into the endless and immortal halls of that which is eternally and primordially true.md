@@ -99,4 +99,4 @@ A soul's weight is measured in its lightness.
 > > 
 > > First try.
 > > 
-> > ![Image](https://pbs.twimg.com/media/HOQEwIEboAAN6NO?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HOQEwIAaEAAZi-F?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HOQEwH-bQAAnRNC?format=jpg&name=large)
+> > ![[images/b2f35f1480a60c8a6487ce2ad82bbd4a_MD5.jpg]]![[images/318be4a6e5374ded3d95887df240f145_MD5.jpg]]![[images/9db888b0ce2cf71ce396af8be231f50a_MD5.jpg]]

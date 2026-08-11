@@ -15,7 +15,7 @@ Jobs are disappearing. Inflation is through the roof. People are desperate for a
 > 
 > Starting Feb 1, 2027, new channels need 8,000 watch hours (up from 4,000) or 20M Shorts views in 90 days (up from 10M) to join the YouTube Partner Program
 > 
-> ![Image](https://pbs.twimg.com/media/HPXurjbWMAAmW2c?format=png&name=large)
+> ![[images/65c945859462a00e9f64845bd1f8f464_MD5.png]]
 
 ---
 
