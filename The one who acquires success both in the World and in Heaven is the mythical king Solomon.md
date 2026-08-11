@@ -18,7 +18,7 @@ Any additions to the list?
 > 
 > Nothing follows like success, success follows success, you grow or get destroyed, and this is not a problem in itself, for it generates seasons. The problem is when this becomes a spiral around the void- the third, horizontal, dimension between growth and destruction- instead of Heaven. The problem is when this becomes cancer, by the tyranny of the form, and humans do not pay in entropy and destruction by will, so entropy and destruction consumes them by force, and then they begin believing entropy and destruction are the evil and never see the Devil for what he is.
 > 
-> Only in Heaven things are horizontal indefinitely, laying eternally- (which made humans mistake the dead for being in Heaven)- precisely because the World of Nature provides the energy for this floating, by all those who are born and die, an effervescence of bubbles of energy at the other end of the stick for the eternal platform of peace of Heaven.
+> Only in Heaven things are horizontal indefinitely, laying eternally- (which made humans mistake the dead for being in Heaven)- precisely because the World of Nature provides the energy for this floating, by all those who are born and die, an effervescence of bubbles of energy at the other end of the stick for the eternal platform of peace of **Heaven**.
 > 
 > #amiraelus
 

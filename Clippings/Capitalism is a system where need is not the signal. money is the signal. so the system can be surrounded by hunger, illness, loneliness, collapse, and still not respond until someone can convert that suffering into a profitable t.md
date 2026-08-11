@@ -99,3 +99,5 @@ https://x.com/i/status/2069748957215932498
 https://x.com/i/status/2071067631243726965
 
 Capitalism does not only exploit the present. It colonizes the future. Every social advance has to crawl through profit, ownership, patents, rent, debt, and political capture before the public is allowed to touch what it already helped create.
+
+https://x.com/i/status/2077115278501282213

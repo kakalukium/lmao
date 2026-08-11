@@ -17,7 +17,7 @@ It's measurable. It's real. It's your interface with reality.
 
 Strong auras bend probability in your favor. Weak auras attract chaos and misfortune.
 
-![A stylized illustration of a human silhouette with a vibrant, multicolored aura extending outward in concentric arcs. The aura features layers of blue, green, yellow, red, and orange, radiating symmetrically from the silhouette.](https://pbs.twimg.com/media/G0l7kOQaEAAUHeU?format=png&name=large)
+![A stylized illustration of a human silhouette with a vibrant, multicolored aura extending outward in concentric arcs. The aura features layers of blue, green, yellow, red, and orange, radiating symmetrically from the silhouette.|573x80](https://pbs.twimg.com/media/G0l7kOQaEAAUHeU?format=png&name=large)
 
 ---
 

@@ -7,11 +7,11 @@ Separate posts about X scraping YT automation
 
 10/10 books worth your time
 
-> **Jacob Posel @jacob\_posel** · 2026-07-20
+> **Jacob Posel @jacob\_posel** · 2026-07-20im
 > 
 > Can anyone point me towards a great book list :)
 > 
-> ![Image](https://pbs.twimg.com/media/HNsCC7KXwAA6VJX?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HNsCSyoX0AMdFwC?format=png&name=large) ![Image](https://pbs.twimg.com/media/HNsCZ-BXQAA5eoE?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HNsChHJXYAA81mN?format=jpg&name=large)
+> ![[images/80f7953c185239708dcfb6de2a0e05b4_MD5.jpg]]![[images/e242542ed3bd9a1c2c94b46cec69fca4_MD5.png]]![[images/f4b737538c710ab459acbbe972a8a154_MD5.jpg]]![[images/745a5aa6d572d1598714ed5c01607b77_MD5.jpg]]
 
 
 
@@ -20,7 +20,7 @@ Separate posts about X scraping YT automation
 
 10/10 books worth your time
 
-[![Image](https://pbs.twimg.com/media/HNsCC7KXwAA6VJX?format=jpg&name=small)](https://x.com/thebeautyofsaas/status/2079258495388377561/photo/1)[![Image](https://pbs.twimg.com/media/HNsCZ-BXQAA5eoE?format=jpg&name=small)](https://x.com/thebeautyofsaas/status/2079258495388377561/photo/3)Quote
+[![[images/9335fc8ea7f0c879e949734100c6602e_MD5.jpg]]](https://x.com/thebeautyofsaas/status/2079258495388377561/photo/1)[![[images/c5c810d9981ef2a3edec6cf8d5f31a88_MD5.jpg]]](https://x.com/thebeautyofsaas/status/2079258495388377561/photo/3)Quote
 
 Jacob Posel
 
@@ -46,7 +46,7 @@ Tom Elvis Ω
 
 Do you think you could be a LEGEND only with the sole idea of a dream? Perhaps, but I believe you would be NOWHERE near as LEGENDARY compared to those who had a dream AND an entity to fight against. Nikola Tesla wouldn’t have been HIM without Thomas Edison. Newton wouldn’t
 
-[![Image](https://pbs.twimg.com/media/HNrL8J4XcAAw63r?format=jpg&name=360x360)](https://x.com/QuantumRover/status/2079198421789851928/photo/1)[![Image](https://pbs.twimg.com/media/HNrL8JyXMAAk8cH?format=jpg&name=360x360)](https://x.com/QuantumRover/status/2079198421789851928/photo/3)[621](https://x.com/QuantumRover/status/2079273712826626379/analytics)[BOSS](https://x.com/thebeautyofsaas)[@thebeautyofsaas](https://x.com/thebeautyofsaas)
+[![[images/87e46c4ae696bb79d5854158f4f286fb_MD5.jpg]]](https://x.com/QuantumRover/status/2079198421789851928/photo/1)[![[images/04495aa3d5f195fc4968f5f72b436578_MD5.jpg]]](https://x.com/QuantumRover/status/2079198421789851928/photo/3)[621](https://x.com/QuantumRover/status/2079273712826626379/analytics)[BOSS](https://x.com/thebeautyofsaas)[@thebeautyofsaas](https://x.com/thebeautyofsaas)
 
 signs you should not ignore. 100% that there are lessons in there for you[254](https://x.com/thebeautyofsaas/status/2079279327279993285/analytics)[BOSS](https://x.com/thebeautyofsaas)[@thebeautyofsaas](https://x.com/thebeautyofsaas)
 
@@ -75,7 +75,7 @@ Quote
 
 Jacob Posel
 
-![](https://pbs.twimg.com/profile_images/2075590576242573312/cnWIi8T3_bigger.png)
+![[images/2f627db0fb5f37e08031c7add66eb193_MD5.png]]
 
 Can anyone point me towards a great book list :)
 
@@ -118,7 +118,7 @@ Sourced from across X
 
 why Naval deleted his calendar, ghosts everyone, and refuses to be anywhere at a specific time Naval: "I read a blog post by Marc Andreessen where he said don't keep a schedule. And I took that to heart. So I deleted my calendar and I don't keep a schedule. I try to remember it
 
-![](https://pbs.twimg.com/amplify_video_thumb/2079130156023869440/img/_dnDwOFreySdgXZ1?format=jpg&name=medium)
+![[images/a96816252fef05c909cefcc8d46c2d48_MD5.jpg]]
 
 Just landed in Mykonos. This place is like hoe heaven holy shit the airport is just hoes all here for dick. Most of them only have $17 bucks in their bank account. Remember boys The more expensive their bag / luggage the more dick they take Chanel + Rimowa = miles and
 
@@ -128,7 +128,7 @@ Quote
 
 Full Course on How To Be Articulate (by Joseph Tsar)
 
-![](https://pbs.twimg.com/amplify_video_thumb/2065155582374416385/img/AAvwjbWIIWEjAW0o?format=jpg&name=medium)
+![[images/8fa10a38bdfe0053908976cadc533baf_MD5.jpg]]
 
 If you can obtain: > Marriage to a person you love (with frequent sex) > Couple kids > Couple close friends > Job to cover living + some savings > In shape with a consistent workout routine > 1-2 hobbies you engage in weekly Then you've pretty much hit peak human existence.
 

@@ -24,3 +24,4 @@ women are attractive because they possess the capacity to wound. Anything incapa
 > **Sahana @Sahanasatianaat** · [2026-06-09](https://x.com/Sahanasatianaat/status/2064293866556227826)
 > 
 > The only sensible and healthy man in the conversation. Thanks bruh 👍❤️. Forget the others. Masochism has its own followers.
+

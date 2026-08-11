@@ -8,13 +8,6 @@ tags:
 
 People who can't understand the implicit won't understand the explicit either.
 
-Quote
-
-cнєєкυ⋆｡˚ ⋆
-
-@Okay\_Bye\_\_\_
-
-14h
 
 When u realise telling them how u feel won't change anything so u just let it go
 

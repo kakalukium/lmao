@@ -1,15 +1,15 @@
 {
 	"nodes":[
-		{"id":"ce13b758d960550d","type":"file","file":"Images/Pasted image 20250716130816.png","x":-600,"y":-419,"width":280,"height":199},
-		{"id":"2e7d15c654095bc9","type":"file","file":"Images/Pasted image 20250717164808.png","x":-300,"y":-200,"width":295,"height":80},
-		{"id":"3a80d5e817061451","type":"file","file":"Images/Pasted image 20250716130627.png","x":-279,"y":-419,"width":243,"height":179},
-		{"id":"b98d376db857bbe3","type":"file","file":"Images/Pasted image 20250716131442.png","x":-510,"y":-93,"width":231,"height":183},
-		{"id":"5f73cc7cd9f41f0c","type":"file","file":"Images/Pasted image 20250716131506.png","x":-279,"y":-93,"width":290,"height":125},
+		{"id":"2e7d15c654095bc9","type":"file","file":"Images/Pasted image 20250717164808.png","x":-300,"y":-200,"width":310,"height":84},
+		{"id":"b98d376db857bbe3","type":"file","file":"Images/Pasted image 20250716131442.png","x":-510,"y":-93,"width":310,"height":245},
 		{"id":"6979653a3db6ded9","type":"file","file":"Images/Pasted image 20250718193410.png","x":-760,"y":-93,"width":219,"height":173},
 		{"id":"c5e6c02ed7115f71","type":"file","file":"Images/Pasted image 20250814235334.png","x":-1100,"y":-595,"width":400,"height":395},
-		{"id":"b7db6f60a30477dd","type":"file","file":"Images/c-138014029.jpg","x":-460,"y":120,"width":400,"height":400},
 		{"id":"cd7f46509ea01970","type":"file","file":"Images/Screenshot_2025-08-21-01-41-17-378_com.miui.home.jpg","x":-1040,"y":-93,"width":180,"height":400},
-		{"id":"c3c159c407f7b624","type":"file","file":"Images/Pasted image 20250716131330.png","x":-588,"y":-200,"width":268,"height":80}
+		{"id":"c3c159c407f7b624","type":"file","file":"Images/Pasted image 20250716131330.png","x":-588,"y":-200,"width":268,"height":80},
+		{"id":"5f73cc7cd9f41f0c","type":"file","file":"Images/Pasted image 20250716131506.png","x":-80,"y":-93,"width":290,"height":125},
+		{"id":"b7db6f60a30477dd","type":"file","file":"Images/c-138014029.jpg","x":-600,"y":180,"width":400,"height":400},
+		{"id":"ce13b758d960550d","type":"file","file":"Images/Pasted image 20250716130816.png","x":-600,"y":-528,"width":280,"height":199},
+		{"id":"3a80d5e817061451","type":"file","file":"Images/Pasted image 20250716130627.png","x":-280,"y":-528,"width":243,"height":179}
 	],
 	"edges":[],
 	"metadata":{

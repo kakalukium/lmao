@@ -92,3 +92,7 @@ Nobody has the time to do any long-term thinking. Any anyone who does that would
 > **Nikkei Asia @NikkeiAsia** · 2026-05-16
 > 
 > China investor gobbles up 120-year-old German sewing machine maker https://s.nikkei.com/4fq5GRb
+
+
+
+

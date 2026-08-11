@@ -27,6 +27,9 @@ So we know how Jews build wealth and power. They commit organized crime and kill
 > 
 > Jews have the decentralized religious organization that makes sure all left and right jews work for jews interest. They also have been perfecting this parasitic strategies for over a thousand of years - not having their own nation to defend makes them more eager to be parasites
 
+>They've taken it off the Internet but I remember reading public comments by leading intellectuals in the 1920's whether to admit them to the Ivy Leagues. The warning was they'd take them over -which is what happened. Ackman has the final say on everything at Harvard for example.
+
+
 > **Asip @asip888** · [2026-06-05](https://x.com/asip888/status/2062978207578530298)
 > 
 > There are more White Americans with IQs of over 120 than there are Jews of any IQ on the entire planet. It's a stupid lie.

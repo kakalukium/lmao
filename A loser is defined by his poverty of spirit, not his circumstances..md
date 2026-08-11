@@ -13,10 +13,9 @@ Not the sort of person you invite over more than once, as many sympathetic Irish
 > 2026-04-21
 > 
 > It’s normal to feel acutely sad after something sad happens, and while that sadness fades over weeks and months, it may come back in transient waves here and there, but ultimately a healthy mammal lives COMFORTABLY and PLEASURABLY in the present.
+>  This is disease slop. Ignore it
 > 
-> This is disease slop. Ignore it.
-> 
-> ![[images/7a320f54cc7bbbc01982c561568f6b54_MD5.jpg]]
+.![[images/7a320f54cc7bbbc01982c561568f6b54_MD5.jpg|439]]
 
 ---
 
