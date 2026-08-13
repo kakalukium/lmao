@@ -113,3 +113,4 @@ A creature of habit, condemned to its programming, or what us video gamers call 
 If you fail to accumulate wealth towards maintaining a status of exclusivity, you will forever be burdened by the inefficiencies, negativity, drama, and find yourself having to bear the consequences of the peasants’ actions, where you, as a noble man, will have to pay for the stupidity of the masses while never reaching your true potential in life — all while they excuse each other, conveniently point their fingers at you, and very ungratefully live off the fruits of your labour.
 
 Make no mistake here: Living alongside the peasants in co-existence will always turn out to be a parasitic arrangement.
+

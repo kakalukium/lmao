@@ -865,3 +865,21 @@ https://x.com/i/status/2076310777162609038
 
 https://x.com/i/status/2013214816249282873
 https://x.com/i/status/1989666828491395345
+
+Animation list:
+https://www.instagram.com/reel/DbtXRiVAKV0/?igsh=YTBrbmk3eHFubmVp&igsi=YTBrbmk3eHFubmVp
+
+https://www.instagram.com/p/Db-oi8Qij1X/?img_index=5&igsh=dHc3ZmRtaGEzajV1&igsi=dHc3ZmRtaGEzajV1
+
+
+Free tools alternatives
+https://www.instagram.com/p/Db8bbOtCnwB/?img_index=1&igsh=OWlhdDc0cHFyaTJh&igsi=OWlhdDc0cHFyaTJh
+
+
+
+https://www.instagram.com/p/DbwEvAkDheX/?igsh=MXcybDBicjI0dGM5Yw==&igsi=MXcybDBicjI0dGM5Yw==
+
+https://www.instagram.com/p/DbYsUUNiY3g/?img_index=12&igsh=Z2xob2N2dWlnMmlh&igsi=Z2xob2N2dWlnMmlh
+
+
+
