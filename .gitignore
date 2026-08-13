@@ -1,17 +1,7 @@
-<<<<<<< HEAD
-.obsidian/  
-images/  
-.trash/ 
-=======
-
-.*
-
-!/.gitignore
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/graph.json
+.obsidian/*
+!.obsidian/snippets/
+!.obsidian/
 .trash/
 *.tmp
 sync.ffs_db
-
->>>>>>> 0c8218f931b0d0ec7ac8340c12646ea6cf0f8459
+**/_attachments/

@@ -177,3 +177,25 @@ https://x.com/i/status/2085434836185952620
 
 https://x.com/i/status/2085409421815849369
 The most catastrophic thing a woman can do is expend her most formative and totalising devotion on an unworthy man. Her purest and most intense capacity to love truly and deeply should not be extinguished on a man who is mediocre, lacking in soulfulness, or who fails to recognise her as someone special. To squander herself then is rightfully a woman’s greatest fear, because to do so becomes her most ineradicable regret - she must not spend herself poorly.
+
+
+![[Screenshot_2026-08-12-13-43-00-157_com.quora.android-edit.jpg]]
+
+Jack of faces search for energy: " that which shall give you energy and inspiration "
+
+Check this amiraelus
+
+https://x.com/i/status/2061653970393747778
+https://x.com/i/status/2052157410102374804
+Next book acquisition for 2026 :
+-Piotr Ouspensky :
+"Fragments of an Unknown 
+Teaching"
+-Georges Ivanovitch Gurdjieff :
+"Beelzebub's Tales to His Grandson
+-@Amiraelus : Matriarchy 2028
+
+Tell me it's going to be wild without telling it.
+https://x.com/i/status/2047559163740397854
+
+https://x.com/i/status/1867549818366964167
