@@ -12,7 +12,7 @@ The real redpill is that romance is not real. Sexual and emotional infatuation a
 > 
 > Now they can observe women's behavior online and that desensitizes them more than witnessing war crimes would
 > 
-> ![[images/8ecef928d80948867b557bb8c5751792_MD5.png]]
+> ![[_attachments/8ecef928d80948867b557bb8c5751792_MD5.png]]
 
 ---
 
@@ -62,7 +62,7 @@ Most cross-cultural ancient cultures viewed it as mental illness and a dangerous
 > 
 > Lols.
 > 
-> ![[images/6792e74dd470124fc3c9318c8ecc4f9d_MD5.jpg]]
+> ![[_attachments/6792e74dd470124fc3c9318c8ecc4f9d_MD5.jpg]]
 
 ---
 source: "https://x.com/ichorambrosia/status/2063124745562837375"
@@ -71,7 +71,7 @@ Sensitive young men used to have limited contact with women and go crazy about r
 
 Now they can observe women's behavior online and that desensitizes them more than witnessing war crimes would
 
-![[images/8ecef928d80948867b557bb8c5751792_MD5.png]]
+![[_attachments/8ecef928d80948867b557bb8c5751792_MD5.png]]
 
 ---
 

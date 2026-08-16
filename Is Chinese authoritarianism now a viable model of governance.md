@@ -1,4 +1,4 @@
-![](https://qph.cf2.quoracdn.net/main-qimg-28bf6db80a02cea692f335667a9e1b28)
+![](_attachments/main-qimg-28bf6db80a02cea692f335667a9e1b28_17866961370221603.jpg)
 
 That would be a fatal assumption to make ☺
 
@@ -12,7 +12,7 @@ If China had done just one single thing different between 1980 and 2010 , they w
 
 90 per cent of Nations going by the same formula would be certain to fail
 
-![](https://qph.cf2.quoracdn.net/main-qimg-6e6922e7988f0744eda7ba3e6e9cfd60)
+![](_attachments/main-qimg-6e6922e7988f0744eda7ba3e6e9cfd60_17866961369879494.jpg)
 
 For a communist authoritarian nation - to boast of such a high level of technology growth and scaled innovation, was considered an impossibility in every economic textbook known to man between the 60s and the noughties
 
@@ -54,7 +54,7 @@ A Model that minimizes Individualism over Community
 
 However the advantages within the model can be replicated with suitable moderations in various countries
 
-![](https://qph.cf2.quoracdn.net/main-qimg-c54074754feac5c1dffb8b38afcf165e)
+![](_attachments/main-qimg-c54074754feac5c1dffb8b38afcf165e_1786696137039515.jpg)
 
 1. The Primary Education system which is rated the best in the world in basic learning (Probably until Ninth Grade after which the system becomes too examination obsessed)
 2. The Urban Management system which once again is best in the world according to the neutral assessors

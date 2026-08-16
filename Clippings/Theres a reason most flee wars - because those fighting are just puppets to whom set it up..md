@@ -23,7 +23,7 @@ The path to escaping this mechanical state and its destructive consequences is t
 
 This requires considerable personal effort to work on oneself and achieve true self-knowledge.
 
-![[images/9ab99637acfe1fd2a07a7c5e3ce64773_MD5.jpg]]
+![[_attachments/9ab99637acfe1fd2a07a7c5e3ce64773_MD5.jpg]]
 
 ---
 
@@ -37,7 +37,7 @@ This requires considerable personal effort to work on oneself and achieve true s
 > 
 > basically
 > 
-> ![[images/30dba6740309fa7fda6d0cbecb21666b_MD5.jpg]]
+> ![[_attachments/30dba6740309fa7fda6d0cbecb21666b_MD5.jpg]]
 
 > **Don't Tread on Memes @donttreadmemes** · [2025-11-04](https://x.com/donttreadmemes/status/1985766438200574076)
 > 

@@ -31,7 +31,7 @@ Liberals believe this as much as conservatives.Both blame men for poor female be
 
 > **ElectionMapsIF @ElectionMapsIF** · [2026-06-08](https://x.com/ElectionMapsIF/status/2064037744800563240)
 > 
-> ![[images/4eff74d1dc57cc90380fbe2ec77b70fc_MD5.jpg]]
+> ![[_attachments/4eff74d1dc57cc90380fbe2ec77b70fc_MD5.jpg]]
 > 
 > > **Adriana @Adriana19Flower** · [2026-06-08](https://x.com/Adriana19Flower/status/2064114192118841780)
 > > 

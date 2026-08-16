@@ -1,0 +1,128 @@
+/*
+    Obsidian Link Icons Snippet
+    Fixed for Callouts and Duplication (v2)
+*/
+
+/* --- General Variables & Setup --- */
+body {
+    /* These variables ensure consistent sizing and spacing. */
+    /* Adjust these values if you want to change icon size or spacing globally. */
+    --link-icon-size-internal: 1em; /* Size for internal link icons (larger) */
+    --link-icon-size-external: 1em; /* Size for external link icons (larger) */
+    --link-icon-spacing: 0.35em; /* Space between icon and link text */
+    --link-icon-vertical-offset: 0.12em; /* Adjust for vertical alignment */
+    /* Color variables with sensible fallbacks (theme variables may override these) */
+    --link-icon-color-internal: var(--color-accent, #6c839c);
+    --link-icon-color-external: var(--color-foreground, #4ea1ff);
+}
+
+/* --- Reading View (Unchanged) --- */
+
+/* Reading View internal links */
+.markdown-preview-view a.internal-link:not(.is-unresolved)::before {
+    content: ' ';
+    display: inline-block;
+    width: var(--link-icon-size-internal);
+    height: var(--link-icon-size-internal);
+    vertical-align: middle;
+    transform: translateY(var(--link-icon-vertical-offset));
+    margin-inline-end: var(--link-icon-spacing);
+    /* Use SVG as a mask so background-color controls the icon color reliably */
+    -webkit-mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 0 0 0 2 2h4"/><path d="M10 9H8"/><path d="M16 13H8"/><path d="M16 17H8"/></svg>');
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-position: center;
+    -webkit-mask-size: contain;
+    mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 0 0 0 2 2h4"/><path d="M10 9H8"/><path d="M16 13H8"/><path d="M16 17H8"/></svg>');
+    mask-repeat: no-repeat;
+    mask-position: center;
+    mask-size: contain;
+    background-color: var(--link-icon-color-internal);
+}
+
+/* Reading View external links */
+.markdown-preview-view a.external-link::before {
+    content: ' ';
+    display: inline-block;
+    width: var(--link-icon-size-external);
+    height: var(--link-icon-size-external);
+    vertical-align: middle;
+    transform: translateY(var(--link-icon-vertical-offset));
+    margin-inline-end: var(--link-icon-spacing);
+    -webkit-mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>');
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-position: center;
+    -webkit-mask-size: contain;
+    mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>');
+    mask-repeat: no-repeat;
+    mask-position: center;
+    mask-size: contain;
+    background-color: var(--link-icon-color-external);
+}
+
+
+/* --- Live Preview / Editing Mode (Fixed for Duplication) --- */
+
+/* 1. Internal Links [[WikiLinks]] */
+/* These are single elements, so they don't have the duplication issue. */
+.markdown-source-view.mod-cm6 .cm-hmd-internal-link::before {
+    content: ' ';
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: var(--link-icon-size-internal);
+    height: var(--link-icon-size-internal);
+    vertical-align: middle;
+    transform: translateY(var(--link-icon-vertical-offset));
+    margin-inline-end: var(--link-icon-spacing);
+    -webkit-mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 0 0 0 2 2h4"/><path d="M10 9H8"/><path d="M16 13H8"/><path d="M16 17H8"/></svg>');
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-position: center;
+    -webkit-mask-size: contain;
+    mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 0 0 0 2 2h4"/><path d="M10 9H8"/><path d="M16 13H8"/><path d="M16 17H8"/></svg>');
+    mask-repeat: no-repeat;
+    mask-position: center;
+    mask-size: contain;
+    background-color: var(--link-icon-color-internal);
+}
+
+/* 2. External Links [Text](URL) and Bare URLs */
+/* 
+   FIX: We exclude .cm-formatting-link. 
+   In Live Preview, [text](url) is split into:
+   1. [ (has .cm-formatting-link)
+   2. text (does NOT have .cm-formatting-link) -> We target this.
+   3. ](url) (has .cm-formatting-link)
+*/
+.markdown-source-view.mod-cm6 .cm-link:not(.cm-hmd-internal-link):not(.cm-formatting-link)::before {
+    content: ' ';
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: var(--link-icon-size-external);
+    height: var(--link-icon-size-external);
+    vertical-align: middle;
+    transform: translateY(var(--link-icon-vertical-offset));
+    margin-inline-end: var(--link-icon-spacing);
+    -webkit-mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>');
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-position: center;
+    -webkit-mask-size: contain;
+    mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>');
+    mask-repeat: no-repeat;
+    mask-position: center;
+    mask-size: contain;
+    background-color: var(--link-icon-color-external);
+}
+
+/* --- Compatibility / Overrides --- */
+
+/* If your theme already adds an external link arrow, this will remove it */
+.external-link {
+    background-image: none !important;
+    padding-inline-end: 0 !important;
+}
+
+/* Ensure the background of code within links doesn't interfere */
+:is(a.external-link, .cm-link .cm-underline, .cm-url:not(.cm-string) .cm-underline) code {
+    background-color: transparent !important;
+}

@@ -1,0 +1,215 @@
+
+
+.workspace-tab-header-container{     
+  background-color:  #292936 !important;   /* change the bar height */
+         
+}
+
+/* Ensure the close button and 3-dots button do not overlap */
+ .titlebar{
+  margin-right: 0px !important; /* spacing between icons */
+}
+
+
+/*.titlebar{
+  display: none !important;
+
+}*/
+
+/* === Bold text in READING mode === */
+.markdown-preview-view strong,
+.markdown-preview-view b {
+  font-weight: 1500 !important; /* or pick custom font-weight */
+  color: #9a9a9a !important; /* optional: gold color */
+}
+
+/* === Bold text in EDITING mode === */
+.cm-s-obsidian .cm-strong {
+  font-weight: 1000 !important; 
+  color: #81807d !important; /* optional */
+}
+
+
+
+.theme-dark.theme-dark {
+    --bg-hue: 230;
+    --bg-sat: 15%;
+
+     --text-normal: #8f8484 !important;
+    /* Note that `--color-accent-hsl` should have the same values as `--color-accent` */
+    --color-accent: hsl(183, 17%, 47%);
+    --color-accent-hsl: hsl(183, 17%, 47%);
+    --interactive-accent: hsl(185, 36%, 34%);
+
+    --alt-heading-color: hsl(233, 18%, 65%);
+    --secondary-accent: hsl(28, 19%, 37%);
+    --hover-accent: hsl(329, 20%, 52%);
+	--link-unresolved-color: hsl(101, 17%, 39%);
+}
+
+.nav-file-title,
+.nav-folder-title,
+.outline .tree-item-inner,
+.sidebar .view-header-title {
+  color: #8f8383 !important;
+}
+
+
+
+/* Make status bar thinner */
+.status-bar {
+  height: 20px !important;       /* 10px may cut off text, 16px is safer */
+  font-size: 8px !important;    /* smaller text to fit */
+  justify-content: flex-end;     /* push visible items to the right */
+  padding: 0 6px;                /* add a bit of breathing room */
+}
+
+
+/* Hide everything in status bar except word count*/
+.status-bar-item {
+  display: none !important;
+}
+
+/* Show word count */
+.status-bar-item.plugin-word-count {
+  display: flex !important;
+}
+
+
+
+.workspace-leaf-content[data-type="outline"] .tree-item-self.is-active {
+
+    background-color: #13141e !important;
+
+    border-radius: 9px;
+}
+
+.workspace-leaf-content[data-type="outline"] .tree-item-self{
+  background-color: #272a3e !important;
+  color: rgb(107, 104, 104) !important;
+
+}
+
+
+.workspace-leaf-content[data-type="outline"] .tree-item-self:hover{
+  color: lightblue !important;
+
+
+
+}
+/* 🔹 Selected text background + text color */
+.cm-s-obsidian ::selection {
+  background: rgb(52, 81, 84) !important;
+  
+}
+
+/* 🔹 Reading mode selections */
+.markdown-preview-view ::selection {
+  background: rgb(52, 81, 84) !important;
+}
+
+
+
+/* ===== NUCLEAR: force #full images to render at 100% immediately ===== */
+
+/* Target wrappers and attributes that embed images with #full */
+.markdown-preview-view [src$="#full"],
+.markdown-preview-view [src*="#full"],
+.markdown-preview-view [data-src$="#full"],
+.markdown-preview-view [data-src*="#full"],
+[src$="#full"],
+[src*="#full"],
+[data-src$="#full"],
+[data-src*="#full"] {
+  display: block !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+  box-sizing: border-box !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  overflow: visible !important;
+  background-size: 100% 100% !important;
+  background-repeat: no-repeat !important;
+  background-position: left top !important;
+}
+
+/* Direct <img> matches (covers lazy-loading, data-src, etc.) */
+.markdown-preview-view img[src$="#full"],
+.markdown-preview-view img[src*="#full"],
+img[src$="#full"],
+img[src*="#full"],
+img[data-src$="#full"],
+img[data-src*="#full"] {
+  display: block !important;
+  width: 100% !important;     /* fill width of container */
+  max-width: 100% !important;
+  min-width: 0 !important;
+  height: auto !important;    /* keep aspect ratio */
+  max-height: none !important;
+  object-fit: contain !important;
+  transform: none !important;
+  transition: none !important;
+  animation: none !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  will-change: auto !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  box-sizing: border-box !important;
+}
+
+/* If the theme adds .is-loading / .is-loaded toggles */
+.markdown-preview-view .is-loading img,
+.markdown-preview-view img.is-loading,
+.markdown-preview-view .image-embed.is-loading,
+.markdown-preview-view .internal-embed.is-loading {
+  max-height: none !important;
+  height: auto !important;
+}
+
+/* Force embed containers to stretch so image has full width to fill */
+.markdown-preview-view .internal-embed,
+.markdown-preview-view .image-embed,
+.markdown-preview-view figure,
+.internal-embed,
+.image-embed,
+figure {
+  width: 100% !important;
+  max-width: 100% !important;
+  align-self: stretch !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  box-sizing: border-box !important;
+}
+
+/* If you *want* the image to truly cover the container (may crop vertically) */
+.markdown-preview-view img[src$="#full"].cover,
+.markdown-preview-view [src$="#full"] img.cover {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+}
+
+/* Kill inline style-based shrinking (themes/plugins sometimes add style="transform:scale()") */
+.markdown-preview-view img[style*="transform"],
+.markdown-preview-view img[style*="max-height"],
+img[style*="transform"],
+img[style*="max-height"] {
+  transform: none !important;
+  transition: none !important;
+  animation: none !important;
+  max-height: none !important;
+  height: auto !important;
+}
+
+
+/* Hide captions only if the image has #nocap */
+div[src$="#nocap"] figcaption,
+div[src*="#nocap"] figcaption,
+span[src$="#nocap"] figcaption,
+span[src*="#nocap"] figcaption,
+img[src$="#nocap"] + figcaption,
+img[src*="#nocap"] + figcaption {
+  display: none !important;
+}

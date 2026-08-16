@@ -18,7 +18,7 @@ Lets see the KCET, EAMCET, COMEDK, BITSAT and all those examinations
 
 Has India seen a huge skilled workforce?
 
-![](https://qph.cf2.quoracdn.net/main-qimg-42bebd79845f7a2371c78c209fa65cd1)
+![](_attachments/main-qimg-42bebd79845f7a2371c78c209fa65cd1_17866961375963812.jpg)
 
 Yes we have a large IT pool
 
@@ -56,11 +56,11 @@ Why not just ensure the Syllabus is made far more relevant to STEM and rely on t
 
 I mean Indians who truly achieved SOMETHING at least - how many of them wrote entrance examinations?
 
-![](https://qph.cf2.quoracdn.net/main-qimg-d5a5912089d20790072d68b67c4ec022)
+![](_attachments/main-qimg-d5a5912089d20790072d68b67c4ec022_1786696137740867.jpg)
 
-![](https://qph.cf2.quoracdn.net/main-qimg-8c7cc941309870cf219f7f630c1f0ee2)
+![](_attachments/main-qimg-8c7cc941309870cf219f7f630c1f0ee2_1786696137714627.jpg)
 
-![](https://qph.cf2.quoracdn.net/main-qimg-6e5339df7864b6d27550ca65223a734b)
+![](_attachments/main-qimg-6e5339df7864b6d27550ca65223a734b_17866961376910193.jpg)
 
 Nambi, Chidambaram, Somnath, Those BARC scientists who helped us in our Nuclear Program
 
@@ -72,9 +72,9 @@ I am sure people like [Gopalkrishna Vishwanath](https://www.quora.com/profile/Go
 
 Even the Boomers like Bhalerao and Milind Joshi who are successful Professionals in their lives, didn't write entrance exams did they ?
 
-![](https://qph.cf2.quoracdn.net/main-qimg-fa82b7231a95561c285961405faad399)
+![](_attachments/main-qimg-fa82b7231a95561c285961405faad399_17866961377113047.jpg)
 
-![](https://qph.cf2.quoracdn.net/main-qimg-c884c08e2f95945aed39dbda4a1f0d7a)
+![](_attachments/main-qimg-c884c08e2f95945aed39dbda4a1f0d7a_17866961379074311.jpg)
 
 Korea has the SUNEUNG
 

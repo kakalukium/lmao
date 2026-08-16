@@ -27,7 +27,7 @@ And the question is, are you calm and rational in a crisis, or are you easily ov
 > Once the danger has passed, high levels of cholinesterase and healthy liver enzymes break down the stress hormones, returning the energized individual to a relaxed baseline, where hunger and sleepiness are restored to replenish, recover, and prepare for the next stressful event.
 
 > 
-> ![[images/740dfc4ca447d5710da5b1087e913f8a_MD5.jpg]]
+> ![[_attachments/740dfc4ca447d5710da5b1087e913f8a_MD5.jpg]]
 
 ---
 

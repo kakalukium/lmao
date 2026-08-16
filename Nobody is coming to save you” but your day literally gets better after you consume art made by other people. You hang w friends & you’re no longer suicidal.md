@@ -18,14 +18,14 @@ Ebibaby
 
 17h
 
-“Nobody is coming to save you” but your day literally gets better after you consume art made by other people. You hang w friends & you’re no longer suicidal, even if just for a few minutes. They’re lying to you about the significance of community. People are saving you EVERYDAY![13K](https://x.com/Ebibabyy/status/2077348709583433862/analytics)[скибидиктатор](https://x.com/brupropaganda)[@brupropaganda](https://x.com/brupropaganda)
+“Nobody is coming to save you” but your day literally gets better after you consume art made by other people. You hang w friends & you’re no longer suicidal, even if just for a few minutes. They’re lying to you about the significance of community. People are saving you EVERYDAY![13K](_attachments/analytics_17866961375029068.jpg)[скибидиктатор](https://x.com/brupropaganda)[@brupropaganda](https://x.com/brupropaganda)
 
 it sounds like we live in society so ofc we have to interact with other people? like yeah i have to rely on my employer (another person) so he pays me money for my job so i can use it to see a therapist (another person) to fix my mental health problems... is that community tho?
 
 well no? the message isn’t about simply interacting especially when it comes to capitalistic structures, it’s about meaningful interactions with anyone that actively nourishes your wellbeing or anothers
 ## Conversation[Ebibaby](https://x.com/Ebibabyy)[@Ebibabyy](https://x.com/Ebibabyy)
 
-“Nobody is coming to save you” but your day literally gets better after you consume art made by other people. You hang w friends & you’re no longer suicidal, even if just for a few minutes. They’re lying to you about the significance of community. People are saving you EVERYDAY![949K](https://x.com/Ebibabyy/status/2077279515097571802/analytics)[Mick Mangles](https://x.com/itsyaboidougie)[@itsyaboidougie](https://x.com/itsyaboidougie)
+“Nobody is coming to save you” but your day literally gets better after you consume art made by other people. You hang w friends & you’re no longer suicidal, even if just for a few minutes. They’re lying to you about the significance of community. People are saving you EVERYDAY![949K](_attachments/analytics_17866961375026603.jpg)[Mick Mangles](https://x.com/itsyaboidougie)[@itsyaboidougie](https://x.com/itsyaboidougie)
 
 [11h](https://x.com/itsyaboidougie/status/2077370042526876099)
 

@@ -49,7 +49,7 @@ The dependency just migrated from ICE to EV with different foreign names.
 https://swarajyamag.com/technology/the-electronic-controls-india-never-built
 
 
-[![Image](https://pbs.twimg.com/media/HEGIMI_aoAA8AU3?format=jpg&name=900x900)]
+[![Image](_attachments/HEGIMI_aoAA8AU3_17866961242033079.jpg)]
 6:08 PM · Mar 23, 2026
 ·
 400K
@@ -84,7 +84,7 @@ One last thing, I read all the comments on my tweets and I feel people hope too 
 
 But India is a country that disappoints both optimists and pessimists. That is just its nature.
 
-[![Image](https://pbs.twimg.com/media/HEJ-6I6aIAAo0Ck?format=png&name=900x900)]
+[![Image](_attachments/HEJ-6I6aIAAo0Ck_17866961240934033.jpg)]
 Quote
 
 

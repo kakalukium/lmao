@@ -50,4 +50,4 @@ I finally understand what Machiavelli meant when he said, “Never play fair in 
 > 
 > I think there's some practical use to what you have asserted, however, Machiavelli did not say what you've quoted, which makes me question if you actually read the Prince or you're rewording someone else's opinion. This is disengenious & a slap to others who actually read books.
 > 
-> ![[images/afa5324483c8a5272292a969d5b37d25_MD5.jpg]]![[images/221dbe0cc9833400c311caf213e805bc_MD5.jpg]]![[images/2059ccde4bf06a907bc98ed5d9c1b4b8_MD5.jpg]]
+> ![[_attachments/afa5324483c8a5272292a969d5b37d25_MD5.jpg]]![[_attachments/221dbe0cc9833400c311caf213e805bc_MD5.jpg]]![[_attachments/2059ccde4bf06a907bc98ed5d9c1b4b8_MD5.jpg]]

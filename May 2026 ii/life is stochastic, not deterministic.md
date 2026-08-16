@@ -15,7 +15,7 @@ the deep structure is asymmetry… small, capped, survivable losses & huge, rare
 
 the winners aren’t playing a straight game.
 
-![](https://substackcdn.com/image/fetch/$s_!CUa0!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0266f56-1ca5-4edb-8d97-f5ce09294d1a_2000x2000.png)
+![](_attachments/e0266f56-1ca5-4edb-8d97-f5ce09294d1a_2000x2000_1786696114053126.png)
 
 they are positioning themselves inside randomness, then surviving long enough for variance to finally save them.
 

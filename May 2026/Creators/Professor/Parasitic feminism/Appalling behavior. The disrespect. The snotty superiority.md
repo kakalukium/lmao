@@ -11,7 +11,7 @@ Men today need to become much more willing to clearly mark boundaries, defend th
 > 
 > One insane thing about being married with children is how comfortable other women are with disrespecting your husband in front of you and expecting you to clap like a seal. It’s the woman version of ball and chain jokes.
 > 
-> ![Image](https://pbs.twimg.com/media/HJbQZY0WkAQQXNA?format=jpg&name=large)
+> ![Image](_attachments/HJbQZY0WkAQQXNA_17866961861099863.jpg)
 
 ---
 

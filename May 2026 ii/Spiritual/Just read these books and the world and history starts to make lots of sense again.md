@@ -20,7 +20,7 @@ Let's see what your best guess is
 > 
 > Just read these books and the world and history starts to make lots of sense again.
 > 
-> ![[images/1b727ecacc3585502da185db12a02555_MD5.jpg]]![[images/ae8c3ea56eff75eabae42386b1527fb3_MD5.jpg]]![[images/31dc343d96a86932adc34a65165035c1_MD5.jpg]]![[images/9aeca35ca65a2a9c3dc9e9d1943933a8_MD5.jpg]]
+> ![[_attachments/1b727ecacc3585502da185db12a02555_MD5.jpg]]![[_attachments/ae8c3ea56eff75eabae42386b1527fb3_MD5.jpg]]![[_attachments/31dc343d96a86932adc34a65165035c1_MD5.jpg]]![[_attachments/9aeca35ca65a2a9c3dc9e9d1943933a8_MD5.jpg]]
 > 
 > > **Ryan Clark @RyanClark194438** · [2026-05-26](https://x.com/RyanClark194438/status/2059391432075407857)
 > > 
@@ -44,30 +44,30 @@ Let's see what your best guess is
 > > > 
 > > > Let those with ears hear. And those with eyes see.
 > > > 
-> > > ![[images/9aeca35ca65a2a9c3dc9e9d1943933a8_MD5.jpg]]![[images/ae8c3ea56eff75eabae42386b1527fb3_MD5.jpg]]![[images/31dc343d96a86932adc34a65165035c1_MD5.jpg]]![[images/20f60db9f0b9316bc432843a86f10331_MD5.jpg]]
+> > > ![[_attachments/9aeca35ca65a2a9c3dc9e9d1943933a8_MD5.jpg]]![[_attachments/ae8c3ea56eff75eabae42386b1527fb3_MD5.jpg]]![[_attachments/31dc343d96a86932adc34a65165035c1_MD5.jpg]]![[_attachments/20f60db9f0b9316bc432843a86f10331_MD5.jpg]]
 
 > **Hans Von Sebottendorff @HyperboreanMonk** · [2026-05-26](https://x.com/HyperboreanMonk/status/2059396287082951157)
 > 
-> ![[images/5292d6755fb566a1374bd0cd62c0c001_MD5.jpg]]![[images/460240a8725000ffc0ab419e79c3c852_MD5.jpg]]![[images/d62f1119d82cdf18ba42bafffaf7b85d_MD5.jpg]]
+> ![[_attachments/5292d6755fb566a1374bd0cd62c0c001_MD5.jpg]]![[_attachments/460240a8725000ffc0ab419e79c3c852_MD5.jpg]]![[_attachments/d62f1119d82cdf18ba42bafffaf7b85d_MD5.jpg]]
 
 > **Hans Von Sebottendorff @HyperboreanMonk** · [2026-05-26](https://x.com/HyperboreanMonk/status/2059399395368476690)
 > 
-> ![[images/89fc660b7ec7d1de6c79c08e792687af_MD5.jpg]]![[images/bfb0fd1015f6616e845d767cc292418f_MD5.jpg]]![[images/d2b62182537d80e0ff695cd844f51d8b_MD5.jpg]]![[images/e7f7db8d9a96fa292ad87f381f9c196d_MD5.jpg]]
+> ![[_attachments/89fc660b7ec7d1de6c79c08e792687af_MD5.jpg]]![[_attachments/bfb0fd1015f6616e845d767cc292418f_MD5.jpg]]![[_attachments/d2b62182537d80e0ff695cd844f51d8b_MD5.jpg]]![[_attachments/e7f7db8d9a96fa292ad87f381f9c196d_MD5.jpg]]
 > ---
 
-![[images/22a1b7c7714f52d7153c0b648d112fc3_MD5.jpg]]![[images/5c863fb2741890e07d617eb27c315a22_MD5.jpg]]![[images/0ae99faf4fa60d2fc5e56ffc95687374_MD5.jpg]]![[images/99387db578a2322d1d8466533e201108_MD5.jpg]]
+![[_attachments/22a1b7c7714f52d7153c0b648d112fc3_MD5.jpg]]![[_attachments/5c863fb2741890e07d617eb27c315a22_MD5.jpg]]![[_attachments/0ae99faf4fa60d2fc5e56ffc95687374_MD5.jpg]]![[_attachments/99387db578a2322d1d8466533e201108_MD5.jpg]]
 
 ---
 
-![[images/3420c6c248fbf77457e49431e9b73f58_MD5.jpg]]![[images/6a00702e60d1d404845fadc85d546de9_MD5.jpg]]![[images/82b10aea1e6e20c37cc3d8288541a65d_MD5.jpg]]![[images/b695e48375f6ce5f8784e9f6060dbea0_MD5.jpg]]
+![[_attachments/3420c6c248fbf77457e49431e9b73f58_MD5.jpg]]![[_attachments/6a00702e60d1d404845fadc85d546de9_MD5.jpg]]![[_attachments/82b10aea1e6e20c37cc3d8288541a65d_MD5.jpg]]![[_attachments/b695e48375f6ce5f8784e9f6060dbea0_MD5.jpg]]
 
 ---
 
 The bloodlines is called the Merovingian bloodline. When the antichrist comes, look for the name St. Clair or Sinclair
 
-![[images/1b727ecacc3585502da185db12a02555_MD5.jpg]]![[images/87f9e22c97629117793c135fbcddfa58_MD5.jpg]]![[images/2236bfe6fda7d83282aa8181f6e4ad9d_MD5.jpg]]![[images/a43470ba41b25f634e51c1536c1e98aa_MD5.jpg]]
+![[_attachments/1b727ecacc3585502da185db12a02555_MD5.jpg]]![[_attachments/87f9e22c97629117793c135fbcddfa58_MD5.jpg]]![[_attachments/2236bfe6fda7d83282aa8181f6e4ad9d_MD5.jpg]]![[_attachments/a43470ba41b25f634e51c1536c1e98aa_MD5.jpg]]
 
 ---
 
-![[images/086471befe1eeb8420fcb072e3ce3aca_MD5.jpg]]![[images/8e4877191b1a2b8727220f50610d4ba5_MD5.jpg]]![[images/e7facd1bb3c204dc02cf5bf55f32e8f1_MD5.jpg]]
+![[_attachments/086471befe1eeb8420fcb072e3ce3aca_MD5.jpg]]![[_attachments/8e4877191b1a2b8727220f50610d4ba5_MD5.jpg]]![[_attachments/e7facd1bb3c204dc02cf5bf55f32e8f1_MD5.jpg]]
 

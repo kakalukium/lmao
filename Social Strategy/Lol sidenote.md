@@ -21,5 +21,5 @@ On the
 
 glance
 
-![[Screenshot_2025-07-12-16-01-34-295_com.twitter.android.jpg|337x749]]
-![[image-14.png|653]]
+![[_attachments/Screenshot_2025-07-12-16-01-34-295_com.twitter.android.jpg|337x749]]
+![[_attachments/image-14.png|653]]

@@ -12,7 +12,7 @@ Jun 23
 
 It’s all so exhausting
 
-[![[images/8440fdabd7d068c9cef9a613c4b60470_MD5.jpg]]](https://x.com/PlisskenPatriot/status/2069242896650301568/photo/1)
+[![[_attachments/8440fdabd7d068c9cef9a613c4b60470_MD5.jpg]]](https://x.com/PlisskenPatriot/status/2069242896650301568/photo/1)
 
 [View quotes](https://x.com/maggiemoda/status/2069378871124758802/quotes)[Jaycee Denton](https://x.com/Jayceedenton12)[@Jayceedenton12](https://x.com/Jayceedenton12)
 

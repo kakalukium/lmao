@@ -1,0 +1,1205 @@
+/* ==========================================================================
+   1. CODE BLOCK VARIABLES & SYNTAX TOKENS (HEX)
+   ========================================================================== */
+.theme-dark {
+  --code-font-weight: 550; /* Weight applied to all code */
+  --inline-code: #d18989;
+  --code-background: #1e2224;
+  --code-radius: 8px;
+  --code-border-color: #4d5356bf;
+  --code-border-width: 1px;
+
+  /* Syntax Highlighting Colors */
+  --code-function: #7eb8f1;
+  --code-important: #bab3ef;
+  --code-keyword: #bab3ef;
+  --code-property: #d6b685;
+  --code-punctuation: #889297;
+  --code-operator: var(--code-punctuation);
+  --code-class: #cea38d;
+  --code-string: #93c89c;
+  --code-tag: #d18989;
+  --code-value: #7ec8c5;
+  --code-comment: #6a7479;
+  --code-variable: #d6b685;
+  --code-normal: #c8d3d9;
+}
+
+/* Apply bold/medium weight to all inline and block code */
+code,
+pre,
+pre code,
+.cm-inline-code,
+.HyperMD-codeblock,
+.code-block-flair {
+  font-weight: var(--code-font-weight) !important;
+}
+
+/* ==========================================================================
+   2. INLINE CODE STYLING
+   ========================================================================== */
+/* Reading View Inline Code */
+.markdown-rendered :not(pre) > code {
+  color: var(--inline-code);
+  background-color: var(--code-background);
+  border-radius: var(--radius-s);
+  padding: 0.15em 0.35em;
+  border: var(--code-border-width) solid var(--code-border-color);
+}
+
+.markdown-preview-view pre code {
+  color: var(--code-normal);
+  background-color: transparent;
+  border: none;
+  border-radius: 0;
+  padding: 0;
+}
+
+/* Live Preview Inline Code */
+.cm-inline-code {
+  color: var(--inline-code) !important;
+  background-color: var(--code-background);
+  border: var(--code-border-width) solid var(--code-border-color);
+  border-radius: var(--radius-s);
+  padding-inline: 0.3em;
+}
+
+.cm-inline-code * {
+  color: var(--inline-code) !important;
+}
+
+/* Clean connected formatting backticks for inline code */
+.cm-formatting-code:has(+ .cm-inline-code) {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-right: 0;
+}
+.cm-formatting-code + .cm-inline-code {
+  border-radius: 0;
+  border-inline: 0;
+  padding: 0;
+}
+.cm-inline-code + .cm-formatting-code {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-left: 0;
+}
+
+/* --- REMOVE OUTLINE & BOX FROM TRIPLE BACKTICKS (```) --- */
+.cm-formatting-code-block,
+.cm-hmd-codeblock.cm-formatting,
+.HyperMD-codeblock-begin .cm-formatting,
+.HyperMD-codeblock-end .cm-formatting {
+  border: none !important;
+  background: transparent !important;
+  box-shadow: none !important;
+  outline: none !important;
+  padding: 0 !important;
+  color: var(--text-faint) !important;
+}
+
+/* ==========================================================================
+   3. CODEBLOCKS STRUCTURE (LIVE PREVIEW & READING VIEW)
+   ========================================================================== */
+
+/* --- Live Preview (Editor) --- */
+.cm-s-obsidian .cm-line.HyperMD-codeblock {
+  line-height: calc(var(--line-height-normal) - 0.2);
+  color: var(--code-normal) !important;
+  background-color: var(--code-background);
+  border-inline: var(--code-border-width) solid var(--code-border-color);
+  border-radius: 0 !important;
+  padding-inline: var(--size-4-3) !important;
+}
+
+.cm-s-obsidian .cm-line.HyperMD-codeblock.HyperMD-codeblock-begin-bg {
+  border-top: var(--code-border-width) solid var(--code-border-color);
+  border-start-start-radius: var(--code-radius) !important;
+  border-start-end-radius: var(--code-radius) !important;
+  margin-top: var(--size-4-2) !important;
+}
+
+.cm-s-obsidian .cm-line.HyperMD-codeblock.HyperMD-codeblock-end-bg {
+  border-bottom: var(--code-border-width) solid var(--code-border-color);
+  border-end-start-radius: var(--code-radius) !important;
+  border-end-end-radius: var(--code-radius) !important;
+  margin-bottom: var(--size-4-2) !important;
+}
+
+/* Live Preview Top-Right Language Badge */
+.markdown-source-view.mod-cm6 .code-block-flair {
+  color: var(--inline-code) !important;
+  font-size: 0.85em;
+  padding: 2px 6px;
+  top: var(--size-4-1);
+  right: var(--size-4-2);
+  border-radius: var(--radius-s);
+  background-color: transparent;
+  transition: background-color var(--animation-fast);
+}
+
+.markdown-source-view.mod-cm6 .code-block-flair:hover {
+  background-color: var(--background-modifier-hover);
+}
+
+/* --- Reading View --- */
+body .markdown-rendered pre {
+  background-color: var(--code-background) !important;
+  border: var(--code-border-width) solid var(--code-border-color);
+  border-radius: var(--code-radius);
+  padding: calc(var(--line-height-tight) * 0.9em) calc(var(--line-height-normal) * 0.9em);
+  margin-block: var(--size-4-3);
+  position: relative;
+  transition: border-color var(--animation-fast);
+}
+
+body .markdown-rendered pre:hover {
+  border-color: var(--background-modifier-border-hover);
+}
+
+/* Reading View Language Indicator Badge & Copy Button */
+body .markdown-rendered pre[class*='language-'] .copy-code-button {
+  padding: 2px 8px;
+  opacity: 1 !important;
+  border-radius: var(--radius-s);
+  background-color: transparent;
+  transition: background-color var(--animation-fast);
+}
+
+body .markdown-rendered pre[class*='language-'] .copy-code-button:hover {
+  background-color: var(--background-modifier-hover);
+}
+
+/* Swap copy icon for language text */
+body .markdown-rendered pre[class*='language-'] .copy-code-button:not([style*="display: inline-flex"]):not([style*="color: var(--text-success)"]) svg {
+  display: none;
+}
+
+body .markdown-rendered pre[class*='language-'] .copy-code-button:not([style*="display: inline-flex"]):not([style*="color: var(--text-success)"])::before {
+  content: var(--code-lang, "Code");
+  color: var(--inline-code);
+  font-weight: 600;
+  font-size: 0.85em;
+}
+
+/* ==========================================================================
+   4. LANGUAGE LOOKUP DEFINITIONS
+   ========================================================================== */
+pre:is(.language-javascript, .language-js) { --code-lang: "JavaScript"; }
+pre:is(.language-typescript, .language-ts) { --code-lang: "TypeScript"; }
+pre:is(.language-typescript-jsx, .language-tsx) { --code-lang: "TSX"; }
+pre.language-jsx { --code-lang: "JSX"; }
+pre:is(.language-python, .language-py) { --code-lang: "Python"; }
+pre:is(.language-bash, .language-sh, .language-shell) { --code-lang: "Bash"; }
+pre:is(.language-csharp, .language-cs, .language-dotnet) { --code-lang: "C#"; }
+pre:is(.language-cpp, .language-c\+\+) { --code-lang: "C++"; }
+pre.language-c { --code-lang: "C"; }
+pre:is(.language-rust, .language-rs) { --code-lang: "Rust"; }
+pre.language-go { --code-lang: "Go"; }
+pre.language-java { --code-lang: "Java"; }
+pre.language-html { --code-lang: "HTML"; }
+pre.language-css { --code-lang: "CSS"; }
+pre.language-scss { --code-lang: "SCSS"; }
+pre.language-sass { --code-lang: "Sass"; }
+pre:is(.language-markdown, .language-md) { --code-lang: "Markdown"; }
+pre.language-json { --code-lang: "JSON"; }
+pre:is(.language-yaml, .language-yml) { --code-lang: "YAML"; }
+pre.language-sql { --code-lang: "SQL"; }
+pre:is(.language-latex, .language-tex) { --code-lang: "LaTeX"; }
+pre.language-lua { --code-lang: "Lua"; }
+pre.language-dockerfile { --code-lang: "Dockerfile"; }
+pre.language-php { --code-lang: "PHP"; }
+pre.language-ruby { --code-lang: "Ruby"; }
+pre.language-swift { --code-lang: "Swift"; }
+pre.language-kotlin { --code-lang: "Kotlin"; }
+pre.language-r { --code-lang: "R"; }
+pre.language-dart { --code-lang: "Dart"; }
+pre.language-xml { --code-lang: "XML"; }
+pre.language-powershell { --code-lang: "PowerShell"; }
+pre.language-toml { --code-lang: "TOML"; }
+pre.language-diff { --code-lang: "Diff"; }
+pre.language-mermaid { --code-lang: "Mermaid"; }
+
+/* ==========================================================================
+   5. SYNTAX HIGHLIGHTING COLORS & WEIGHT
+   ========================================================================== */
+.theme-dark :is(.markdown-rendered, .markdown-source-view.mod-cm6) {
+  .token.script { color: var(--code-normal); }
+  .token.imports { color: var(--code-variable); }
+  .token:is(.builtin, .regex, .keyword) { font-style: italic; color: var(--code-important); }
+  .token:is(.selector, .inserted, .char, .attr-value) { color: var(--color-green); }
+  .token:is(.class-name, .maybe-class-name, .color) { color: var(--code-class); }
+  .token:is(.property-access, .attr-name, .annotation, .key, .entity, .parameter, .url) { color: var(--code-variable); }
+  .token:is(.comment, .prolog, .doctype, .cdata) { color: var(--code-comment); font-style: italic; font-weight: 400 !important; }
+  
+  .cm-tag { color: var(--code-tag); }
+  :is(.cm-punctuation, .cm-bracket, .cm-hr, .cm-operator) { color: var(--code-punctuation); }
+  .cm-number { color: var(--code-value); }
+  :is(.cm-qualifier, .cm-string:not(.cm-url), .cm-string-2, .cm-meta:not(.cm-hashtag)) { color: var(--code-string); }
+  :is(.cm-def, .cm-property, .cm-number + .cm-variable, .cm-attribute, .cm-atom) { color: var(--code-property); }
+  :is(.cm-type, .cm-builtin) { color: var(--code-keyword); }
+  .cm-keyword { font-style: italic; }
+  .cm-variable { color: var(--code-function); }
+  .cm-variable-2 { color: var(--code-value); }
+  .cm-variable-3 { filter: hue-rotate(40deg); }
+}
+/* ==========================================================================
+   1. GLOBAL TOKENS & DARK THEME COLOR SCHEME (HEX)
+   ========================================================================== */
+.theme-dark {
+  /* Accent Colors (HEX) */
+  --base-accent-h: 205;
+  --theme-accent-h: var(--base-accent-h);
+  --color-opacity: 1;
+
+  --accent-active: #678aa2;
+  --accent-active-bg: #678aa2;
+  --accent-inactive: #48535b;
+  --color-accent: #678aa2;
+
+  /* Multi-color Semantic Palette (HEX) */
+  --color-red: #d18989;
+  --color-orange: #cea38d;
+  --color-yellow: #d6b685;
+  --color-green: #93c89c;
+  --color-cyan: #7ec8c5;
+  --color-blue: #7eb8f1;
+  --color-purple: #bab3ef;
+
+  /* Base Backgrounds (HEX) */
+  --background-primary: #1a1c1e;
+  --background-primary-alt: #1e2224;
+  --background-secondary: #1d1f20;
+
+  /* Text & Selection (HEX) */
+  --text-normal: #e8f3f7bf;
+  --text-on-accent: #eaeaea !important;
+  --text-selection: #678aa240;
+
+  /* Hover & Borders (HEX with alpha) */
+  --background-modifier-hover: #3a4d5f33;
+  --background-modifier-border: #4d5356bf;
+  --background-modifier-border-hover: #70899999;
+
+  /* Animation */
+  --animation-dur: 250ms;
+  --animation-fast: calc(var(--animation-dur) / 2) var(--anim-motion-smooth);
+  --animation: var(--animation-dur) var(--anim-motion-smooth);
+  --animation-slow: calc(var(--animation-dur) * 2) var(--anim-motion-smooth);
+
+  /* Navigation & Lines */
+  --divider-color: transparent;
+  --nav-item-background-active: var(--accent-active-bg);
+  --nav-item-background-selected: var(--background-modifier-hover);
+
+  /* Spacing & Line Height */
+  --line-height-normal: 1.6;
+  --line-height-tight: 1.5;
+  --p-spacing: 8px;
+}
+
+/* ==========================================================================
+   2. WORKSPACE GRADIENT BACKGROUND & CARD LAYOUT (USER PRESERVED)
+   ========================================================================== */
+body.theme-dark {
+  --tab-divider-color: var(--color-base-35);
+  --tab-active-shadow: none !important;
+  --app-layout-spacing: 6px;
+
+  --app-bg-image: linear-gradient(320deg, #36323e, #364f59);
+
+  background-color: transparent;
+  background-image: var(--app-bg-image);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+
+  /* Preserved User Override */
+  --bg-opacity: 0.6;
+  --editor-min-opacity: 0.85;
+  --bg-editor: #141313cc;
+  --bg-surface: #1d1f2099;
+}
+
+body.theme-dark :is(.titlebar, .workspace) {
+  --frame-bg: transparent !important;
+}
+
+body.theme-dark .mod-root .workspace-tab-container {
+  padding: var(--app-layout-spacing);
+  padding-top: 0;
+}
+
+body.theme-dark .mod-root .workspace-tab-container .workspace-leaf-content {
+  border-radius: var(--radius-m);
+  background-color: var(--bg-editor);
+  border: 1px solid var(--background-modifier-border);
+}
+
+body.theme-dark .workspace-split {
+  background-color: var(--bg-surface);
+}
+
+body.theme-dark .workspace-ribbon {
+  --ribbon-background: var(--bg-surface);
+  --ribbon-background-collapsed: var(--bg-surface);
+}
+
+body.theme-dark .workspace-ribbon::before {
+  background-color: var(--bg-surface);
+}
+
+body.theme-dark :is(
+  .workspace-tab-header-container,
+  .workspace-tab-header-container-inner,
+  .titlebar-button-container,
+  .sidebar-toggle-button,
+  .workspace-split:not(.mod-root) .workspace-tabs .workspace-leaf,
+  .workspace-split.mod-root .workspace-tabs:not(.mod-stacked) .workspace-leaf,
+  .workspace-split.mod-root .workspace-split,
+  .pdf-toolbar,
+  .workspace-leaf-content[data-type='empty'],
+  .workspace-leaf-content:not([data-type='empty']) :is(.view-content, .view-header)
+) {
+  background-color: transparent;
+}
+
+/* ==========================================================================
+   3. FLOATING TABS, TITLEBAR & STATUSBAR
+   ========================================================================== */
+body.theme-dark {
+  --tab-radius: 6px;
+  --tab-stacked-header-width: 40px;
+}
+
+body.theme-dark .mod-root .workspace-tab-header {
+  padding-block: 0 !important;
+  transition: var(--animation);
+  transition-property: color, width, background-color, border-color;
+  --tab-curve: 0;
+  --tab-radius-active: var(--radius-m);
+  border: 1px solid transparent;
+  background-color: transparent;
+}
+
+body.theme-dark .mod-root .workspace-tab-header:hover {
+  background-color: var(--background-modifier-hover);
+}
+
+body.theme-dark .mod-root .workspace-tab-header.is-active {
+  border-color: var(--background-modifier-border);
+  background-color: #1a1c1ed9;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+body.theme-dark .mod-root .workspace-tab-header-container {
+  translate: calc(-1 * var(--size-4-1));
+}
+
+body.theme-dark .mod-root .workspace-tab-header-container-inner {
+  margin-top: var(--size-4-1);
+  padding-bottom: var(--size-4-1);
+  padding-left: 5px;
+}
+
+body.theme-dark .mod-root .workspace-tab-header-inner {
+  transition: background-color var(--animation-fast);
+}
+
+body.theme-dark .mod-root .workspace-tab-header-inner-close-button {
+  padding: var(--size-2-1);
+  border-radius: var(--radius-s);
+  transition: background-color var(--animation-fast);
+}
+
+body.theme-dark .mod-root .workspace-tab-header-inner-close-button:hover {
+  background-color: var(--background-modifier-hover);
+}
+
+body.theme-dark .titlebar-button.mod-close:hover {
+  background-color: #e75552 !important;
+  color: var(--text-on-accent);
+}
+
+body.theme-dark {
+  --status-bar-background: #1d1f20;
+  --status-bar-border-color: var(--background-modifier-border);
+  --status-bar-radius: 6px;
+  --status-bar-border-width: 1px;
+}
+
+body.theme-dark .status-bar {
+  padding: var(--size-4-1);
+  bottom: var(--size-4-1);
+  right: var(--size-4-1);
+  box-shadow: var(--shadow-s);
+}
+
+/* ==========================================================================
+   4. SIDEBAR, FOLDER ICONS, NOTE ICONS & TREE STYLING (FROM OG MAPLE)
+   ========================================================================== */
+body.theme-dark {
+  --file-folding-offset: 28px;
+  --folder-color: #d0a416;
+  --nav-item-size: calc(var(--size-4-4) * 0.9);
+  --nav-indentation-guide-color: #48535b;
+  --nav-indentation-guide-width: 1.8px;
+  --nav-item-children-padding-left: var(--size-4-2);
+}
+
+/* Base Nav Items */
+.theme-dark :is(.nav-file-title, .nav-folder-title) {
+  --nav-item-color-active: var(--text-on-accent);
+  border-radius: var(--radius-s);
+  transition: background-color var(--animation-fast);
+}
+
+.theme-dark :is(.nav-file-title, .nav-folder-title).is-being-dragged {
+  background-color: var(--accent-inactive);
+  color: var(--text-normal);
+}
+
+.theme-dark :is(.nav-file-title, .nav-folder-title).is-being-renamed {
+  background-color: var(--nav-item-background-selected) !important;
+  --nav-item-color-active: var(--text-normal) !important;
+}
+
+.theme-dark .nav-folder-title {
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.theme-dark .nav-folder-title-content {
+  padding-left: var(--size-4-1);
+}
+
+.theme-dark .nav-folder .nav-folder-children {
+  transition: border-color var(--animation-fast);
+}
+
+.theme-dark .nav-folder .nav-folder-children:hover {
+  border-color: var(--accent-inactive);
+}
+
+/* Folder Open/Closed Custom SVG Icons */
+.theme-dark .nav-folder .collapse-icon {
+  margin-inline-start: calc(var(--size-2-1) - var(--size-4-5));
+}
+
+.theme-dark .nav-folder .collapse-icon svg.svg-icon {
+  display: inline-block;
+  -webkit-mask: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'><path fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m6 14l1.5-2.9A2 2 0 0 1 9.24 10H20a2 2 0 0 1 1.94 2.5l-1.54 6a2 2 0 0 1-1.95 1.5H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h3.9a2 2 0 0 1 1.69.9l.81 1.2a2 2 0 0 0 1.67.9H18a2 2 0 0 1 2 2v2'/></svg>") no-repeat;
+  -webkit-mask-size: 100% 100%;
+  background-color: currentColor;
+  color: var(--folder-color);
+  width: var(--size-4-4);
+  height: var(--size-4-4);
+}
+
+.theme-dark .nav-folder .collapse-icon.is-collapsed svg.svg-icon {
+  transform: none;
+  -webkit-mask: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'><path fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z'/></svg>") no-repeat;
+  -webkit-mask-size: 100% 100%;
+  background-color: currentColor;
+  color: var(--folder-color);
+}
+
+/* File / Note Prefix Icons by Extension */
+.theme-dark .nav-file-title {
+  padding-inline-end: 0;
+  position: relative;
+}
+
+.theme-dark .nav-file-title-content {
+  padding-left: var(--size-4-1);
+}
+
+.theme-dark .nav-file-title::before {
+  content: "";
+  position: absolute;
+  opacity: 0.8;
+  flex-shrink: 0;
+  translate: calc(var(--size-2-1) - var(--size-4-5)) -50%;
+  top: 50%;
+  --file-icon: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'><g fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'><path d='M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z'/><path d='M14 2v4a2 2 0 0 0 2 2h4M10 9H8m8 4H8m8 4H8'/></g></svg>");
+  -webkit-mask: var(--file-icon) no-repeat;
+  -webkit-mask-size: 100% 100%;
+  background-color: currentColor;
+  color: var(--accent-active);
+  width: var(--size-4-4);
+  height: var(--size-4-4);
+}
+
+/* PDFs */
+.theme-dark .nav-file-title:is([data-path$=pdf])::before {
+  --file-icon: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'><path fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M12 7v14m-9-3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h5a4 4 0 0 1 4 4a4 4 0 0 1 4-4h5a1 1 0 0 1 1 1v13a1 1 0 0 1-1 1h-6a3 3 0 0 0-3 3a3 3 0 0 0-3-3z'/></svg>");
+}
+
+/* Images */
+.theme-dark .nav-file-title:is([data-path$=png], [data-path$=".svg"], [data-path$=".jpeg"], [data-path$=".jpg"], [data-path$=".bmp"], [data-path$=".gif"], [data-path$=".webp"], [data-path$=".tiff"])::before {
+  --file-icon: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'><g fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'><rect width='18' height='18' x='3' y='3' rx='2' ry='2'/><circle cx='9' cy='9' r='2'/><path d='m21 15l-3.086-3.086a2 2 0 0 0-2.828 0L6 21'/></g></svg>");
+}
+
+/* Audio */
+.theme-dark .nav-file-title:is([data-path$=mp3], [data-path$=".flac"], [data-path$=".wav"], [data-path$=".ape"], [data-path$=".alac"], [data-path$=".aac"], [data-path$=".m4a"])::before {
+  --file-icon: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'><g fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'><path d='M9 18V5l12-2v13M9 9l12-2'/><circle cx='6' cy='18' r='3'/><circle cx='18' cy='16' r='3'/></g></svg>");
+}
+
+/* Video */
+.theme-dark .nav-file-title:is([data-path$=mkv], [data-path$=".mp4"], [data-path$=".flv"], [data-path$=".webm"], [data-path$=".avi"], [data-path$=".mov"])::before {
+  --file-icon: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'><g fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'><rect width='18' height='18' x='3' y='3' rx='2'/><path d='M7 3v18M3 7.5h4M3 12h18M3 16.5h4M17 3v18m0-13.5h4m-4 9h4'/></g></svg>");
+}
+
+/* Canvas */
+.theme-dark .nav-file-title:is([data-path$=canvas])::before {
+  --file-icon: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'><g fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'><path d='M12 22a1 1 0 0 1 0-20a10 9 0 0 1 10 9a5 5 0 0 1-5 5h-2.25a1.75 1.75 0 0 0-1.4 2.8l.3.4a1.75 1.75 0 0 1-1.4 2.8z'/><circle cx='13.5' cy='6.5' r='.5' fill='currentColor'/><circle cx='17.5' cy='10.5' r='.5' fill='currentColor'/><circle cx='6.5' cy='12.5' r='.5' fill='currentColor'/><circle cx='8.5' cy='7.5' r='.5' fill='currentColor'/></g></svg>");
+}
+
+/* Excalidraw */
+.theme-dark .nav-file-title:is([data-path$="excalidraw.md"], [data-path$=".excalidraw"])::before {
+  --file-icon: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'><path fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M21.174 6.812a1 1 0 0 0-3.986-3.987L3.842 16.174a2 2 0 0 0-.5.83l-1.321 4.352a.5.5 0 0 0 .623.622l4.353-1.32a2 2 0 0 0 .83-.497zM15 5l4 4'/></svg>");
+}
+
+/* Unsupported fallback */
+.theme-dark .nav-file-title.is-unsupported::before {
+  --file-icon: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'><g fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'><path d='M12 17h.01M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7z'/><path d='M9.1 9a3 3 0 0 1 5.82 1c0 2-3 3-3 3'/></g></svg>");
+}
+
+/* Active File in Sidebar */
+.theme-dark .nav-file-title.is-active:not(.is-selected) {
+  background-color: var(--nav-item-background-active);
+  color: var(--text-on-accent);
+}
+
+.theme-dark .nav-file-title.is-active:not(.is-selected)::before {
+  background-color: var(--text-on-accent);
+}
+
+.theme-dark .nav-file-title.is-active:not(.is-selected) .nav-file-title-content {
+  color: var(--text-on-accent);
+}
+
+/* ==========================================================================
+   5. GLASSMORPHIC RIGHT-CLICK MENU & POPUPS
+   ========================================================================== */
+.theme-dark :is(.menu, .suggestion-container, .popover.hover-popover) {
+  background-color: #1a1c1ecc !important;
+  backdrop-filter: blur(20px) saturate(180%) !important;
+  -webkit-backdrop-filter: blur(20px) saturate(180%) !important;
+  border: 1px solid #4d535680 !important;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.45) !important;
+  border-radius: var(--radius-m) !important;
+  padding: 6px !important;
+  animation: op var(--animation-slow);
+}
+
+.theme-dark .menu-item {
+  border-radius: var(--radius-s);
+  padding: 6px 10px;
+  color: var(--text-normal);
+  transition: background-color var(--animation-fast), color var(--animation-fast);
+}
+
+.theme-dark .menu-item:hover,
+.theme-dark .menu-item.is-selected {
+  background-color: var(--background-modifier-hover) !important;
+  color: var(--text-on-accent);
+}
+
+.theme-dark .menu-separator {
+  border-bottom: 1px solid #4d535640;
+  margin: 4px 0;
+}
+
+/* ==========================================================================
+   6. YAML PROPERTIES & METADATA PANEL (OG MAPLE)
+   ========================================================================== */
+.metadata-container {
+  margin-block-end: var(--size-4-2);
+  transition: var(--animation);
+  --metadata-padding: var(--radius-m);
+  --metadata-background: var(--background-primary-alt);
+  --metadata-border-width: 1px;
+  --metadata-border-radius: var(--radius-m);
+  --metadata-property-background-hover: var(--background-primary-alt);
+  --metadata-label-background-active: var(--background-primary);
+  --metadata-input-background-active: var(--background-primary);
+  --pill-radius: var(--size-4-1);
+  --pill-focus-width: calc(100% + var(--size-4-2));
+  border: var(--metadata-border-width) solid var(--background-modifier-border);
+  border-radius: var(--metadata-border-radius);
+  padding: var(--metadata-padding);
+}
+
+.metadata-container .metadata-add-button {
+  padding: var(--size-4-1);
+  margin-top: var(--size-4-2);
+  gap: var(--size-2-3);
+  transition: background-color var(--animation-fast);
+}
+
+/* Metadata Icon Overrides */
+.metadata-container [data-property-key=tag] .lucide-list {
+  -webkit-mask: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'><g fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'><path d='M13.172 2a2 2 0 0 1 1.414.586l6.71 6.71a2.4 2.4 0 0 1 0 3.408l-4.592 4.592a2.4 2.4 0 0 1-3.408 0l-6.71-6.71A2 2 0 0 1 6 9.172V3a1 1 0 0 1 1-1zM2 7v6.172a2 2 0 0 0 .586 1.414l6.71 6.71a2.4 2.4 0 0 0 3.191.193'/><circle cx='10.5' cy='6.5' r='.5' fill='currentColor'/></g></svg>") no-repeat;
+  -webkit-mask-size: 100% 100%;
+  background-color: currentColor;
+}
+.metadata-container [data-property-key=tag] .lucide-list path { display: none; }
+
+.metadata-container [data-property-key=alias] .lucide-text {
+  -webkit-mask: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'><g fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'><path d='m15 17l5-5l-5-5'/><path d='M4 18v-2a4 4 0 0 1 4-4h12'/></g></svg>") no-repeat;
+  -webkit-mask-size: 100% 100%;
+  background-color: currentColor;
+}
+.metadata-container [data-property-key=alias] .lucide-text path { display: none; }
+
+.metadata-container [data-property-key=cssclasses] .lucide-list {
+  -webkit-mask: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'><g fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'><circle cx='9' cy='12' r='3'/><rect width='20' height='14' x='2' y='5' rx='7'/></g></svg>") no-repeat;
+  -webkit-mask-size: 100% 100%;
+  background-color: currentColor;
+}
+.metadata-container [data-property-key=cssclasses] .lucide-list path { display: none; }
+
+.metadata-container [data-property-key=title] .lucide-text {
+  -webkit-mask: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'><path fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M6 12h12M6 20V4m12 16V4'/></svg>") no-repeat;
+  -webkit-mask-size: 100% 100%;
+  background-color: currentColor;
+}
+.metadata-container [data-property-key=title] .lucide-text path { display: none; }
+
+.metadata-container [data-property-key=author] .lucide-text {
+  -webkit-mask: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'><g fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'><circle cx='12' cy='8' r='5'/><path d='M20 21a8 8 0 0 0-16 0'/></g></svg>") no-repeat;
+  -webkit-mask-size: 100% 100%;
+  background-color: currentColor;
+}
+.metadata-container [data-property-key=author] .lucide-text path { display: none; }
+
+.metadata-container [data-property-key=source] .lucide-text {
+  -webkit-mask: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'><path d='M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71'/><path d='M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71'/></g></svg>") no-repeat;
+  -webkit-mask-size: 100% 100%;
+  background-color: currentColor;
+}
+.metadata-container [data-property-key=source] .lucide-text path { display: none; }
+
+.metadata-container :is([data-property-key=published], [data-property-key*=date]) .lucide-text {
+  -webkit-mask: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'><g fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'><path d='M8 2v4m8-4v4'/><rect width='18' height='18' x='3' y='4' rx='2'/><path d='M3 10h18'/></g></svg>") no-repeat;
+  -webkit-mask-size: 100% 100%;
+  background-color: currentColor;
+}
+.metadata-container :is([data-property-key=published], [data-property-key*=date]) .lucide-text path { display: none; }
+
+.multi-select-pill {
+  border: 1px solid var(--background-modifier-border);
+  background-color: var(--background-primary);
+  border-radius: var(--pill-radius);
+  transition: border-color var(--animation-fast);
+}
+
+.multi-select-pill:hover {
+  border-color: var(--accent-active);
+}
+
+/* ==========================================================================
+   7. INTERNAL & EXTERNAL LINKS WITH DOCUMENT ICONS
+   ========================================================================== */
+body.theme-dark {
+  --link-color: #7ec8c5;
+  --link-external-color: #d6b685;
+}
+
+body.theme-dark :is(a.external-link, .cm-link .cm-underline, .cm-url:not(.cm-string) .cm-underline) {
+  transition: background-color var(--animation);
+  color: var(--link-external-color);
+  border-radius: var(--radius-s);
+}
+body.theme-dark :is(a.external-link, .cm-link .cm-underline, .cm-url:not(.cm-string) .cm-underline):hover {
+  background-color: rgba(214, 182, 133, 0.15);
+}
+
+body.theme-dark :is(a.internal-link:not(.is-unresolved), .cm-hmd-internal-link > .cm-underline) {
+  transition: background-color var(--animation);
+  color: var(--link-color);
+  border-radius: var(--radius-s);
+}
+body.theme-dark :is(a.internal-link:not(.is-unresolved), .cm-hmd-internal-link > .cm-underline):hover {
+  background-color: rgba(126, 200, 197, 0.15);
+}
+
+/* Document Icon Mask on Internal Links */
+:is(:is(.markdown-source-view, .markdown-preview-view) a.internal-link:not(.is-unresolved),
+.cm-hmd-internal-link > .cm-underline) {
+  padding-inline-end: var(--size-2-1);
+}
+:is(:is(.markdown-source-view, .markdown-preview-view) a.internal-link:not(.is-unresolved),
+.cm-hmd-internal-link > .cm-underline)::before {
+  content: "";
+  display: inline-block;
+  transform: translateY(var(--size-2-1));
+  margin-inline: var(--size-2-1);
+  -webkit-mask: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'><g fill='none' stroke='currentColor' stroke-linecap='round' stroke-linejoin='round' stroke-width='2'><path d='M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z'/><path d='M14 2v4a2 2 0 0 0 2 2h4M10 9H8m8 4H8m8 4H8'/></g></svg>") no-repeat;
+  -webkit-mask-size: 100% 100%;
+  background-color: currentColor;
+  color: inherit;
+  width: calc(var(--font-text-size) * 0.9);
+  height: calc(var(--font-text-size) * 0.9);
+}
+
+.markdown-preview-view :is(.el-pre a.internal-link:not(.is-unresolved), a.external-link:has(> code))::before {
+  content: none !important;
+}
+
+/* External Link Arrow */
+.external-link {
+  background-image: linear-gradient(transparent, transparent), url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24'><path fill='none' stroke='%23DDDDDD' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M7 7h10v10M7 17L17 7'/></svg>");
+  background-size: var(--font-text-size);
+  padding-inline-end: var(--size-4-4);
+}
+
+/* ==========================================================================
+   8. TAGS & SPECIAL COLORIZED BADGES
+   ========================================================================== */
+body.theme-dark {
+  --tag-color: var(--text-accent);
+  --tag-padding-x: var(--size-4-2);
+  --tag-padding-y: 1px;
+  --tag-border-color: var(--accent-active) !important;
+  --tag-border-width: 1px !important;
+  --tag-radius: var(--radius-s);
+}
+
+:is(.cm-hashtag, a.tag) {
+  border: var(--tag-border-width) solid var(--tag-border-color);
+  border-radius: var(--tag-radius);
+  padding: var(--tag-padding-y) var(--tag-padding-x);
+  color: var(--tag-color) !important;
+  background-color: transparent;
+  transition: all var(--animation-fast);
+}
+
+:is(.cm-hashtag, a.tag):hover {
+  background-color: var(--background-modifier-hover);
+}
+
+:is(.cm-tag-obsidian, .tag[href="#obsidian"]) {
+  --tag-border-color: var(--color-purple) !important;
+  --tag-color: var(--color-purple) !important;
+}
+:is(.cm-tag-todo, .tag[href="#todo"]) {
+  --tag-border-color: var(--color-green) !important;
+  --tag-color: var(--color-green) !important;
+}
+:is(.cm-tag-important, .tag[href="#important"]) {
+  --tag-border-color: var(--color-red) !important;
+  --tag-color: var(--color-red) !important;
+}
+:is(.cm-tag-progress, .tag[href="#progress"]) {
+  --tag-border-color: var(--color-blue) !important;
+  --tag-color: var(--color-blue) !important;
+}
+:is(.cm-tag-complete, .tag[href="#complete"]) {
+  --tag-border-color: var(--color-orange) !important;
+  --tag-color: var(--color-orange) !important;
+}
+
+/* ==========================================================================
+   9. BULLET POINT THREADING & ANIMATIONS
+   ========================================================================== */
+body.theme-dark {
+  --list-marker-color: var(--accent-active);
+  --list-marker-color-alt: var(--color-yellow);
+  --list-threading-width: max(0.1rem, var(--size-2-1));
+  --list-threading-color: var(--accent-inactive);
+  --list-bullet-size: calc(var(--font-text-size) / 3 + var(--size-2-1));
+}
+
+.theme-dark .list-bullet {
+  transform: none !important;
+}
+
+.theme-dark .list-bullet::after {
+  --list-bullet-radius: 50%;
+  --list-bullet-border: 0;
+  --list-bullet-size: calc(var(--font-text-size) / 3 + var(--size-2-1));
+  --list-marker-color: var(--accent-active-bg);
+}
+
+.theme-dark .HyperMD-list-line-1:not(:has(~ .HyperMD-list-line-1 ~ .HyperMD-list-line.cm-active)):has(~ :is(.HyperMD-list-line-2, .HyperMD-list-line-3, .HyperMD-list-line-4, .HyperMD-list-line-5).cm-active)::after,
+.theme-dark .HyperMD-list-line-1:not(:has(~ .HyperMD-list-line-1 ~ .HyperMD-list-line.cm-active)) ~ .HyperMD-list-line:has(~ .HyperMD-list-line-2.cm-active, ~ .HyperMD-list-line-2 ~ :is(.HyperMD-list-line-3, .HyperMD-list-line-4, .HyperMD-list-line-5).cm-active)::after,
+.theme-dark .HyperMD-list-line-2:not(:has(~ .HyperMD-list-line-2 ~ .HyperMD-list-line.cm-active)):is(.cm-active, :has(~ :is(.HyperMD-list-line-3, .HyperMD-list-line-4, .HyperMD-list-line-5).cm-active)) > .cm-hmd-list-indent::after {
+  --list-threading-offset: calc(0.4rem + 0 * var(--list-indent) + var(--list-threading-width) / 2);
+}
+
+.theme-dark .HyperMD-list-line-2:not(:has(~ .HyperMD-list-line-2 ~ .HyperMD-list-line.cm-active)):has(~ :is(.HyperMD-list-line-3, .HyperMD-list-line-4, .HyperMD-list-line-5).cm-active)::after,
+.theme-dark .HyperMD-list-line-2:not(:has(~ .HyperMD-list-line-2 ~ .HyperMD-list-line.cm-active)) ~ .HyperMD-list-line:has(~ .HyperMD-list-line-3.cm-active, ~ .HyperMD-list-line-3 ~ :is(.HyperMD-list-line-4, .HyperMD-list-line-5).cm-active)::after,
+.theme-dark .HyperMD-list-line-3:not(:has(~ .HyperMD-list-line-3 ~ .HyperMD-list-line.cm-active)):is(.cm-active, :has(~ :is(.HyperMD-list-line-4, .HyperMD-list-line-5).cm-active)) > .cm-hmd-list-indent::after {
+  --list-threading-offset: calc(0.4rem + 1 * var(--list-indent) + var(--list-threading-width) / 2);
+}
+
+.theme-dark .HyperMD-list-line-3:not(:has(~ .HyperMD-list-line-3 ~ .HyperMD-list-line.cm-active)):has(~ :is(.HyperMD-list-line-4, .HyperMD-list-line-5).cm-active)::after,
+.theme-dark .HyperMD-list-line-3:not(:has(~ .HyperMD-list-line-3 ~ .HyperMD-list-line.cm-active)) ~ .HyperMD-list-line:has(~ .HyperMD-list-line-4.cm-active, ~ .HyperMD-list-line-4 ~ :is(.HyperMD-list-line-5).cm-active)::after,
+.theme-dark .HyperMD-list-line-4:not(:has(~ .HyperMD-list-line-4 ~ .HyperMD-list-line.cm-active)):is(.cm-active, :has(~ :is(.HyperMD-list-line-5).cm-active)) > .cm-hmd-list-indent::after {
+  --list-threading-offset: calc(0.4rem + 2 * var(--list-indent) + var(--list-threading-width) / 2);
+}
+
+.theme-dark .HyperMD-list-line-1:not(:has(~ .HyperMD-list-line-1 ~ .HyperMD-list-line.cm-active)):not(.HyperMD-task-line):not(:has(.cm-formatting-list-ol)):has(~ :is(.HyperMD-list-line-2, .HyperMD-list-line-3, .HyperMD-list-line-4, .HyperMD-list-line-5).cm-active)::after,
+.theme-dark .HyperMD-list-line-2:not(:has(~ .HyperMD-list-line-2 ~ .HyperMD-list-line.cm-active)):not(.HyperMD-task-line):not(:has(.cm-formatting-list-ol)):has(~ :is(.HyperMD-list-line-3, .HyperMD-list-line-4, .HyperMD-list-line-5).cm-active)::after,
+.theme-dark .HyperMD-list-line-3:not(:has(~ .HyperMD-list-line-3 ~ .HyperMD-list-line.cm-active)):not(.HyperMD-task-line):not(:has(.cm-formatting-list-ol)):has(~ :is(.HyperMD-list-line-4, .HyperMD-list-line-5).cm-active)::after {
+  content: "";
+  position: absolute;
+  left: var(--list-threading-offset);
+  bottom: 0;
+  width: var(--list-threading-width);
+  background-color: var(--list-threading-color);
+  top: calc(var(--line-height-normal) * var(--font-text-size) / 2 + var(--list-bullet-size) / 1.5);
+}
+
+.theme-dark .HyperMD-list-line-2:not(:has(~ .HyperMD-list-line-2 ~ .HyperMD-list-line.cm-active)):not(.HyperMD-task-line):not(:has(.cm-formatting-list-ol)):is(.cm-active, :has(~ :is(.HyperMD-list-line-3, .HyperMD-list-line-4, .HyperMD-list-line-5).cm-active)) > .cm-hmd-list-indent::after,
+.theme-dark .HyperMD-list-line-3:not(:has(~ .HyperMD-list-line-3 ~ .HyperMD-list-line.cm-active)):not(.HyperMD-task-line):not(:has(.cm-formatting-list-ol)):is(.cm-active, :has(~ :is(.HyperMD-list-line-4, .HyperMD-list-line-5).cm-active)) > .cm-hmd-list-indent::after,
+.theme-dark .HyperMD-list-line-4:not(:has(~ .HyperMD-list-line-4 ~ .HyperMD-list-line.cm-active)):not(.HyperMD-task-line):not(:has(.cm-formatting-list-ol)):is(.cm-active, :has(~ :is(.HyperMD-list-line-5).cm-active)) > .cm-hmd-list-indent::after {
+  content: "";
+  position: absolute;
+  left: var(--list-threading-offset);
+  width: calc(var(--list-indent) - var(--list-threading-width));
+  top: 0;
+  border-bottom-left-radius: var(--radius-m);
+  border-bottom: var(--list-threading-width) solid var(--list-threading-color);
+  border-left: var(--list-threading-width) solid var(--list-threading-color);
+  height: calc(var(--line-height-normal) * var(--font-text-size) / 2 + var(--list-bullet-size) / 8);
+}
+
+/* ==========================================================================
+   10. CODE BLOCKS, LANGUAGE INDICATORS & LINE NUMBERS
+   ========================================================================== */
+body.theme-dark {
+  --code-font-weight: 550;
+  --inline-code: #d18989;
+  --code-background: #1e2224;
+  --code-radius: 8px;
+  --code-border-color: #4d5356bf;
+  --code-border-width: 1px;
+
+  /* Syntax Highlighting Colors */
+  --code-function: #7eb8f1;
+  --code-important: #bab3ef;
+  --code-keyword: #bab3ef;
+  --code-property: #d6b685;
+  --code-punctuation: #889297;
+  --code-operator: var(--code-punctuation);
+  --code-class: #cea38d;
+  --code-string: #93c89c;
+  --code-tag: #d18989;
+  --code-value: #7ec8c5;
+  --code-comment: #6a7479;
+  --code-variable: #d6b685;
+  --code-normal: #c8d3d9;
+}
+
+code, pre, pre code, .cm-inline-code, .HyperMD-codeblock, .code-block-flair {
+  font-weight: var(--code-font-weight) !important;
+}
+
+.cm-hmd-codeblock.cm-formatting,
+.markdown-rendered code {
+  color: var(--inline-code);
+  background-color: var(--code-background);
+  border-radius: var(--radius-s);
+  padding: 0.15em 0.35em;
+  border: var(--code-border-width) solid var(--code-border-color);
+}
+
+.markdown-preview-view pre code {
+  color: var(--code-normal);
+  background-color: transparent;
+  border: none;
+  border-radius: 0;
+  padding: 0;
+}
+
+.cm-inline-code {
+  color: var(--inline-code) !important;
+  background-color: var(--code-background);
+  border: var(--code-border-width) solid var(--code-border-color);
+  border-radius: var(--radius-s);
+  padding-inline: 0.3em;
+}
+
+.cm-inline-code * {
+  color: var(--inline-code) !important;
+}
+
+/* Live Preview Codeblock Frame & Line Numbers */
+.markdown-source-view.mod-cm6 .cm-contentContainer {
+  counter-reset: code-line;
+}
+
+.cm-s-obsidian .cm-line.HyperMD-codeblock {
+  line-height: calc(var(--line-height-normal) - 0.2);
+  color: var(--code-normal) !important;
+  background-color: var(--code-background);
+  border-inline: var(--code-border-width) solid var(--code-border-color);
+  border-radius: 0 !important;
+  padding-left: var(--size-4-12) !important;
+  padding-right: var(--size-4-3) !important;
+  position: relative;
+}
+
+.cm-s-obsidian .cm-line.HyperMD-codeblock.HyperMD-codeblock-begin-bg {
+  border-top: var(--code-border-width) solid var(--code-border-color);
+  border-start-start-radius: var(--code-radius) !important;
+  border-start-end-radius: var(--code-radius) !important;
+  margin-top: var(--size-4-2) !important;
+}
+
+.cm-s-obsidian .cm-line.HyperMD-codeblock.HyperMD-codeblock-end-bg {
+  border-bottom: var(--code-border-width) solid var(--code-border-color);
+  border-end-start-radius: var(--code-radius) !important;
+  border-end-end-radius: var(--code-radius) !important;
+  margin-bottom: var(--size-4-2) !important;
+}
+
+/* Counter Generator */
+.cm-s-obsidian .cm-line.HyperMD-codeblock:not(.HyperMD-codeblock-begin):not(.HyperMD-codeblock-end)::before {
+  counter-increment: code-line;
+  content: counter(code-line);
+  position: absolute;
+  text-align: right;
+  width: var(--size-4-8);
+  left: var(--size-4-2);
+  color: var(--accent-active);
+  opacity: 0.55;
+  font-weight: 400 !important;
+  font-size: 0.85em;
+  user-select: none;
+  pointer-events: none;
+}
+
+.cm-s-obsidian .cm-line.HyperMD-codeblock:not(.HyperMD-codeblock-begin):not(.HyperMD-codeblock-end).cm-active::before {
+  opacity: 1 !important;
+  color: var(--color-accent) !important;
+  font-weight: 600 !important;
+}
+
+.cm-s-obsidian .cm-line.HyperMD-codeblock-end {
+  counter-set: code-line 0;
+}
+
+/* Live Preview Language Badge */
+.markdown-source-view.mod-cm6 .code-block-flair {
+  color: var(--inline-code) !important;
+  font-size: 0.85em;
+  padding: 2px 6px;
+  top: var(--size-4-1);
+  right: var(--size-4-2);
+  border-radius: var(--radius-s);
+  background-color: transparent;
+  transition: background-color var(--animation-fast);
+}
+
+.markdown-source-view.mod-cm6 .code-block-flair:hover {
+  background-color: var(--background-modifier-hover);
+}
+
+/* Reading View Codeblocks & Language Badge */
+body .markdown-rendered pre {
+  background-color: var(--code-background) !important;
+  border: var(--code-border-width) solid var(--code-border-color);
+  border-radius: var(--code-radius);
+  padding: calc(var(--line-height-tight) * 0.9em) calc(var(--line-height-normal) * 0.9em);
+  margin-block: var(--size-4-3);
+  position: relative;
+  transition: border-color var(--animation-fast);
+}
+
+body .markdown-rendered pre:hover {
+  border-color: var(--background-modifier-border-hover);
+}
+
+body .markdown-rendered pre[class*='language-'] .copy-code-button {
+  padding: 2px 8px;
+  opacity: 1 !important;
+  border-radius: var(--radius-s);
+  background-color: transparent;
+  transition: background-color var(--animation-fast);
+}
+
+body .markdown-rendered pre[class*='language-'] .copy-code-button:hover {
+  background-color: var(--background-modifier-hover);
+}
+
+body .markdown-rendered pre[class*='language-'] .copy-code-button:not([style*="display: inline-flex"]):not([style*="color: var(--text-success)"]) svg {
+  display: none;
+}
+
+body .markdown-rendered pre[class*='language-'] .copy-code-button:not([style*="display: inline-flex"]):not([style*="color: var(--text-success)"])::before {
+  content: var(--code-lang, "Code");
+  color: var(--inline-code);
+  font-weight: 600;
+  font-size: 0.85em;
+}
+
+/* Language Lookups */
+pre:is(.language-javascript, .language-js) { --code-lang: "JavaScript"; }
+pre:is(.language-typescript, .language-ts) { --code-lang: "TypeScript"; }
+pre:is(.language-typescript-jsx, .language-tsx) { --code-lang: "TSX"; }
+pre.language-jsx { --code-lang: "JSX"; }
+pre:is(.language-python, .language-py) { --code-lang: "Python"; }
+pre:is(.language-bash, .language-sh, .language-shell) { --code-lang: "Bash"; }
+pre:is(.language-csharp, .language-cs, .language-dotnet) { --code-lang: "C#"; }
+pre:is(.language-cpp, .language-c\+\+) { --code-lang: "C++"; }
+pre.language-c { --code-lang: "C"; }
+pre:is(.language-rust, .language-rs) { --code-lang: "Rust"; }
+pre.language-go { --code-lang: "Go"; }
+pre.language-java { --code-lang: "Java"; }
+pre.language-html { --code-lang: "HTML"; }
+pre.language-css { --code-lang: "CSS"; }
+pre.language-scss { --code-lang: "SCSS"; }
+pre.language-sass { --code-lang: "Sass"; }
+pre:is(.language-markdown, .language-md) { --code-lang: "Markdown"; }
+pre.language-json { --code-lang: "JSON"; }
+pre:is(.language-yaml, .language-yml) { --code-lang: "YAML"; }
+pre.language-sql { --code-lang: "SQL"; }
+pre:is(.language-latex, .language-tex) { --code-lang: "LaTeX"; }
+pre.language-lua { --code-lang: "Lua"; }
+pre.language-dockerfile { --code-lang: "Dockerfile"; }
+pre.language-php { --code-lang: "PHP"; }
+pre.language-ruby { --code-lang: "Ruby"; }
+pre.language-swift { --code-lang: "Swift"; }
+pre.language-kotlin { --code-lang: "Kotlin"; }
+pre.language-mermaid { --code-lang: "Mermaid"; }
+
+/* Token Syntax Colors */
+.theme-dark :is(.markdown-rendered, .markdown-source-view.mod-cm6) {
+  .token.script { color: var(--code-normal); }
+  .token.imports { color: var(--code-variable); }
+  .token:is(.builtin, .regex, .keyword) { font-style: italic; color: var(--code-important); }
+  .token:is(.selector, .inserted, .char, .attr-value) { color: var(--color-green); }
+  .token:is(.class-name, .maybe-class-name, .color) { color: var(--code-class); }
+  .token:is(.property-access, .attr-name, .annotation, .key, .entity, .parameter, .url) { color: var(--code-variable); }
+  .token:is(.comment, .prolog, .doctype, .cdata) { color: var(--code-comment); font-style: italic; font-weight: 400 !important; }
+  
+  .cm-tag { color: var(--code-tag); }
+  :is(.cm-punctuation, .cm-bracket, .cm-hr, .cm-operator) { color: var(--code-punctuation); }
+  .cm-number { color: var(--code-value); }
+  :is(.cm-qualifier, .cm-string:not(.cm-url), .cm-string-2, .cm-meta:not(.cm-hashtag)) { color: var(--code-string); }
+  :is(.cm-def, .cm-property, .cm-number + .cm-variable, .cm-attribute, .cm-atom) { color: var(--code-property); }
+  :is(.cm-type, .cm-builtin) { color: var(--code-keyword); }
+  .cm-keyword { font-style: italic; }
+  .cm-variable { color: var(--code-function); }
+  .cm-variable-2 { color: var(--code-value); }
+  .cm-variable-3 { filter: hue-rotate(40deg); }
+}
+
+/* ==========================================================================
+   11. HEADINGS, BLOCKQUOTES & TABLES
+   ========================================================================== */
+body.theme-dark {
+  --h1-color: rgb(var(--color-red-rgb));
+  --h2-color: rgb(var(--color-orange-rgb));
+  --h3-color: rgb(var(--color-green-rgb));
+  --h4-color: rgb(var(--color-blue-rgb));
+  --h5-color: rgb(var(--color-purple-rgb));
+  --h6-color: rgb(var(--color-cyan-rgb));
+
+  --h1-size: calc(var(--font-text-size) * 2.0);
+  --h1-weight: 750;
+  --h1-line-height: calc(var(--line-height-normal) * var(--h1-size));
+
+  --h2-size: calc(var(--font-text-size) * 1.5);
+  --h2-weight: 700;
+  --h2-line-height: calc(var(--line-height-normal) * var(--h2-size));
+
+  --h3-size: calc(var(--font-text-size) * 1.4);
+  --h3-weight: 600;
+  --h3-line-height: calc(var(--line-height-normal) * var(--h3-size));
+
+  --h4-size: calc(var(--font-text-size) * 1.3);
+  --h4-weight: 550;
+  --h4-line-height: calc(var(--line-height-normal) * var(--h4-size));
+
+  --h5-size: calc(var(--font-text-size) * 1.2);
+  --h5-weight: 550;
+  --h5-line-height: calc(var(--line-height-normal) * var(--h5-size));
+
+  --h6-size: calc(var(--font-text-size) * 1.6);
+  --h6-weight: 500;
+  --h6-line-height: calc(var(--line-height-normal) * var(--h6-size));
+}
+
+body.theme-dark :is(.HyperMD-header-1, h1) { text-align: center; }
+body.theme-dark :is(.HyperMD-header-2 .cm-header:not(.cm-formatting), .markdown-rendered h2) {
+  text-decoration: underline var(--size-2-1);
+}
+
+/* Blockquotes */
+body.theme-dark {
+  --blockquote-background-color: var(--background-primary-alt);
+  --callout-radius: var(--radius-m);
+  --blockquote-border-color: var(--accent-active);
+  --blockquote-border-thickness: var(--size-4-1);
+  --blockquote-radius: var(--size-2-3);
+  --blockquote-font-style: normal;
+}
+
+body.theme-dark .markdown-rendered blockquote {
+  border: none;
+  border-radius: var(--blockquote-radius);
+  position: relative;
+  margin-block: var(--size-4-3);
+  padding-block: var(--size-2-3);
+  box-shadow: var(--shadow-s);
+  font-style: normal;
+}
+
+body.theme-dark .markdown-rendered blockquote :is(p, h1, h2, h3, h4, h5, h6) {
+  padding-left: var(--blockquote-border-thickness);
+  padding-right: var(--size-4-3);
+}
+
+body.theme-dark .markdown-rendered blockquote::after {
+  content: "";
+  position: absolute;
+  left: var(--size-4-2);
+  inset-block: var(--size-4-2);
+  border-radius: var(--blockquote-radius);
+  width: var(--blockquote-border-thickness);
+  background-color: var(--accent-active-bg);
+}
+
+body.theme-dark .HyperMD-quote {
+  border: solid var(--blockquote-background-color);
+  border-width: 0 var(--size-4-2) 0 var(--size-4-2);
+}
+
+/* Rounded Tables */
+body.theme-dark table {
+  width: 100%;
+  border-collapse: initial;
+  border-spacing: 0;
+}
+
+body.theme-dark :is(th, td):not(:first-child) { border-left: 0; }
+body.theme-dark tbody td { border-top: 0; }
+body.theme-dark thead tr th { background-color: var(--background-primary-alt) !important; }
+body.theme-dark :is(th:first-child, th:first-child .table-cell-wrapper) { border-start-start-radius: var(--radius-m); }
+body.theme-dark :is(th:last-child, th:last-child .table-cell-wrapper) { border-start-end-radius: var(--radius-m); }
+body.theme-dark tr:last-child :is(td:first-child, td:first-child .table-cell-wrapper) { border-end-start-radius: var(--radius-m); }
+body.theme-dark tr:last-child :is(td:last-child, td:last-child .table-cell-wrapper) { border-end-end-radius: var(--radius-m); }
+
+/* PDF Dark Invert */
+body.theme-dark .pdfViewer .page {
+  filter: invert(1) contrast(0.8);
+}
+body.theme-dark {
+  --pdf-plus-highlight-opacity: 0.24;
+  --pdf-plus-rect-highlight-opacity: 0.41;
+  --pdf-plus-highlight-padding-vertical-em: 0.85;
+}
+
+
+
+
+
+
+
+
+
+

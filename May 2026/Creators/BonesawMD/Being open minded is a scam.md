@@ -80,7 +80,7 @@ Simple and declarative; worth remembering.
 
 *God will not have his work made manifest by cowards. - Ralph Waldo Emerson* 
 
-![Image](https://pbs.twimg.com/media/HIync83WsAElL5y?format=jpg&name=large)
+![Image](_attachments/HIync83WsAElL5y_17866961826699147.jpg)
 
 ---
 

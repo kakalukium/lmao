@@ -39,6 +39,6 @@ Jun 2
 
 Women are increasingly subsidized by the gov instead of their husbands and the result seems to be that they’ve gotten progressively more miserable x.com/FrenlyOfficer/…
 
-[![[images/96c99d3919c77356d81fc280e303d401_MD5.jpg]]](https://x.com/cold_and_quiet/status/2061605281944019416/photo/1)[43](https://x.com/cold_and_quiet/status/2070159807160467928/analytics)
+[![[_attachments/96c99d3919c77356d81fc280e303d401_MD5.jpg]]](https://x.com/cold_and_quiet/status/2061605281944019416/photo/1)[43](https://x.com/cold_and_quiet/status/2070159807160467928/analytics)
 
 All of these neoliberal/new left policies are about pulling the mobility ladder out from white lower classes and than framing it as some sort of "natural" state. Upper class fgts are mostly insulated from the downsides while maximizing exposure to upside.

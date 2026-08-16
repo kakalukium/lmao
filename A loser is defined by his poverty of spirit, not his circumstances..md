@@ -14,8 +14,8 @@ Not the sort of person you invite over more than once, as many sympathetic Irish
 > 
 > It’s normal to feel acutely sad after something sad happens, and while that sadness fades over weeks and months, it may come back in transient waves here and there, but ultimately a healthy mammal lives COMFORTABLY and PLEASURABLY in the present.
 >  This is disease slop. Ignore it
-> 
-.![[images/7a320f54cc7bbbc01982c561568f6b54_MD5.jpg|439]]
+> [[Nothing is stored. It's like the pasts are all present in the same room and we periodically have a different perspective on them]]
+.![[_attachments/7a320f54cc7bbbc01982c561568f6b54_MD5.jpg|439]]
 
 ---
 
@@ -74,7 +74,7 @@ Trauma is something like a permanent biological imprint.
 
 > 2025-03-05
 > 
-> I think it’s likely that the “mental health epidemic” is being driven in large part by nutrient deficiencies.
+> >I think it’s likely that the “mental health epidemic” is being driven in large part by nutrient deficiencies.
 
 ---
 

@@ -7,7 +7,7 @@ This would never be said about a daughter, btw. Feminist mothers see their sons 
 
 Is this post in a nutshell saying the family is worried because their son is single and not trying to change that? It’s not good that he is so young and already so checked out Is your family line going to be a dead end through you? Does it bother you? How would you change it?
 
-![[images/c7590992363b60f08458d812cf669d6b_MD5.jpg]]
+![[_attachments/c7590992363b60f08458d812cf669d6b_MD5.jpg]]
 
 GIF[40](https://x.com/ImitatingTheSun/status/2068197779160416578/analytics)
 

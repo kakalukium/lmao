@@ -13,7 +13,7 @@ To the extent love is a game, it is positive-sum, cooperative, and thrives off o
 > 
 > Today, I wrote about how if you're young and inexperienced, you have a high chance of developing negative or bitter feelings about the opposite sex based solely on content you see online--including some content not intended to be ragebait. Link in replies.
 > 
-> ![[images/969471bfc39ebc50048bba4ef050c7d2_MD5.jpg]]
+> ![[_attachments/969471bfc39ebc50048bba4ef050c7d2_MD5.jpg]]
 
 ---
 

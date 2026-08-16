@@ -5,7 +5,7 @@ tags:
   - social-skills/pleb-mind
 ---
 https://x.com/i/status/2066497960850932146
-![[20260616_045222.jpg]]
+![[_attachments/20260616_045222.jpg]]
 
 God honors his favorites by crushing them, drops the whole insufferable wretched weight of purpose on their spines until they either snap into shape or snap entirely. the unburdened, those buoyant grinning vapid little phantoms drifting through their own lives without a single crushing thing to carry, they are forgotten
 

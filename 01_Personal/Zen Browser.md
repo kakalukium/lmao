@@ -90,7 +90,7 @@ cd "D:\notes\SQL ops\.obsidian\themes"
 ```
 
 
-![[image-11.png|455x139]]
+![[_attachments/image-11.png|455x139]]
 
 
 

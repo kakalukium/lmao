@@ -21,11 +21,11 @@ MK ULTRA is actually the secret program to use the CIA as a hook to help paranoi
 
 ---
 
-![[images/b76c43f6087d9070516405a9a2975b90_MD5.jpg]]
+![[_attachments/b76c43f6087d9070516405a9a2975b90_MD5.jpg]]
 
 ---
 
-![[images/cb3290217777923678bdbdb2726a1331_MD5.png]]
+![[_attachments/cb3290217777923678bdbdb2726a1331_MD5.png]]
 
 ---
 
@@ -35,7 +35,7 @@ MK ULTRA is actually the secret program to use the CIA as a hook to help paranoi
 > 
 > here be monsters
 > 
-> ![[images/645d41635113275c164af68f510ba410_MD5.jpg]]
+> ![[_attachments/645d41635113275c164af68f510ba410_MD5.jpg]]
 > 
 > > **John Titor #137 𓅊𓅔𓅊 @JohnTitor137** · [2026-05-24](https://x.com/JohnTitor137/status/2058600735168737751)
 

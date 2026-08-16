@@ -25,7 +25,7 @@ So to all of you ghetto worshippers and reality TV lovers, you vermin that cheer
 
 ⛓️🚀
 
-![[images/2d5eff50e449accb9287e08e62a29eab_MD5.jpg]]
+![[_attachments/2d5eff50e449accb9287e08e62a29eab_MD5.jpg]]
 
 ---
 

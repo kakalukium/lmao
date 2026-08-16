@@ -1,0 +1,670 @@
+/* ==========================================================================
+   1. GLOBAL TOKENS & DARK THEME COLOR SCHEME
+   ========================================================================== */
+.theme-dark {
+  /* Base Accent Hue: 205 */
+  --base-accent-h: 205;
+  --theme-accent-h: var(--base-accent-h);
+  --color-opacity: 1;
+
+  --theme-accent-active-s: 24%;
+  --theme-accent-active-l: 52%;
+  --theme-accent-inactive-h: var(--theme-accent-h);
+  --theme-accent-inactive-s: 12%;
+  --theme-accent-inactive-l: 32%;
+
+  --accent-active: hsl(
+    var(--theme-accent-h),
+    var(--theme-accent-active-s),
+    var(--theme-accent-active-l)
+  );
+  --accent-active-bg: hsla(
+    var(--theme-accent-h),
+    var(--theme-accent-active-s),
+    var(--theme-accent-active-l),
+    var(--color-opacity)
+  );
+  --accent-inactive: hsl(
+    var(--theme-accent-inactive-h),
+    var(--theme-accent-inactive-s),
+    var(--theme-accent-inactive-l)
+  );
+
+  --color-accent-hsl: var(--base-accent-h), var(--theme-accent-active-s),
+    calc(var(--theme-accent-active-l) * var(--color-opacity));
+  --color-accent: hsl(var(--color-accent-hsl));
+
+  /* Multi-color Typography Variables */
+  --color-red-rgb: 209.304, 137.496, 137.496;
+  --color-red: rgba(var(--color-red-rgb), var(--color-opacity));
+  --color-orange-rgb: 206.04, 162.52, 140.76;
+  --color-orange: rgba(var(--color-orange-rgb), var(--color-opacity));
+  --color-yellow-rgb: 214.2, 181.56, 132.6;
+  --color-yellow: rgba(var(--color-yellow-rgb), var(--color-opacity));
+  --color-green-rgb: 147.288, 199.512, 155.992;
+  --color-green: rgba(var(--color-green-rgb), var(--color-opacity));
+  --color-cyan-rgb: 126.48, 199.92, 197.472;
+  --color-cyan: rgba(var(--color-cyan-rgb), var(--color-opacity));
+  --color-blue-rgb: 126.48, 183.6, 240.72;
+  --color-blue: rgba(var(--color-blue-rgb), var(--color-opacity));
+  --color-purple-rgb: 186.2265, 179.265, 238.935;
+  --color-purple: rgba(var(--color-purple-rgb), var(--color-opacity));
+
+  /* Base Backgrounds */
+  --background-primary-hsl: var(--base-accent-h), 6%, 11%;
+  --background-primary-alt-hsl: var(--base-accent-h), 10%, 13%;
+  --background-secondary-hsl: calc(var(--base-accent-h) - 8), 6%, 12%;
+
+  --text-normal: hsla(var(--base-accent-h), 50%, 94%, 75%);
+  --text-on-accent: #eaeaea !important;
+  --text-selection: hsla(var(--color-accent-hsl), 0.25);
+
+  --background-modifier-hover: hsl(
+    var(--base-accent-h),
+    var(--theme-accent-active-s),
+    max(50%, 50% * 0.6),
+    20%
+  );
+  --background-modifier-border: hsla(
+    var(--theme-accent-inactive-h),
+    calc(var(--theme-accent-inactive-s) / 2),
+    var(--theme-accent-inactive-l),
+    75%
+  );
+  --background-modifier-border-hover: hsla(
+    var(--theme-accent-active-h),
+    calc(var(--theme-accent-active-s) * 0.7),
+    var(--theme-accent-active-l),
+    60%
+  );
+
+  /* Animation */
+  --animation-dur: 250ms;
+  --animation-fast: calc(var(--animation-dur) / 2) var(--anim-motion-smooth);
+  --animation: var(--animation-dur) var(--anim-motion-smooth);
+  --animation-slow: calc(var(--animation-dur) * 2) var(--anim-motion-smooth);
+
+  /* Navigation & Lines */
+  --divider-color: transparent;
+  --nav-item-background-active: var(--accent-active-bg);
+  --nav-item-background-selected: var(--background-modifier-hover);
+
+  --line-height-normal: 1.6;
+  --line-height-tight: 1.5;
+  --p-spacing: 8px;
+}
+
+/* ==========================================================================
+   2. WORKSPACE GRADIENT BACKGROUND & CARD LAYOUT
+   ========================================================================== */
+body.theme-dark {
+  --tab-divider-color: var(--color-base-35);
+  --tab-active-shadow: none !important;
+  --app-layout-spacing: 6px;
+
+  --app-bg-image: linear-gradient(
+    320deg,
+    hsl(calc(var(--base-accent-h) + 60), 11%, 22%),
+    hsl(calc(var(--base-accent-h) - 10), 24%, 28%)
+  );
+
+  background-color: transparent;
+  background-image: var(--app-bg-image);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+
+  --bg-opacity: 0.6;
+  --editor-min-opacity: 0.85;
+  --bg-editor: hsla(
+    var(--background-primary-hsl),
+    max(var(--bg-opacity), var(--editor-min-opacity))
+  );
+  --bg-surface: hsla(var(--background-secondary-hsl), var(--bg-opacity));
+}
+
+body.theme-dark :is(.titlebar, .workspace) {
+  --frame-bg: transparent !important;
+}
+
+body.theme-dark .mod-root .workspace-tab-container {
+  padding: var(--app-layout-spacing);
+  padding-top: 0;
+}
+
+body.theme-dark .mod-root .workspace-tab-container .workspace-leaf-content {
+  border-radius: var(--radius-m);
+  background-color: var(--bg-editor);
+  border: 1px solid var(--background-modifier-border);
+}
+
+body.theme-dark .workspace-split {
+  background-color: var(--bg-surface);
+}
+
+body.theme-dark .workspace-ribbon {
+  --ribbon-background: var(--bg-surface);
+  --ribbon-background-collapsed: var(--bg-surface);
+}
+
+body.theme-dark .workspace-ribbon::before {
+  background-color: var(--bg-surface);
+}
+
+body.theme-dark :is(
+  .workspace-tab-header-container,
+  .workspace-tab-header-container-inner,
+  .titlebar-button-container,
+  .sidebar-toggle-button,
+  .workspace-split:not(.mod-root) .workspace-tabs .workspace-leaf,
+  .workspace-split.mod-root .workspace-tabs:not(.mod-stacked) .workspace-leaf,
+  .workspace-split.mod-root .workspace-split,
+  .pdf-toolbar,
+  .workspace-leaf-content[data-type='empty'],
+  .workspace-leaf-content:not([data-type='empty']) :is(.view-content, .view-header)
+) {
+  background-color: transparent;
+}
+
+/* ==========================================================================
+   3. IMPROVED FLOATING TABS, HEADERS & CONTROLS
+   ========================================================================== */
+body.theme-dark {
+  --tab-radius: 6px;
+  --tab-stacked-header-width: 40px;
+}
+
+body.theme-dark .mod-root .workspace-tab-header {
+  padding-block: 0 !important;
+  transition: var(--animation);
+  transition-property: color, width, background-color, border-color;
+  --tab-curve: 0;
+  --tab-radius-active: var(--radius-m);
+  border: 1px solid transparent;
+  background-color: transparent;
+}
+
+body.theme-dark .mod-root .workspace-tab-header:hover {
+  background-color: var(--background-modifier-hover);
+}
+
+body.theme-dark .mod-root .workspace-tab-header.is-active {
+  border-color: var(--background-modifier-border);
+  background-color: hsla(var(--background-primary-hsl), 0.85);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+body.theme-dark .mod-root .workspace-tab-header-container {
+  translate: calc(-1 * var(--size-4-1));
+}
+
+body.theme-dark .mod-root .workspace-tab-header-container-inner {
+  margin-top: var(--size-4-1);
+  padding-bottom: var(--size-4-1);
+  padding-left: 5px;
+}
+
+body.theme-dark .mod-root .workspace-tab-header-inner {
+  transition: background-color var(--animation-fast);
+}
+
+body.theme-dark .mod-root .workspace-tab-header-inner-close-button {
+  padding: var(--size-2-1);
+  border-radius: var(--radius-s);
+  transition: background-color var(--animation-fast);
+}
+
+body.theme-dark .mod-root .workspace-tab-header-inner-close-button:hover {
+  background-color: var(--background-modifier-hover);
+}
+
+body.theme-dark .titlebar-button.mod-close:hover {
+  background-color: hsl(1, 75%, 62%) !important;
+  color: var(--text-on-accent);
+}
+
+body.theme-dark {
+  --status-bar-background: var(--background-secondary);
+  --status-bar-border-color: var(--background-modifier-border);
+  --status-bar-radius: 6px;
+  --status-bar-border-width: 1px;
+}
+
+body.theme-dark .status-bar {
+  padding: var(--size-4-1);
+  bottom: var(--size-4-1);
+  right: var(--size-4-1);
+  box-shadow: var(--shadow-s);
+}
+
+/* ==========================================================================
+   4. READABLE LINE WIDTH & PARAGRAPH FORMATTING
+   ========================================================================== */
+body.theme-dark {
+  --file-line-width: clamp(600px, 72%, 850px);
+}
+
+.markdown-source-view.mod-cm6.is-readable-line-width :is(.cm-content, .cm-line) {
+  max-width: 100%;
+}
+
+.workspace-split.mod-root,
+.markdown-rendered {
+  --line-height-normal: 1.6 !important;
+}
+
+.p-indent {
+  --indent: calc(var(--font-text-size) * 2);
+}
+.p-indent :is([class=cm-line], [class="cm-active cm-line"], p) {
+  text-indent: var(--indent);
+}
+.p-indent p > br {
+  content: "";
+  white-space: pre;
+}
+.p-indent p > br::after {
+  content: "\a​";
+  margin-inline-end: var(--indent);
+}
+
+/* Underline Offset */
+.markdown-source-view *,
+.markdown-rendered * {
+  text-underline-offset: 2px;
+}
+
+
+
+/* ==========================================================================
+   6. LOGSEQ-STYLE BULLET POINT THREADING & ANIMATIONS
+   ========================================================================== */
+body.theme-dark {
+  --list-marker-color: var(--accent-active);
+  --list-marker-color-alt: var(--color-yellow);
+  --list-threading-width: max(0.1rem, var(--size-2-1));
+  --list-threading-color: var(--accent-inactive);
+  --list-bullet-size: calc(var(--font-text-size) / 3 + var(--size-2-1));
+}
+
+.theme-dark .list-bullet {
+  transform: none !important;
+}
+
+.theme-dark .list-bullet::after {
+  --list-bullet-radius: 50%;
+  --list-bullet-border: 0;
+  --list-bullet-size: calc(var(--font-text-size) / 3 + var(--size-2-1));
+  --list-marker-color: var(--accent-active-bg);
+}
+
+/* Dynamic Guide Lines connecting nested active list items */
+.theme-dark .HyperMD-list-line-1:not(:has(~ .HyperMD-list-line-1 ~ .HyperMD-list-line.cm-active)):has(~ :is(.HyperMD-list-line-2, .HyperMD-list-line-3, .HyperMD-list-line-4, .HyperMD-list-line-5).cm-active)::after,
+.theme-dark .HyperMD-list-line-1:not(:has(~ .HyperMD-list-line-1 ~ .HyperMD-list-line.cm-active)) ~ .HyperMD-list-line:has(~ .HyperMD-list-line-2.cm-active, ~ .HyperMD-list-line-2 ~ :is(.HyperMD-list-line-3, .HyperMD-list-line-4, .HyperMD-list-line-5).cm-active)::after,
+.theme-dark .HyperMD-list-line-2:not(:has(~ .HyperMD-list-line-2 ~ .HyperMD-list-line.cm-active)):is(.cm-active, :has(~ :is(.HyperMD-list-line-3, .HyperMD-list-line-4, .HyperMD-list-line-5).cm-active)) > .cm-hmd-list-indent::after {
+  --list-threading-offset: calc(0.4rem + 0 * var(--list-indent) + var(--list-threading-width) / 2);
+}
+
+.theme-dark .HyperMD-list-line-2:not(:has(~ .HyperMD-list-line-2 ~ .HyperMD-list-line.cm-active)):has(~ :is(.HyperMD-list-line-3, .HyperMD-list-line-4, .HyperMD-list-line-5).cm-active)::after,
+.theme-dark .HyperMD-list-line-2:not(:has(~ .HyperMD-list-line-2 ~ .HyperMD-list-line.cm-active)) ~ .HyperMD-list-line:has(~ .HyperMD-list-line-3.cm-active, ~ .HyperMD-list-line-3 ~ :is(.HyperMD-list-line-4, .HyperMD-list-line-5).cm-active)::after,
+.theme-dark .HyperMD-list-line-3:not(:has(~ .HyperMD-list-line-3 ~ .HyperMD-list-line.cm-active)):is(.cm-active, :has(~ :is(.HyperMD-list-line-4, .HyperMD-list-line-5).cm-active)) > .cm-hmd-list-indent::after {
+  --list-threading-offset: calc(0.4rem + 1 * var(--list-indent) + var(--list-threading-width) / 2);
+}
+
+.theme-dark .HyperMD-list-line-3:not(:has(~ .HyperMD-list-line-3 ~ .HyperMD-list-line.cm-active)):has(~ :is(.HyperMD-list-line-4, .HyperMD-list-line-5).cm-active)::after,
+.theme-dark .HyperMD-list-line-3:not(:has(~ .HyperMD-list-line-3 ~ .HyperMD-list-line.cm-active)) ~ .HyperMD-list-line:has(~ .HyperMD-list-line-4.cm-active, ~ .HyperMD-list-line-4 ~ :is(.HyperMD-list-line-5).cm-active)::after,
+.theme-dark .HyperMD-list-line-4:not(:has(~ .HyperMD-list-line-4 ~ .HyperMD-list-line.cm-active)):is(.cm-active, :has(~ :is(.HyperMD-list-line-5).cm-active)) > .cm-hmd-list-indent::after {
+  --list-threading-offset: calc(0.4rem + 2 * var(--list-indent) + var(--list-threading-width) / 2);
+}
+
+/* Threading Vertical Lines */
+.theme-dark .HyperMD-list-line-1:not(:has(~ .HyperMD-list-line-1 ~ .HyperMD-list-line.cm-active)):not(.HyperMD-task-line):not(:has(.cm-formatting-list-ol)):has(~ :is(.HyperMD-list-line-2, .HyperMD-list-line-3, .HyperMD-list-line-4, .HyperMD-list-line-5).cm-active)::after,
+.theme-dark .HyperMD-list-line-2:not(:has(~ .HyperMD-list-line-2 ~ .HyperMD-list-line.cm-active)):not(.HyperMD-task-line):not(:has(.cm-formatting-list-ol)):has(~ :is(.HyperMD-list-line-3, .HyperMD-list-line-4, .HyperMD-list-line-5).cm-active)::after,
+.theme-dark .HyperMD-list-line-3:not(:has(~ .HyperMD-list-line-3 ~ .HyperMD-list-line.cm-active)):not(.HyperMD-task-line):not(:has(.cm-formatting-list-ol)):has(~ :is(.HyperMD-list-line-4, .HyperMD-list-line-5).cm-active)::after {
+  content: "";
+  position: absolute;
+  left: var(--list-threading-offset);
+  bottom: 0;
+  width: var(--list-threading-width);
+  background-color: var(--list-threading-color);
+  top: calc(var(--line-height-normal) * var(--font-text-size) / 2 + var(--list-bullet-size) / 1.5);
+}
+
+/* Connecting Elbow Lines */
+.theme-dark .HyperMD-list-line-2:not(:has(~ .HyperMD-list-line-2 ~ .HyperMD-list-line.cm-active)):not(.HyperMD-task-line):not(:has(.cm-formatting-list-ol)):is(.cm-active, :has(~ :is(.HyperMD-list-line-3, .HyperMD-list-line-4, .HyperMD-list-line-5).cm-active)) > .cm-hmd-list-indent::after,
+.theme-dark .HyperMD-list-line-3:not(:has(~ .HyperMD-list-line-3 ~ .HyperMD-list-line.cm-active)):not(.HyperMD-task-line):not(:has(.cm-formatting-list-ol)):is(.cm-active, :has(~ :is(.HyperMD-list-line-4, .HyperMD-list-line-5).cm-active)) > .cm-hmd-list-indent::after,
+.theme-dark .HyperMD-list-line-4:not(:has(~ .HyperMD-list-line-4 ~ .HyperMD-list-line.cm-active)):not(.HyperMD-task-line):not(:has(.cm-formatting-list-ol)):is(.cm-active, :has(~ :is(.HyperMD-list-line-5).cm-active)) > .cm-hmd-list-indent::after {
+  content: "";
+  position: absolute;
+  left: var(--list-threading-offset);
+  width: calc(var(--list-indent) - var(--list-threading-width));
+  top: 0;
+  border-bottom-left-radius: var(--radius-m);
+  border-bottom: var(--list-threading-width) solid var(--list-threading-color);
+  border-left: var(--list-threading-width) solid var(--list-threading-color);
+  height: calc(var(--line-height-normal) * var(--font-text-size) / 2 + var(--list-bullet-size) / 8);
+}
+
+/* ==========================================================================
+   7. EXACT CODE BLOCKS & LANGUAGE INDICATOR SYSTEM
+   ========================================================================== */
+body.theme-dark {
+  --inline-code: var(--color-red);
+  --code-background: var(--background-primary-alt);
+  --code-function: var(--color-blue);
+  --code-important: var(--color-purple);
+  --code-keyword: var(--color-purple);
+  --code-property: var(--color-yellow);
+  --code-punctuation: var(--color-base-60);
+  --code-operator: var(--code-punctuation);
+  --code-class: var(--color-orange);
+  --code-string: var(--color-green);
+  --code-tag: var(--color-red);
+  --code-value: var(--color-cyan);
+  --code-comment: var(--text-faint);
+  --code-variable: var(--color-yellow);
+  --code-normal: var(--text-muted);
+  --code-radius: var(--radius-m);
+  --code-border-color: var(--background-modifier-border);
+  --code-border-width: 1px;
+}
+
+/* Code Block Structure */
+.cm-s-obsidian .cm-line.HyperMD-codeblock {
+  line-height: calc(var(--line-height-normal) - 0.2);
+  color: var(--code-normal) !important;
+  border-inline: var(--code-border-width) solid var(--code-border-color);
+  border-radius: 0 !important;
+}
+
+.cm-s-obsidian .cm-line.HyperMD-codeblock.HyperMD-codeblock-begin-bg {
+  border-top: var(--code-border-width) solid var(--code-border-color);
+  border-start-start-radius: var(--code-radius) !important;
+  border-start-end-radius: var(--code-radius) !important;
+  margin-top: var(--size-2-1) !important;
+}
+
+.cm-s-obsidian .cm-line.HyperMD-codeblock.HyperMD-codeblock-end-bg {
+  border-bottom: var(--code-border-width) solid var(--code-border-color);
+  border-end-start-radius: var(--code-radius) !important;
+  border-end-end-radius: var(--code-radius) !important;
+  margin-bottom: var(--size-2-1) !important;
+}
+
+/* Live Preview Language Indicator Flair */
+.markdown-source-view.mod-cm6 .code-block-flair {
+  padding-block: 0;
+  color: var(--inline-code);
+  transition: background-color var(--animation);
+  font-weight: 550;
+  top: var(--size-4-1);
+  right: var(--size-4-1);
+  border-radius: var(--radius-s);
+}
+
+.markdown-source-view.mod-cm6 .code-block-flair:hover {
+  background-color: var(--nav-item-background-hover);
+}
+
+/* Reading View Language Badges & Copy-Button Replacement */
+.theme-dark .markdown-rendered pre {
+  --code-block-padding: calc(var(--line-height-tight) * var(--code-size))
+    calc(var(--line-height-normal) * var(--code-size));
+  padding: var(--code-block-padding);
+}
+
+.theme-dark .markdown-rendered pre[class*='language-'] .copy-code-button {
+  padding-block: var(--size-2-1);
+  opacity: 1;
+}
+
+.theme-dark .markdown-rendered pre[class*='language-'] .copy-code-button:not([style*="display: inline-flex"]) svg {
+  display: none;
+}
+
+.theme-dark .markdown-rendered pre[class*='language-'] .copy-code-button:not([style*="display: inline-flex"])::before {
+  content: var(--code-lang, "Code");
+  color: var(--inline-code);
+  font-weight: 550;
+}
+
+/* Language Map Definitions */
+pre:is(.language-javascript, .language-js) { --code-lang: "JavaScript"; }
+pre:is(.language-typescript, .language-ts) { --code-lang: "TypeScript"; }
+pre:is(.language-typescript-jsx, .language-tsx) { --code-lang: "TypeScript-JSX"; }
+pre.language-jsx { --code-lang: "JSX"; }
+pre:is(.language-python, .language-py) { --code-lang: "Python"; }
+pre:is(.language-bash, .language-sh, .language-shell) { --code-lang: "bash"; }
+pre:is(.language-csharp, .language-cs, .language-dotnet) { --code-lang: "C#"; }
+pre:is(.language-cpp, .language-c\+\+) { --code-lang: "C++"; }
+pre.language-c { --code-lang: "C"; }
+pre:is(.language-rust, .language-rs) { --code-lang: "Rust"; }
+pre.language-go { --code-lang: "Go"; }
+pre.language-java { --code-lang: "Java"; }
+pre.language-html { --code-lang: "HTML"; }
+pre.language-css { --code-lang: "CSS"; }
+pre.language-scss { --code-lang: "SCSS"; }
+pre.language-sass { --code-lang: "Sass"; }
+pre:is(.language-markdown, .language-md) { --code-lang: "Markdown"; }
+pre.language-json { --code-lang: "JSON"; }
+pre:is(.language-yaml, .language-yml) { --code-lang: "YAML"; }
+pre.language-sql { --code-lang: "SQL"; }
+pre:is(.language-latex, .language-tex) { --code-lang: "LaTeX"; }
+pre.language-lua { --code-lang: "Lua"; }
+pre.language-dockerfile { --code-lang: "Dockerfile"; }
+pre.language-php { --code-lang: "PHP"; }
+pre.language-mermaid { --code-lang: "Mermaid"; }
+
+/* Token Color Scheme */
+.theme-dark :is(.markdown-rendered, .markdown-source-view.mod-cm6) .token.script { color: var(--code-normal); }
+.theme-dark :is(.markdown-rendered, .markdown-source-view.mod-cm6) .token.imports { color: var(--code-variable); }
+.theme-dark :is(.markdown-rendered, .markdown-source-view.mod-cm6) .token:is(.builtin, .regex, .keyword) { font-style: italic; color: var(--code-important); }
+.theme-dark :is(.markdown-rendered, .markdown-source-view.mod-cm6) .token:is(.selector, .inserted, .char, .attr-value) { color: var(--color-green); }
+.theme-dark :is(.markdown-rendered, .markdown-source-view.mod-cm6) .token:is(.class-name, .maybe-class-name, .color) { color: var(--code-class); }
+.theme-dark :is(.markdown-rendered, .markdown-source-view.mod-cm6) .token:is(.property-access, .attr-name, .annotation, .key, .entity, .parameter, .url) { color: var(--code-variable); }
+.theme-dark :is(.markdown-rendered, .markdown-source-view.mod-cm6) .token:is(.comment, .prolog, .doctype, .cdata) { color: var(--code-comment); }
+.theme-dark :is(.markdown-rendered, .markdown-source-view.mod-cm6) .cm-tag { color: var(--code-tag); }
+.theme-dark :is(.markdown-rendered, .markdown-source-view.mod-cm6) :is(.cm-punctuation, .cm-bracket, .cm-hr, .cm-operator) { color: var(--code-punctuation); }
+.theme-dark :is(.markdown-rendered, .markdown-source-view.mod-cm6) .cm-number { color: var(--code-value); }
+.theme-dark :is(.markdown-rendered, .markdown-source-view.mod-cm6) :is(.cm-qualifier, .cm-string:not(.cm-url), .cm-string-2, .cm-meta:not(.cm-hashtag)) { color: var(--code-string); }
+.theme-dark :is(.markdown-rendered, .markdown-source-view.mod-cm6) :is(.cm-def, .cm-property, .cm-number + .cm-variable, .cm-attribute, .cm-atom) { color: var(--code-property); }
+.theme-dark :is(.markdown-rendered, .markdown-source-view.mod-cm6) :is(.cm-type, .cm-builtin) { color: var(--code-keyword); font-weight: 550; }
+.theme-dark :is(.markdown-rendered, .markdown-source-view.mod-cm6) .cm-keyword { font-style: italic; }
+.theme-dark :is(.markdown-rendered, .markdown-source-view.mod-cm6) .cm-variable { color: var(--code-function); }
+.theme-dark :is(.markdown-rendered, .markdown-source-view.mod-cm6) .cm-variable-2 { color: var(--code-value); }
+.theme-dark :is(.markdown-rendered, .markdown-source-view.mod-cm6) .cm-variable-3 { filter: hue-rotate(40deg); }
+
+/* ==========================================================================
+   8. HEADINGS & BLOCKQUOTES
+   ========================================================================== */
+body.theme-dark {
+  --h1-color: rgb(var(--color-red-rgb));
+  --h2-color: rgb(var(--color-orange-rgb));
+  --h3-color: rgb(var(--color-green-rgb));
+  --h4-color: rgb(var(--color-blue-rgb));
+  --h5-color: rgb(var(--color-purple-rgb));
+  --h6-color: rgb(var(--color-cyan-rgb));
+
+  --h1-size: calc(var(--font-text-size) * 2.0);
+  --h1-weight: 750;
+  --h1-line-height: calc(var(--line-height-normal) * var(--h1-size));
+
+  --h2-size: calc(var(--font-text-size) * 1.5);
+  --h2-weight: 700;
+  --h2-line-height: calc(var(--line-height-normal) * var(--h2-size));
+
+  --h3-size: calc(var(--font-text-size) * 1.4);
+  --h3-weight: 600;
+  --h3-line-height: calc(var(--line-height-normal) * var(--h3-size));
+
+  --h4-size: calc(var(--font-text-size) * 1.3);
+  --h4-weight: 550;
+  --h4-line-height: calc(var(--line-height-normal) * var(--h4-size));
+
+  --h5-size: calc(var(--font-text-size) * 1.2);
+  --h5-weight: 550;
+  --h5-line-height: calc(var(--line-height-normal) * var(--h5-size));
+
+  --h6-size: calc(var(--font-text-size) * 1.6);
+  --h6-weight: 500;
+  --h6-line-height: calc(var(--line-height-normal) * var(--h6-size));
+}
+
+body.theme-dark :is(.HyperMD-header-1, h1) { text-align: center; }
+body.theme-dark :is(.HyperMD-header-2 .cm-header:not(.cm-formatting), .markdown-rendered h2) {
+  text-decoration: underline var(--size-2-1);
+}
+body.theme-dark {
+  --bg-opacity: 0.6;
+  --editor-min-opacity: 0.85;
+  --bg-editor: #141313cc;
+}
+
+/* Blockquotes */
+body.theme-dark {
+  --blockquote-background-color: #4969aa;
+  --callout-radius: var(--radius-m);
+  --blockquote-border-color: var(--accent-active);
+  --blockquote-border-thickness: var(--size-4-1);
+  --blockquote-radius: var(--size-2-3);
+  --blockquote-font-style: normal;
+}
+
+body.theme-dark .markdown-rendered blockquote {
+  border: none;
+  border-radius: var(--blockquote-radius);
+  position: relative;
+  margin-block: var(--size-4-3);
+  padding-block: var(--size-2-3);
+  box-shadow: var(--shadow-s);
+  font-style: normal;
+}
+
+body.theme-dark .markdown-rendered blockquote :is(p, h1, h2, h3, h4, h5, h6) {
+  padding-left: var(--blockquote-border-thickness);
+  padding-right: var(--size-4-3);
+}
+
+body.theme-dark .markdown-rendered blockquote::after {
+  content: "";
+  position: absolute;
+  left: var(--size-4-2);
+  inset-block: var(--size-4-2);
+  border-radius: var(--blockquote-radius);
+  width: var(--blockquote-border-thickness);
+  background-color: var(--accent-active-bg);
+}
+
+body.theme-dark .HyperMD-quote {
+  border: solid var(--blockquote-background-color);
+  border-width: 0 var(--size-4-2) 0 var(--size-4-2);
+}
+
+/* ==========================================================================
+   9. TABLES & PDF CONTROLS
+   ========================================================================== */
+body.theme-dark table {
+  width: 100%;
+  border-collapse: initial;
+  border-spacing: 0;
+}
+
+body.theme-dark :is(th, td):not(:first-child) { border-left: 0; }
+body.theme-dark tbody td { border-top: 0; }
+body.theme-dark thead tr th { background-color: var(--background-primary-alt) !important; }
+body.theme-dark :is(th:first-child, th:first-child .table-cell-wrapper) { border-start-start-radius: var(--radius-m); }
+body.theme-dark :is(th:last-child, th:last-child .table-cell-wrapper) { border-start-end-radius: var(--radius-m); }
+body.theme-dark tr:last-child :is(td:first-child, td:first-child .table-cell-wrapper) { border-end-start-radius: var(--radius-m); }
+body.theme-dark tr:last-child :is(td:last-child, td:last-child .table-cell-wrapper) { border-end-end-radius: var(--radius-m); }
+
+/* PDF Dark Invert */
+body.theme-dark .pdfViewer .page {
+  filter: invert(1) contrast(0.8);
+}
+body.theme-dark {
+  --pdf-plus-highlight-opacity: 0.24;
+  --pdf-plus-rect-highlight-opacity: 0.41;
+  --pdf-plus-highlight-padding-vertical-em: 0.85;
+}
+
+/* ==========================================================================
+   10. YAML TAGS & FRONT MATTER STYLING
+   ========================================================================== */
+.theme-dark :is(.markdown-rendered, .markdown-source-view.mod-cm6) .cm-tag {
+  background-color: rgba(126, 183, 240, 0.25);
+  color: var(--code-tag);
+  padding: 3px 8px;
+  border-radius: 12px;
+  border: 1.5px solid rgba(126, 183, 240, 0.5);
+  font-weight: 600;
+  display: inline-block;
+  transition: all var(--animation-fast);
+}
+
+.theme-dark :is(.markdown-rendered, .markdown-source-view.mod-cm6) .cm-tag:hover {
+  background-color: rgba(126, 183, 240, 0.4);
+  border-color: rgba(126, 183, 240, 0.8);
+  box-shadow: 0 0 8px rgba(126, 183, 240, 0.3);
+}
+
+/* YAML Front Matter Styling */
+.theme-dark .markdown-rendered .frontmatter-container,
+.theme-dark .markdown-source-view.mod-cm6 .HyperMD-front-matter {
+  background-color: rgba(26, 42, 58, 0.6);
+  border: 1.5px solid rgba(126, 183, 240, 0.4);
+  border-radius: 12px;
+  padding: 8px;
+  margin-bottom: var(--size-4-2);
+}
+
+/* Outline Badge Mechanic */
+.tag-outline {
+  --tag-border-color: var(--accent-active) !important;
+  --tag-border-width: 1px !important;
+  --tag-color: var(--accent-active) !important;
+}
+
+/* Applied across both Live Preview (.cm-tag-*) and Reading View (.tag[href=*]) */
+:is(.cm-tag-important, .tag[href="#important"]) {
+  --tag-border-color: var(--color-red) !important;
+  --tag-color: var(--color-red) !important;
+}
+
+
+/* ==========================================================================
+   FULL-FILL TAB HOVER STYLING
+   ========================================================================== */
+
+/* 1. Remove outer gaps and make the tab container full height */
+.mod-root .workspace-tab-header {
+  padding: 0 !important;
+  margin: 0 2px !important; /* Small gap between adjacent tabs */
+  height: 100% !important;
+  border-radius: var(--tab-radius, 6px);
+  overflow: hidden;
+  transition: background-color var(--animation-fast), border-color var(--animation-fast);
+}
+
+/* 2. Stretch the inner wrapper to 100% height and width */
+.mod-root .workspace-tab-header-inner {
+  width: 100% !important;
+  height: 100% !important;
+  margin: 0 !important;
+  padding: 0 var(--size-4-3) !important; /* Adjust internal text padding */
+  border-radius: inherit !important;
+  background-color: transparent !important;
+}
+
+/* 3. Apply the full-bleed background on tab hover */
+.mod-root .workspace-tab-header:hover {
+  background-color: var(--background-modifier-hover) !important;
+}
+
+/* 4. Keep the active tab full-bleed as well */
+.mod-root .workspace-tab-header.is-active {
+  background-color: hsla(var(--background-primary-hsl), 0.85) !important;
+  border-color: var(--background-modifier-border) !important;
+}
+
+.mod-root .workspace-tab-header.is-active:hover {
+  background-color: hsla(var(--background-primary-hsl), 0.95) !important;
+}

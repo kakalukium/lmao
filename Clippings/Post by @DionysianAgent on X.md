@@ -117,7 +117,7 @@ that the heart is the seat of the soul, the electromagnetic controller of the se
 
 you see truth is not a performance for others, but a balance of the soul within the self
 
-![[images/5eaf47250347eb5186fd2fa06ea4001c_MD5.jpg]]
+![[_attachments/5eaf47250347eb5186fd2fa06ea4001c_MD5.jpg]]
 
 ---
 

@@ -7,7 +7,7 @@ This geographic pattern is visible in real populations. Japan and Taiwan sit on 
 
 The further a soil’s pH drifts from 6.5, the more national IQ (MNIQ) declines. If your soil is too acidic (like much of the tropics), zinc and iron become unavailable. If your soil is too alkaline (like the Middle East), micronutrients get locked up too. The correlation between soil fertility and national IQ is r = 0.58, meaning soil alone accounts for 34% of the variation. Explaining 34% of a complex human trait is extremely high.
 
-![[images/52f7cf27093ab20f427a82052d64e930_MD5.jpg]]![[images/f3dd146f3d614b183d5af5e2edaf6eec_MD5.png]]![[images/eb360e6c7b386ee6d27f576621dd2767_MD5.png]]![[images/1d025d0021a4175f7ebc69fadb9ac894_MD5.png]]
+![[_attachments/52f7cf27093ab20f427a82052d64e930_MD5.jpg]]![[_attachments/f3dd146f3d614b183d5af5e2edaf6eec_MD5.png]]![[_attachments/eb360e6c7b386ee6d27f576621dd2767_MD5.png]]![[_attachments/1d025d0021a4175f7ebc69fadb9ac894_MD5.png]]
 
 ---
 
@@ -33,7 +33,7 @@ The further a soil’s pH drifts from 6.5, the more national IQ (MNIQ) declines.
 > 
 > American Blacks have lived in the US for > 250 years, yet a super majority (66%) cannot perform arithmetic long division or understand per capita.
 > 
-> ![[images/e6b1034495af483b1b264302d0109320_MD5.jpg]]
+> ![[_attachments/e6b1034495af483b1b264302d0109320_MD5.jpg]]
 
 > **Deutschbalte @phototracks** · [2026-06-05](https://x.com/phototracks/status/2063031591816110360)
 > 

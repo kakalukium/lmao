@@ -10,7 +10,7 @@ The feminist utopia is a police state. Wake up, gentlemen. War is upon you.
 > 
 > The feminist utopia is a police state. Wake up, gentlemen. War is upon you.
 > 
-> ![Image](https://pbs.twimg.com/media/HFauP-AXcAASyt5?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HFTxD0QbYAAFj0Q?format=jpg&name=large)
+> ![Image](_attachments/HFauP-AXcAASyt5_17866961698311393.jpg) ![Image](_attachments/HFTxD0QbYAAFj0Q_17866961698318288.jpg)
 
 ---
 

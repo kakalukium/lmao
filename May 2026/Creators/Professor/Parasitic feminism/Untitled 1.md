@@ -17,7 +17,7 @@ Absolute fail.
 > 
 > Our culture has
 > 
-> ![Image](https://pbs.twimg.com/media/HJWRh9AW0AQd8N2?format=jpg&name=large)
+> ![Image](_attachments/HJWRh9AW0AQd8N2_1786696186190672.jpg)
 
 ---
 

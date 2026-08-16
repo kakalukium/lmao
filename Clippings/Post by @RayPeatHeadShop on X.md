@@ -42,4 +42,4 @@ People adapt to inflammation and fatigue when poverty hormones are elevated.
 > 
 > CO2 opposes lactate; Useful for cancer, cachexia, and CFS etc. x.com/RayPeatHeadSho…
 > 
-> ![[images/03334e5c00f4cea134c5ab3d5cb6686d_MD5.jpg]]
+> ![[_attachments/03334e5c00f4cea134c5ab3d5cb6686d_MD5.jpg]]

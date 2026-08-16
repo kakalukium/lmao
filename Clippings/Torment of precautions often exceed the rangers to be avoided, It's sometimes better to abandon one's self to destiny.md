@@ -3,7 +3,7 @@ source: https://x.com/GRITCULT/status/2065026267771265030
 tags:
   - Individuation/creativity
 ---
-![[images/b0a8a7f339a712eaaaf5f1dea6c42dd5_MD5.jpg]]
+![[_attachments/b0a8a7f339a712eaaaf5f1dea6c42dd5_MD5.jpg]]
 
 ---
 

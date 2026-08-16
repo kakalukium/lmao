@@ -5,8 +5,8 @@ healed so much that I stopped caring about being healed enough
 
 [[The battle is not for love, it is for possession, pride, or resistance]]
 
-![[20260601_011107.jpg]]
-![Image](https://pbs.twimg.com/media/HJmbvX_a0AAc57D?format=jpg&name=large)
+![[_attachments/20260601_011107.jpg]]
+![Image](_attachments/HJmbvX_a0AAc57D_17866961724817438.jpg)
 
 ---
 
@@ -72,7 +72,7 @@ source: "https://x.com/moonsrabbit7/status/2060849803773497682"
 ---
 healed so much that I stopped caring about being healed enough
 
-![Image](https://pbs.twimg.com/media/HJmbvX_a0AAc57D?format=jpg&name=large)
+![Image](_attachments/HJmbvX_a0AAc57D_17866961724817438.jpg)
 
 ---
 
@@ -82,7 +82,7 @@ healed so much that I stopped caring about being healed enough
 > 
 > he said:
 > 
-> ![Image](https://pbs.twimg.com/media/HJp5NRIb0AATv54?format=jpg&name=large)
+> ![Image](_attachments/HJp5NRIb0AATv54_1786696172727842.jpg)
 > 
 > > **tanisha raghav @moonsrabbit7** · [2026-05-31](https://x.com/moonsrabbit7/status/2061093701250916763)
 > > 

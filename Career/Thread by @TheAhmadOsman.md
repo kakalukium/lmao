@@ -99,7 +99,7 @@ I can code but I'm not a coder. I make my money in data. In my opinion data is m
 
 Or use Notion AI to calculate optimal posting strategies, times and title formulas for subreddits 🤫
 
-![Image](https://pbs.twimg.com/media/G0O3WR9WIAAFwMA?format=jpg&name=large)
+![Image](_attachments/G0O3WR9WIAAFwMA_17866962024883635.jpg)
 
 ---
 
@@ -107,4 +107,4 @@ Or use Notion AI to calculate optimal posting strategies, times and title formul
 
 What I see when I see this tweet:
 
-![Image](https://pbs.twimg.com/media/G0Oajp1XYAACog5?format=jpg&name=large)
+![Image](_attachments/G0Oajp1XYAACog5_17866962025871527.jpg)

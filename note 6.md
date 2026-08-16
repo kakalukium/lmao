@@ -78,4 +78,4 @@ This is amazing i need this
 
 ...
 
-![[images/4432535e9e7cffc6a28cdfbb63ce49ba_MD5.jpg]]
+![[_attachments/4432535e9e7cffc6a28cdfbb63ce49ba_MD5.jpg]]

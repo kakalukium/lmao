@@ -24,7 +24,7 @@ Can India see a China like transformation if it's national income rises?
 
 Question - Why don't prosperity and technology control go hand in hand?
 
-![](https://qph.cf2.quoracdn.net/main-qimg-87444e920d80e7fa593885ef870e9807)
+![](_attachments/main-qimg-87444e920d80e7fa593885ef870e9807_17866961382812083.jpg)
 
 They do go hand in hand
 
@@ -76,7 +76,7 @@ China has a separate system of Governance
 
 One that had always placed it at loggerheads with the rest of the world
 
-![](https://qph.cf2.quoracdn.net/main-qimg-aaffdcd3e271ffd618d068cbbb72f4b5)
+![](_attachments/main-qimg-aaffdcd3e271ffd618d068cbbb72f4b5_1786696138384224.jpg)
 
 Within China - the Communist Party is the Country
 
@@ -124,13 +124,13 @@ India's system is not viewed with increasing suspicion
 
 The States couldnt care less who the next Prime Minister of India would likely be
 
-![](https://qph.cf2.quoracdn.net/main-qimg-c4edb998b7c7314356b0c1c45a1337a3)
+![](_attachments/main-qimg-c4edb998b7c7314356b0c1c45a1337a3_17866961383770113.jpg)
 
 Technology Globalization is not seen as a ‘Vulnerability’ but rather as an Opportunity
 
 Self reliance is not seen as a priority but rather as an uneconomical, very expensive, confrontational choice
 
-![](https://qph.cf2.quoracdn.net/main-qimg-7c80c17a796e163acd2705bbc13129fd)
+![](_attachments/main-qimg-7c80c17a796e163acd2705bbc13129fd_17866961385721333.jpg)
 
 China is all about - We need a parallel ecosystem to ensure tomorrow we are not left dependent on G7 owned ecosystems which they could weaponize. So it is worth spending billions of dollars on developing our own parallel ecosystem. The entire system of China will be protected
 

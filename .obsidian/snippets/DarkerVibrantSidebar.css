@@ -1,0 +1,62 @@
+/* 
+  Darker Vibrant Folders for Default Theme 
+  Based on your provided color overrides
+*/
+
+/* 1. DEFINE YOUR CUSTOM DARKER COLORS */
+:root {
+  /* Darker Color Replacements */
+  --C001: #9c3a5f; --C001-RGB: 156, 58, 95 !important; /* Darker Red/Pink */
+  --C002: #b85a2c; --C002-RGB: 184, 90, 44 !important; /* Darker Orange/Red */
+  --C003: #a87e2c; --C003-RGB: 168, 126, 44 !important; /* Darker Gold */
+  --C004: #7a9e3f; --C004-RGB: 122, 158, 63 !important; /* Darker Yellow/Green */
+  --C005: #4a8c65; --C005-RGB: 74, 140, 101 !important; /* Darker Green */
+  --C006: #377a72; --C006-RGB: 55, 122, 114 !important; /* Darker Teal */
+  --C007: #306b8c; --C007-RGB: 48, 107, 140 !important; /* Darker Blue */
+  --C008: #4f8a94; --C008-RGB: 79, 138, 148 !important; /* Darker Cyan/Light Blue */
+  --C009: #6d4da6; --C009-RGB: 109, 77, 166 !important; /* Darker Purple */
+  --C010: #a14d9e; --C010-RGB: 161, 77, 158 !important; /* Darker Pink/Purple */
+  --C011: #a14d7d; --C011-RGB: 161, 77, 125 !important; /* Darker Pink */
+}
+
+/* 2. APPLY COLORS TO FOLDERS IN DEFAULT THEME */
+
+/* This targets the text of the folder */
+.nav-folder-title {
+    transition: color 0.2s ease;
+}
+
+/* We use 'nth-child' to cycle through your 11 colors automatically */
+/* This targets top-level folders and sub-folders */
+
+.nav-folder:nth-child(11n+1) > .nav-folder-title { color: var(--C001); }
+.nav-folder:nth-child(11n+2) > .nav-folder-title { color: var(--C002); }
+.nav-folder:nth-child(11n+3) > .nav-folder-title { color: var(--C003); }
+.nav-folder:nth-child(11n+4) > .nav-folder-title { color: var(--C004); }
+.nav-folder:nth-child(11n+5) > .nav-folder-title { color: var(--C005); }
+.nav-folder:nth-child(11n+6) > .nav-folder-title { color: var(--C006); }
+.nav-folder:nth-child(11n+7) > .nav-folder-title { color: var(--C007); }
+.nav-folder:nth-child(11n+8) > .nav-folder-title { color: var(--C008); }
+.nav-folder:nth-child(11n+9) > .nav-folder-title { color: var(--C009); }
+.nav-folder:nth-child(11n+10) > .nav-folder-title { color: var(--C010); }
+.nav-folder:nth-child(11n+11) > .nav-folder-title { color: var(--C011); }
+
+/* 3. COLOR THE FOLDER ICON (The collapse arrow) */
+/* This ensures the arrow icon matches the text color */
+.nav-folder-collapse-indicator {
+    color: currentColor !important;
+    opacity: 0.8; /* Slightly transparent arrow looks cleaner */
+}
+
+
+/* Style Horizontal Rules (hr) */
+hr {
+    height: 2px !important;
+    border: none !important;
+    background: rgba(180, 164, 164, 0.5) !important;
+    border-radius: 999px !important;
+    box-shadow:
+        0 0 4px rgba(255, 255, 255, 0.55),
+        0 0 10px rgba(255, 255, 255, 0.35) !important;
+    margin: 1rem 0 !important;
+}

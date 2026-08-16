@@ -1,0 +1,13 @@
+/* General Dataview background */
+.dataview {
+  background-color: rgba(0, 0, 0, 0.5); /* or your preferred background */
+  border-radius: 8px;
+
+}
+
+
+/* Remove striped background from Dataview tables */
+.dataview.table-view-table tr:nth-child(even),
+.dataview.table-view-table tr:nth-child(odd) {
+  background-color: rgba(0, 0, 0, 0.5); /* or your preferred background */
+}

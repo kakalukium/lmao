@@ -21,7 +21,7 @@ Everyone in a prestigious and highly credentialed position knows someone lacking
 > > 
 > > https://x.com/search?q=best%20at%20something%20(from%3Asean\_a\_mcclure)&src=typed\_query…
 > > 
-> > ![Image](https://pbs.twimg.com/media/HJvhTK9a8AAdhXn?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HJvhTK4agAAIhNA?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HJvhTK3a8AINl_Y?format=jpg&name=large)
+> > ![Image](_attachments/HJvhTK9a8AAdhXn_1786696108672589.jpg) ![Image](_attachments/HJvhTK4agAAIhNA_17866961086926866.jpg) ![Image](_attachments/HJvhTK3a8AINl_Y_17866961086436124.jpg)
 
 > **push/fade @oldboyhahn** · [2026-06-02](https://x.com/oldboyhahn/status/2061611788748345348)
 > 
@@ -43,7 +43,7 @@ Everyone in a prestigious and highly credentialed position knows someone lacking
 > 
 > • Greater liquidity and
 > 
-> ![Image](https://pbs.twimg.com/media/HJvgFXuWwAASGT1?format=jpg&name=large)
+> ![Image](_attachments/HJvgFXuWwAASGT1_17866961086564333.jpg)
 
 > **Ann Adamson @AnnDiegoUSA** · [2026-06-01](https://x.com/AnnDiegoUSA/status/2061369241505522078)
 > 

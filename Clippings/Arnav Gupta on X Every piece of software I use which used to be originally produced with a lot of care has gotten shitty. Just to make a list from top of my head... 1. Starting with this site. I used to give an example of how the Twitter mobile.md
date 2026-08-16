@@ -43,7 +43,7 @@ Microsoft ecosystem was way bad before agentic development, now it’s even more
 
 [3h](https://x.com/abhieq31/status/2070099618919321617)
 
-[![[images/75bb01ed00cb1512f162bf29b0783a5e_MD5.png]]](https://x.com/abhieq31/status/2070099618919321617/photo/1)[285](https://x.com/abhieq31/status/2070099618919321617/analytics)[Rakesh Bhatia](https://x.com/RakeshBhatia22)[@RakeshBhatia22](https://x.com/RakeshBhatia22)
+[![[_attachments/75bb01ed00cb1512f162bf29b0783a5e_MD5.png]]](https://x.com/abhieq31/status/2070099618919321617/photo/1)[285](https://x.com/abhieq31/status/2070099618919321617/analytics)[Rakesh Bhatia](https://x.com/RakeshBhatia22)[@RakeshBhatia22](https://x.com/RakeshBhatia22)
 
 [4h](https://x.com/RakeshBhatia22/status/2070094088716890496)
 

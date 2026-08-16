@@ -1,0 +1,42 @@
+
+
+
+/* Remove striped background from Dataview tables */
+.dataview.table-view-table tr:nth-child(even),
+.dataview.table-view-table tr:nth-child(odd) {
+  background-color: rgba(0, 0, 0, 0.5); /* or your preferred background */
+}
+
+
+
+/* Style Horizontal Rules (hr) */
+/* --- 1. PREVIEW MODE (Reading View) --- */
+.markdown-preview-view hr {
+    height: 2px !important;
+    border: none !important;
+    background: rgba(180, 164, 164, 0.5) !important;
+    border-radius: 999px !important;
+    box-shadow:
+        0 0 4px rgba(255, 255, 255, 0.55),
+        0 0 10px rgba(255, 255, 255, 0.35) !important;
+    margin: 1rem 0 !important;
+}
+
+/* --- 2. EDIT MODE (Live Preview) --- */
+.HyperMD-hr {
+    border-color: rgba(180, 164, 164, 0.5) !important;
+    border-style: solid !important;
+    border-width: 2px 0 0 0 !important; /* Top border only */
+    border-radius: 999px !important;
+    background: transparent !important;
+    box-shadow:
+        0 0 4px rgba(255, 255, 255, 0.55),
+        0 0 10px rgba(255, 255, 255, 0.35) !important;
+    margin: 1rem 0 !important;
+}
+
+
+
+
+
+

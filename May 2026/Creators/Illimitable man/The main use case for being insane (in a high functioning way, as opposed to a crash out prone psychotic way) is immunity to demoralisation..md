@@ -57,7 +57,7 @@ Thank you.
 
 Having hope is not the natural state of the being, it is an act of rebellion against all that is seemingly inevitable.
 
-![Image](https://pbs.twimg.com/media/HNHhk-8XMAASgj5?format=jpg&name=large)
+![Image](_attachments/HNHhk-8XMAASgj5_17866962165621667.jpg)
 
 ---
 
@@ -101,7 +101,7 @@ Thank you for always writing.
 
 **Relentless Optimist (RO)** @Iamrelentless07 [2026-07-15](https://x.com/Iamrelentless07/status/2077485246828749028)
 
-![Image](https://pbs.twimg.com/media/HNS1sK9XEAABxHx?format=jpg&name=large)
+![Image](_attachments/HNS1sK9XEAABxHx_17866962163042142.jpg)
 
 ---
 
@@ -111,4 +111,4 @@ Thank you for always writing.
 
 tension apparent in Plato’s account of knowledge as rational in character and essentially teachable (promoted by the Republic), but also as beyond
 
-![Image](https://pbs.twimg.com/media/HNJ8oz-aEAAXiEz?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HNJ8oz3boAAA5of?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HNJ8oz6bAAAmOjW?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HNJ8o0AboAAK_2f?format=jpg&name=large)
+![Image](_attachments/HNJ8oz-aEAAXiEz_17866962168578448.jpg) ![Image](_attachments/HNJ8oz3boAAA5of_17866962169121134.jpg) ![Image](_attachments/HNJ8oz6bAAAmOjW_17866962185687072.jpg) ![Image](_attachments/HNJ8o0AboAAK_2f_17866962171965387.jpg)

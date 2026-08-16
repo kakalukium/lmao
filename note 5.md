@@ -23,7 +23,7 @@ Relationship advice,
 > It’s basically like taking the principles of Peating and applying it to your spouse just as much as yourself. Actively wanting the best for them at a cellular level and beyond.
 
 > 
-> ![[images/b1360380f59fb5e7d32e6f43eab1728a_MD5.jpg]] ![[images/89beaa1bde0adeaa6b1196a5875a51e7_MD5.jpg]]![[images/a5d407828ac5d941bb67644dd264321f_MD5.jpg]]
+> ![[_attachments/b1360380f59fb5e7d32e6f43eab1728a_MD5.jpg]] ![[_attachments/89beaa1bde0adeaa6b1196a5875a51e7_MD5.jpg]]![[_attachments/a5d407828ac5d941bb67644dd264321f_MD5.jpg]]
 
 ---
 
@@ -31,7 +31,7 @@ Relationship advice,
 
 post below yours
 
-![[images/b96b9666067dc0cd688c0df40e895cf0_MD5.jpg]]
+![[_attachments/b96b9666067dc0cd688c0df40e895cf0_MD5.jpg]]
 
 
 ---
@@ -42,7 +42,7 @@ Failure to do this is neglect,
 
 And it leads to an imperceptibly slow decay of your relationship; so slow that you don’t realize you’re degenerating until all of a sudden you hit the boiling point and your mutual resentment seems irreversible.
 
-![[images/981af4fb4ad0826e1c0e419bf3e03dbf_MD5.jpg]]
+![[_attachments/981af4fb4ad0826e1c0e419bf3e03dbf_MD5.jpg]]
 
 ---
 
@@ -60,7 +60,7 @@ It just means that as a guy you need to be mindful of her nutrition and environm
 > 
 > All sophisticated cultures of yore understood that when a person is “going through something” the proper form of generosity is to service them with food
 > 
-> ![[images/c6859ad905cd8e4b97553caf5029cd32_MD5.jpg]]
+> ![[_attachments/c6859ad905cd8e4b97553caf5029cd32_MD5.jpg]]
 
 ---
 

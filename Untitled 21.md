@@ -2,7 +2,7 @@ I don't understand the protest
 
 There is just too much conflicting data
 
-![](https://qph.cf2.quoracdn.net/main-qimg-f3f1079b099e14f86a10fd1d8c06839a)
+![](_attachments/main-qimg-f3f1079b099e14f86a10fd1d8c06839a_17866961379137442.jpg)
 
 The entire issue to me is a series of confusing questions
 
@@ -30,7 +30,7 @@ The entire core premise of the CJP protests appear to be along the lines of “W
 
 Question - Why did the Government grant the CJP massive legitimacy?
 
-![](https://qph.cf2.quoracdn.net/main-qimg-4629fca5aa8d2768b7cf9f8b08445405)
+![](_attachments/main-qimg-4629fca5aa8d2768b7cf9f8b08445405_17866961379009857.jpg)
 
 Modi appears to be an absolute Dum Dum when it comes to playing it smart
 
@@ -54,7 +54,7 @@ Now they do
 
 They are protesting against Government Tyranny
 
-![](https://qph.cf2.quoracdn.net/main-qimg-34bf0ac8194e1a5a4dca9e72786423a9)
+![](_attachments/main-qimg-34bf0ac8194e1a5a4dca9e72786423a9_17866961379165065.jpg)
 
 And the entire world seems to be on the side of the protestors now
 
@@ -72,7 +72,7 @@ If Dharmendra himself decided to resign so as not to cause so much chaos - would
 
 I see no clear picture on this
 
-![](https://qph.cf2.quoracdn.net/main-qimg-7805416f8a9ea9ba114fc29e690bb49f)
+![](_attachments/main-qimg-7805416f8a9ea9ba114fc29e690bb49f_178669613804427.jpg)
 
 Abhijeet says he wants Dharmendra to resign but he also categorically says protests will continue even if Dharmendra resigns
 
@@ -88,7 +88,7 @@ The Reality is simply this
 
 Modi and his boys have over reached massively
 
-![](https://qph.cf2.quoracdn.net/main-qimg-8a84cfe4e9f445db64599b84e0428807)
+![](_attachments/main-qimg-8a84cfe4e9f445db64599b84e0428807_17866961381585512.jpg)
 
 Like Erdogan and Orban in Europe
 
@@ -100,7 +100,7 @@ So they are slowly turning from a clueless group of noisemakers into ‘Legitima
 
 Modi was either absolutely stupid or totally arrogant in not defusing this way earlier than he should have
 
-![](https://qph.cf2.quoracdn.net/main-qimg-dbffeeebd6a5db027a9e8313969e9f11)
+![](_attachments/main-qimg-dbffeeebd6a5db027a9e8313969e9f11_17866961381524372.jpg)
 
 His pals Putin or Xi Jinpeng would have defused the situation long ago efficiently
 
@@ -153,4 +153,4 @@ View 4 shares
 
 This is how we are moving
 
-![[Screenshot_2026-07-27-11-24-15-497_com.yandex.browser-edit.jpg]]
+![[_attachments/Screenshot_2026-07-27-11-24-15-497_com.yandex.browser-edit.jpg]]

@@ -19,4 +19,4 @@ The Cultured Hedonist archetype crafts that by seeking out things that he's call
 
 (Painting by Charles Napier Kennedy, titled: Perseus and Andromeda)
 
-[![[images/8b76f27a12b931643f2adce7e9b090d4_MD5.jpg]]](https://x.com/culturehedonist/status/2068760654006133035/photo/1)
+[![[_attachments/8b76f27a12b931643f2adce7e9b090d4_MD5.jpg]]](https://x.com/culturehedonist/status/2068760654006133035/photo/1)

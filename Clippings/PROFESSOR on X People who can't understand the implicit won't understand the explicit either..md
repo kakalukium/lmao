@@ -11,7 +11,7 @@ People who can't understand the implicit won't understand the explicit either.
 
 When u realise telling them how u feel won't change anything so u just let it go
 
-![[images/e161d205e2dd4f9e381a4632b8124b87_MD5.jpg]]
+![[_attachments/e161d205e2dd4f9e381a4632b8124b87_MD5.jpg]]
 
 0:10
 

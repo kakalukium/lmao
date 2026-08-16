@@ -80,4 +80,4 @@ The Default State seeks default state.
 > 
 > Masculinization is x.com/ClickingSeason…
 > 
-> ![[images/8117f8377695324c3218901c82be659d_MD5.png]]![[images/fbc5ed0897b49651304b31a4062254b4_MD5.png]]![[images/68e1dd87c10e0d661b7d7194ff15037e_MD5.jpg]]![[images/a7fc302fdcb16d3d6c793fe0356ef443_MD5.png]]
+> ![[_attachments/8117f8377695324c3218901c82be659d_MD5.png]]![[_attachments/fbc5ed0897b49651304b31a4062254b4_MD5.png]]![[_attachments/68e1dd87c10e0d661b7d7194ff15037e_MD5.jpg]]![[_attachments/a7fc302fdcb16d3d6c793fe0356ef443_MD5.png]]

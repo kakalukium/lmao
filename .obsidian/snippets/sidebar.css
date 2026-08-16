@@ -1,0 +1,488 @@
+
+.nav-file-title.is-active
+ {
+  border-color: #000000 !important;
+  background-color: #6c839c !important;
+  font-weight: 190 !important;
+  color: white !important;
+}
+
+
+strong,
+
+.cm-s-obsidian span.cm-formatting-strong,
+
+.cm-s-obsidian span.cm-strong {
+font-weight: 500 !important;
+
+
+}
+
+
+
+ /* Example: Change body text color, font, and alignment */
+.markdown-preview-view {
+  color: #c2c9c2 !important; /* Light gray text */
+  font-weight: 300 !important;
+
+
+
+}
+
+/* Optional: Style text in editing mode */
+.cm-s-obsidian {
+  color:  #acb6ac !important; /* Light gray text */
+  font-weight: 300 !important;
+
+
+}
+
+
+
+
+
+
+
+/* Compact Dataview Tables */
+.dataview.table-view-table {
+    font-size: 0.8em;
+}
+
+/* Reduce padding in table cells */
+.dataview.table-view-table td,
+.dataview.table-view-table th {
+    padding: 4px 8px !important;
+}
+
+/* Optional: Reduce gap between rows */
+.dataview.table-view-table tr {
+    line-height: 1.2;
+}
+
+
+/* 🔹 Selected text background + text color */
+.cm-s-obsidian ::selection {
+  background: rgb(0, 45, 51) !important;
+  
+}
+
+/* 🔹 Reading mode selections */
+.markdown-preview-view ::selection {
+  background: rgb(0, 45, 51) !important;
+}
+
+
+
+
+/* =========================================
+   OBSIDIAN HEADER FONT SIZE SNIPPET
+   ========================================= */
+
+/* --- Reading View --- */
+.markdown-preview-view h1 { font-size: 2.5em; }
+.markdown-preview-view h2 { font-size: 2.0em; }
+.markdown-preview-view h3 { font-size: 1.5em; }
+.markdown-preview-view h4 { font-size: 1.25em; }
+.markdown-preview-view h5 { font-size: 1.1em; }
+.markdown-preview-view h6 { font-size: 1.0em; }
+
+/* --- Live Preview / Editing View --- */
+.markdown-source-view.mod-cm6 .HyperMD-header-1 { font-size: 2.5em; }
+.markdown-source-view.mod-cm6 .HyperMD-header-2 { font-size: 2.0em; }
+.markdown-source-view.mod-cm6 .HyperMD-header-3 { font-size: 1.5em; }
+.markdown-source-view.mod-cm6 .HyperMD-header-4 { font-size: 1.25em; }
+.markdown-source-view.mod-cm6 .HyperMD-header-5 { font-size: 1.1em; }
+.markdown-source-view.mod-cm6 .HyperMD-header-6 { font-size: 1.28em; line-height: 1.6;  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+    Obsidian Link Icons Snippet
+    Fixed for Plain/Bare Links (v3)
+*/
+
+/* --- General Variables & Setup --- */
+body {
+    /* These variables ensure consistent sizing and spacing. */
+    /* Adjust these values if you want to change icon size or spacing globally. */
+    --link-icon-size-internal: 1.5em; /* Size for internal link icons (larger) */
+    --link-icon-size-external: 1em; /* Size for external link icons (larger) */
+    --link-icon-spacing: 0.35em; /* Space between icon and link text */
+    --link-icon-vertical-offset: 0em; /* Adjust for vertical alignment */
+    /* Color variables with sensible fallbacks (theme variables may override these) */
+    --link-icon-color-internal: var(--color-accent, #2762a1) !important;
+    --link-icon-color-external: var(--color-foreground, #4ea1ff) !important;
+}
+
+/* --- Reading View (Unchanged) --- */
+
+/* Reading View internal links */
+.markdown-preview-view a.internal-link:not(.is-unresolved)::before {
+    content: ' ';
+    display: inline-block;
+    width: var(--link-icon-size-internal);
+    height: var(--link-icon-size-internal);
+    vertical-align: middle;
+    transform: translateY(var(--link-icon-vertical-offset));
+    margin-inline-end: var(--link-icon-spacing);
+    /* Use SVG as a mask so background-color controls the icon color reliably */
+    -webkit-mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/><path d="M10 9H8"/><path d="M16 13H8"/><path d="M16 17H8"/></svg>');
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-position: center;
+    -webkit-mask-size: contain;
+    mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 0 0 0 2 2h4"/><path d="M10 9H8"/><path d="M16 13H8"/><path d="M16 17H8"/></svg>');
+    mask-repeat: no-repeat;
+    mask-position: center;
+    mask-size: contain;
+    background-color: var(--link-icon-color-internal);
+}
+
+/* Reading View external links */
+.markdown-preview-view a.external-link::before {
+    content: ' ';
+    display: inline-block;
+    width: var(--link-icon-size-external);
+    height: var(--link-icon-size-external);
+    vertical-align: middle;
+    transform: translateY(var(--link-icon-vertical-offset));
+    margin-inline-end: var(--link-icon-spacing);
+    -webkit-mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>');
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-position: center;
+    -webkit-mask-size: contain;
+    mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>');
+    mask-repeat: no-repeat;
+    mask-position: center;
+    mask-size: contain;
+    background-color: var(--link-icon-color-external);
+}
+
+
+/* --- Live Preview / Editing Mode (Fixed for Bare Links) --- */
+
+/* 1. Internal Links [[WikiLinks]] */
+.markdown-source-view.mod-cm6 .cm-hmd-internal-link::before {
+    content: ' ';
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: var(--link-icon-size-internal);
+    height: var(--link-icon-size-internal);
+    vertical-align: middle;
+    transform: translateY(var(--link-icon-vertical-offset));
+    margin-inline-end: var(--link-icon-spacing);
+    -webkit-mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 0 0 0 2 2h4"/><path d="M10 9H8"/><path d="M16 13H8"/><path d="M16 17H8"/></svg>');
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-position: center;
+    -webkit-mask-size: contain;
+    mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 0 0 0 2 2h4"/><path d="M10 9H8"/><path d="M16 13H8"/><path d="M16 17H8"/></svg>');
+    mask-repeat: no-repeat;
+    mask-position: center;
+    mask-size: contain;
+    background-color: var(--link-icon-color-internal);
+}
+
+/* 2. External Links [Text](URL) and Plain/Bare Links */
+/* 
+   EXPLANATION:
+   - We target .cm-link (for the text part of [text](url) and most bare links).
+   - We ALSO target .cm-url (for bare links that might only have .cm-url class).
+   - .not(:has(~ .cm-link)): This prevents the icon from appearing on the URL part 
+     of a Markdown link [text](url), because the URL part in that case has a "sibling" 
+     which is the text part. A standalone bare link has no such sibling.
+*/
+.markdown-source-view.mod-cm6 :is(.cm-link):not(.cm-hmd-internal-link):not(.cm-formatting-link):not(:has(~ .cm-link))::before {
+    content: ' ';
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: var(--link-icon-size-external);
+    height: var(--link-icon-size-external);
+    vertical-align: middle;
+    transform: translateY(var(--link-icon-vertical-offset));
+    margin-inline-end: var(--link-icon-spacing);
+    -webkit-mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>');
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-position: center;
+    -webkit-mask-size: contain;
+    mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>');
+    mask-repeat: no-repeat;
+    mask-position: center;
+    mask-size: contain;
+    background-color: var(--link-icon-color-external);
+}
+
+
+.markdown-source-view.mod-cm6 :is(.cm-url):not(.cm-string):not(.cm-hmd-internal-link):not(:has(~ .cm-link))::before {
+    content: ' ';
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: var(--link-icon-size-external);
+    height: var(--link-icon-size-external);
+    vertical-align: middle;
+    transform: translateY(var(--link-icon-vertical-offset));
+    margin-inline-end: var(--link-icon-spacing);
+    -webkit-mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>');
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-position: center;
+    -webkit-mask-size: contain;
+    mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>');
+    mask-repeat: no-repeat;
+    mask-position: center;
+    mask-size: contain;
+    background-color: var(--link-icon-color-external);
+}
+
+
+/* --- Compatibility / Overrides --- */
+
+/* If your theme already adds an external link arrow, this will remove it */
+.external-link {
+    background-image: none !important;
+    padding-inline-end: 0 !important;
+}
+
+/* Ensure the background of code within links doesn't interfere */
+:is(a.external-link, .cm-link .cm-underline, .cm-url:not(.cm-string) .cm-underline) code {
+    background-color: transparent !important;
+}
+
+
+
+/* Dims images in reading view and live preview */
+.markdown-preview-view img,
+.markdown-source-view img {
+    filter: brightness(0.6); 
+}
+
+/* Dims the hover preview popup */
+.image-hover-popover img {
+    filter: brightness(0.6); 
+}
+/* ==============================
+   LIVE PREVIEW (EDITOR MODE)
+   ============================== */
+
+.cm-s-obsidian .HyperMD-quote,
+.cm-s-obsidian .HyperMD-callout {
+    background: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+    border: none !important;
+    
+    /* Blue left line */
+    border-left: 4px solid #4969aa !important;
+    
+    /* Removes the white sliver */
+    margin-left: 0 !important;
+    
+    /* Padding removed from here because CodeMirror resets it when you type */
+}
+
+/* ADDED: Padding applied to the actual text line inside the editor. This stays locked! */
+.cm-s-obsidian .HyperMD-quote .cm-line,
+.cm-s-obsidian .HyperMD-callout .cm-line {
+    padding-left: 24px !important; 
+}
+
+/* Force callouts to keep their unique colors for the left line */
+.cm-s-obsidian .HyperMD-callout {
+    border-left-color: #4969aa !important;
+}
+
+/* Kill hidden background rectangles */
+.cm-s-obsidian .HyperMD-quote::before,
+.cm-s-obsidian .HyperMD-callout::before {
+    background: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.cm-s-obsidian .HyperMD-quote *,
+.cm-s-obsidian .HyperMD-callout *,
+.cm-s-obsidian .HyperMD-quote::after,
+.cm-s-obsidian .HyperMD-callout::after {
+    background: none !important;
+}
+
+
+/* ==============================
+   READING MODE (Left Unchanged)
+   ============================== */
+
+.markdown-reading-view blockquote,
+.markdown-rendered blockquote,
+.callout {
+    background: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+    border: none !important;
+    
+    /* Blue left line */
+    border-left: 4px solid #0f5df8 !important;
+    
+    /* Keeps the white sliver from showing on the left edge */
+    margin-left: 0 !important;
+    padding-left: 16px !important; 
+}
+
+/* Force callouts to keep their unique colors for the left line */
+.callout {
+    border-left-color: #4969aa !important;
+}
+
+/* Kill hidden background rectangles */
+.markdown-reading-view blockquote::before,
+.markdown-rendered blockquote::before,
+.callout::before {
+    background: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.markdown-reading-view blockquote *,
+.markdown-rendered blockquote *,
+.callout *,
+.markdown-reading-view blockquote::after,
+.markdown-rendered blockquote::after,
+.callout::after {
+    background: none !important;
+}
+
+
+/* =========================================================
+   SINGLE UNIFIED COLOR FOR ALL BLOCKQUOTE LINES
+   ========================================================= */
+
+:root {
+  /* Set your single quote line color here */
+  --quote-line-color: #6c81ac; 
+}
+
+/* 1. Live Preview (Editor Mode) - All levels */
+.cm-s-obsidian .HyperMD-quote,
+.cm-s-obsidian .HyperMD-quote.HyperMD-quote-1,
+.cm-s-obsidian .HyperMD-quote.HyperMD-quote-2,
+.cm-s-obsidian .HyperMD-quote.HyperMD-quote-3,
+.cm-s-obsidian .HyperMD-quote.HyperMD-quote-4 {
+    border-left: 4px solid var(--quote-line-color) !important;
+    background: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+    margin-left: 0 !important;
+}
+
+/* Keep text padding in Live Preview */
+.cm-s-obsidian .HyperMD-quote .cm-line {
+    padding-left: 24px !important;
+}
+
+/* 2. Reading View - All levels (including nested) */
+.markdown-reading-view blockquote,
+.markdown-rendered blockquote,
+.markdown-rendered blockquote blockquote {
+    border-left: 4px solid var(--quote-line-color) !important;
+    background: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+    margin-left: 0 !important;
+    padding-left: 16px !important;
+}
+
+/* 3. Strip extra background/border pseudoelements */
+.cm-s-obsidian .HyperMD-quote::before,
+.cm-s-obsidian .HyperMD-quote::after,
+.markdown-rendered blockquote::before,
+.markdown-rendered blockquote::after {
+    background: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+
+
+
+/* ==========================================================================
+   CODEBLOCK COORDINATE CALIBRATION (FIXES "ONE LINE BELOW" CARET BUG)
+   ========================================================================== */
+
+/* 1. Reset all vertical margins on codeblock lines (CRITICAL) */
+.cm-s-obsidian .cm-line.HyperMD-codeblock,
+.cm-s-obsidian .cm-line.HyperMD-codeblock.HyperMD-codeblock-begin-bg,
+.cm-s-obsidian .cm-line.HyperMD-codeblock.HyperMD-codeblock-end-bg {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  margin-block: 0 !important;
+  line-height: var(--line-height-normal, 1.6) !important; /* Keep identical to editor line-height */
+}
+
+/* 2. Codeblock container structure (Editor Mode) */
+.cm-s-obsidian .cm-line.HyperMD-codeblock {
+  color: var(--code-normal) !important;
+  background-color: var(--code-background);
+  border-inline: var(--code-border-width) solid var(--code-border-color);
+  border-radius: 0 !important;
+  padding-left: var(--size-4-12) !important; /* Gutter space for line numbers */
+  padding-right: var(--size-4-3) !important;
+  position: relative;
+}
+
+/* 3. Top and bottom styling without using margins */
+.cm-s-obsidian .cm-line.HyperMD-codeblock.HyperMD-codeblock-begin-bg {
+  border-top: var(--code-border-width) solid var(--code-border-color);
+  border-start-start-radius: var(--code-radius) !important;
+  border-start-end-radius: var(--code-radius) !important;
+  padding-top: 4px !important;
+}
+
+.cm-s-obsidian .cm-line.HyperMD-codeblock.HyperMD-codeblock-end-bg {
+  border-bottom: var(--code-border-width) solid var(--code-border-color);
+  border-end-start-radius: var(--code-radius) !important;
+  border-end-end-radius: var(--code-radius) !important;
+  padding-bottom: 4px !important;
+}
+
+/* 4. Line Numbers: Lock to line height so they don't stretch the line box */
+.markdown-source-view.mod-cm6 .cm-contentContainer {
+  counter-reset: code-line;
+}
+
+.cm-s-obsidian .cm-line.HyperMD-codeblock:not(.HyperMD-codeblock-begin):not(.HyperMD-codeblock-end)::before {
+  counter-increment: code-line;
+  content: counter(code-line);
+  position: absolute;
+  text-align: right;
+  width: var(--size-4-8);
+  left: var(--size-4-2);
+  top: 0;
+  bottom: 0;
+  height: 100% !important;
+  line-height: inherit !important; /* Must inherit line-height */
+  color: var(--accent-active);
+  opacity: 0.55;
+  font-weight: 400 !important;
+  font-size: 0.85em;
+  user-select: none;
+  pointer-events: none !important; /* Prevents click hijacking */
+}
+
+.cm-s-obsidian .cm-line.HyperMD-codeblock:not(.HyperMD-codeblock-begin):not(.HyperMD-codeblock-end).cm-active::before {
+  opacity: 1 !important;
+  color: var(--color-accent) !important;
+  font-weight: 600 !important;
+}
+
+.cm-s-obsidian .cm-line.HyperMD-codeblock-end {
+  counter-set: code-line 0;
+}

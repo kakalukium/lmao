@@ -78,7 +78,7 @@ The rest is up to discernment.
 > 
 > 🤍
 
-> ![[images/23690b9e28beda268845e73717fdd482_MD5.jpg]]
+> ![[_attachments/23690b9e28beda268845e73717fdd482_MD5.jpg]]
 
 
 ---

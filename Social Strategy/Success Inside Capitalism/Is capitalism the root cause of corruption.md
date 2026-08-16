@@ -7,7 +7,7 @@ Give him all the resources he will ever need to tackle the problem, access to in
 
 If he cannot, that is to say if he finds himself looking out to others, calling up his friends, to help him along and walk him through his internal monologue, or worse yet, indebts himself to a scam artist who promises to perform his due diligence for him- Then there’s your problem.
 
-![[images/08ea394312b49febd684856fab171dd5_MD5.jpg]]
+![[_attachments/08ea394312b49febd684856fab171dd5_MD5.jpg]]
 
 When enough people in a society become stupid in this way, as they did during the turn of the Neolithic revolution, you find them needing someone to organise and direct them towards actions that would serve them and larger society.
 
@@ -59,7 +59,7 @@ Communism is an utopic pipe dream. Utopias only work under utopic conditions i.e
 
 When your average dingus cannot contrive a meaningful and original essay despite his formal education, only able to bastardise from other sources, he is only good for slavery, and a society that thrives under an oppressive leash.
 
-![[images/5beaaf80ef266f7f989c53de7ae0dc40_MD5.jpg]]
+![[_attachments/5beaaf80ef266f7f989c53de7ae0dc40_MD5.jpg]]
 
 As they look outwardly to their Gods to lead them to salvation, or wishfully to alleged paradises in the afterlife to save them from what their stupidity has turned out here on Earth on some fine day, all without putting in an ounce of effort to be better humans, they look out to the capitalistic class to spoon-feed them instructions as trivially as their silly brains can grasp to not end up becoming a menace to themselves, above all, and others.
 

@@ -32,4 +32,4 @@ Someone said, "If you don't fight for your love, there is no love." It is a comp
 
 > **Moisés ante el faraon @harnxssing** · [2026-06-09](https://x.com/harnxssing/status/2064408894831509719)
 > 
-> ![[images/48ab0ddefec96132f736c1862b8c7e37_MD5.jpg]]
+> ![[_attachments/48ab0ddefec96132f736c1862b8c7e37_MD5.jpg]]

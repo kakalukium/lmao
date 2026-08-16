@@ -2,11 +2,11 @@ The essentiality of accumulating wealth for an intelligent, euthyroid person liv
 
 It’s a way to enforce and maintain a barrier of separation between yourself and the masses, who, if not kept in-check by the exclusivity of wealth, will cause untold problems to you.
 
-![[images/e5c9536061449379b304b3e5c4883843_MD5.png]]
+![[_attachments/e5c9536061449379b304b3e5c4883843_MD5.png]]
 
 Foremost, the masses themselves are the problem, because when you operate en masse, i.e. without individuality, independent and critical thinking, or any personal convictions in a matter, the social order becomes tyrannical where mob rule alone serves justice.
 
-![[images/2d1c61516c965a2cfbb367f3c88a9620_MD5.png]]
+![[_attachments/2d1c61516c965a2cfbb367f3c88a9620_MD5.png]]
 
 Historically, some of the worst crimes against humanity were perpetrated, not by dissenting individuals, but by aggrieved mobs and their chosen fanatical leaders.
 
@@ -46,7 +46,7 @@ They complain about their finances when they have a compulsive need to own the l
 
 They whine about corruption in their political spheres while electing in anyone who doesn’t hold them accountable and provides convenient falsifications.
 
-![[images/e21f4f7c77c1e534b1a52aa28607346f_MD5.jpg]]
+![[_attachments/e21f4f7c77c1e534b1a52aa28607346f_MD5.jpg]]
 
 (Studies demonstrate that serotonin, which wires cognitive bias for harm aversion as opposed to the novelty-seeking functions of dopamine, foster an exploitation bias.)
 
@@ -58,7 +58,7 @@ In the peasant’s social life, reputation takes the place of understanding, whe
 
 Like the serotonin dominant rat, the peasant sees his environment as a projection of his own mentality, i.e. of being scarce in resources, self-serving, time-sensitive, and lacking harmony, and as such, never opens his mind up to systemic realities.
 
-![[images/5d488cdd5eed8ef778842e4cb4cf6500_MD5.png]]
+![[_attachments/5d488cdd5eed8ef778842e4cb4cf6500_MD5.png]]
 
 Overall, the peasants don’t like to change, challenge, or understand themselves but complain about their poverty that results from them repeating their own patterns unconsciously. They despise constructive criticism and calls-to-action, choosing to elect those who blame others and excuse them of any responsibility in the situation, only later to complain that their politicians have led them astray.
 
@@ -104,9 +104,9 @@ They have no desire for situational awareness or curiosity about their environme
 
 A creature of habit, condemned to its programming, or what us video gamers call NPCs (non-playable characters that perform a set of duties as their developers intended).
 
-![[images/ecb40cba108a9d6e11eafc25a3a31bf0_MD5.png]]
+![[_attachments/ecb40cba108a9d6e11eafc25a3a31bf0_MD5.png]]
 
-![[images/72f332a558a4927ed2f3d033176994cb_MD5.png]]
+![[_attachments/72f332a558a4927ed2f3d033176994cb_MD5.png]]
 
 (I am willing to bet the 1% passenger toying around the interactive map will stand a higher chance of ending up in First Class one day.)
 

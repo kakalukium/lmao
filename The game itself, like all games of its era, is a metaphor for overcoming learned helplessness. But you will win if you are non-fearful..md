@@ -54,7 +54,7 @@ Related.
 > It’s seldom as simple as thyroid.
 > Literally the end result of decades-long dеmоniс torment
 > 
-> ![[images/4c3d4f7bc8e39bf2eee493f13b501e88_MD5.jpg]]
+> ![[_attachments/4c3d4f7bc8e39bf2eee493f13b501e88_MD5.jpg]]
 
 ---
 

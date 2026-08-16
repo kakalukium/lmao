@@ -61,7 +61,7 @@ People just like you.
 > 
 > 😂
 > 
-> ![Image](https://pbs.twimg.com/media/HJ4Hs-wWwAACVmj?format=jpg&name=large)
+> ![Image](_attachments/HJ4Hs-wWwAACVmj_17866961826296988.jpg)
 
 > **The E in Escaladizzy @TheHeroicYN** · [2026-06-02](https://x.com/TheHeroicYN/status/2061831064130109611)
 > 
@@ -79,4 +79,4 @@ People just like you.
 > 
 > by behaving like the main character
 > 
-> ![Image](https://pbs.twimg.com/media/HJ0EX3bXkAA6PfV?format=jpg&name=large)
+> ![Image](_attachments/HJ0EX3bXkAA6PfV_17866961825659146.jpg)

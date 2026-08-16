@@ -33,7 +33,7 @@ meanwhile women here wanna hoe and still be perceived as sati savitri
 > > 
 > > i often visualise it as the romantic painting of the wanderer above the fog.
 > > 
-> > ![Image](https://pbs.twimg.com/media/HJLUDkKaEAAK5AO?format=jpg&name=large)
+> > ![Image](_attachments/HJLUDkKaEAAK5AO_17866961381778486.jpg)
 > > 
 > > > **Avanisimha @ceo\_pmc** · [2026-05-25](https://x.com/ceo_pmc/status/2058941346057261090)
 > > > 

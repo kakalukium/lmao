@@ -63,11 +63,11 @@ Cosmetic procedures (self-mutilation) exemplify a stressed organism expending it
 > 
 > She has never publicly acknowledged or denied having plastic surgery, despite drastic changes to her appearance.
 > 
-> ![Image](https://pbs.twimg.com/media/GtWfqa5WgAAO7v2?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/GtWfqa0W8AAuxxl?format=jpg&name=large) ![https://raypeat.com/articles/articles/serotonin-disease-aging-inflammation.shtml](https://pbs.twimg.com/media/GtWfqauW0AAmZMx?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/GtWfqa1WEAAyh5w?format=jpg&name=large)
+> ![Image](_attachments/GtWfqa5WgAAO7v2_17866961914291513.jpg) ![Image](_attachments/GtWfqa0W8AAuxxl_1786696191705856.jpg) ![https://raypeat.com/articles/articles/serotonin-disease-aging-inflammation.shtml](_attachments/GtWfqauW0AAmZMx_17866961914503841.jpg) ![Image](_attachments/GtWfqa1WEAAyh5w_1786696191409923.jpg)
 
 > **Dang @metabolicdang** · 2025-06-13
 > 
 > In a capital-driven society, beauty is bought and sold, and relationships are treated as commodities valued primarily for their material and hierarchical benefits. To meet market demands, cosmetic surgeries are performed, often under coercion. However, cosmetic surgeries x.com/OliLondonTV/st…
 > 
-> ![Image](https://pbs.twimg.com/media/HIdz36dWMAAPXBi?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HIdz36eWgAA8WDn?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HIdz37FXYAAl0KH?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HIdz36cWIAAfXjd?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/GtWfqa5WgAAO7v2?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/GtWfqa0W8AAuxxl?format=jpg&name=large)
+> ![Image](_attachments/HIdz36dWMAAPXBi_1786696191586389.jpg) ![Image](_attachments/HIdz36eWgAA8WDn_17866961918206472.jpg) ![Image](_attachments/HIdz37FXYAAl0KH_17866961916922204.jpg) ![Image](_attachments/HIdz36cWIAAfXjd_17866961922051356.jpg) ![Image](_attachments/GtWfqa5WgAAO7v2_17866961914291513.jpg) ![Image](_attachments/GtWfqa0W8AAuxxl_1786696191705856.jpg)
 

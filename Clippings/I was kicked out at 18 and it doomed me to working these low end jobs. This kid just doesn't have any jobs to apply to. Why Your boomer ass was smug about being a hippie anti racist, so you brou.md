@@ -7,7 +7,7 @@ description: Needs more clipping
 
 Modern mothers are incapable of understanding the hopelessness of the average young man
 
-[![[images/6602d6ae7059e6b5142b6d367447a042_MD5.jpg]]](https://x.com/KILLTOPARTY/status/2068083657189863452/photo/1)[43K](https://x.com/KILLTOPARTY/status/2068083657189863452/analytics)
+[![[_attachments/6602d6ae7059e6b5142b6d367447a042_MD5.jpg]]](https://x.com/KILLTOPARTY/status/2068083657189863452/photo/1)[43K](https://x.com/KILLTOPARTY/status/2068083657189863452/analytics)
 
 These kids don’t get their ass kicked enough. They’re coddled and completely incapable of independence[2.6K](https://x.com/thunderxoliver/status/2068120878953472471/analytics)[Charlie Kirkenau](https://x.com/NoMorePraheets)[@NoMorePraheets](https://x.com/NoMorePraheets)
 

@@ -23,7 +23,7 @@ Be seeing you next time around.
 
 Other formats for your manuals.
 
-![Image](https://pbs.twimg.com/media/HJGLN4HbgAAlwu1?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HJGLdNpbQAA43Oo?format=jpg&name=large)
+![Image](_attachments/HJGLN4HbgAAlwu1_1786696172535446.jpg) ![Image](_attachments/HJGLdNpbQAA43Oo_1786696172519581.jpg)
 
 ---
 

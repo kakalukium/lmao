@@ -1,1 +1,1 @@
-![[image-8.png|493x139#full|732x209]]
+![[_attachments/image-8.png|493x139#full|732x209]]

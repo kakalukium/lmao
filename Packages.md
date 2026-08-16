@@ -1,9 +1,9 @@
-3- ![[image.png|677x278]]
+3- ![[_attachments/image.png|677x278]]
 
 
 oodoo, open source indian E-com store framework
 
-![[image-1.png]]
+![[_attachments/image-1.png]]
 
 
-![[image-2.png]]![[image-3.png]]
+![[_attachments/image-2.png]]![[_attachments/image-3.png]]

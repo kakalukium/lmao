@@ -12,7 +12,7 @@ Views](https://x.com/perp82/status/2047877370946760886/analytics)[Perp](https://
 
 [Apr 28](https://x.com/perp82/status/2049089500232474799)
 
-[![Image](https://pbs.twimg.com/media/HG_UCPdWkAAWliN?format=jpg&name=small)](https://x.com/perp82/status/2049089500232474799/photo/1)Quote
+[![Image](_attachments/HG_UCPdWkAAWliN_17866961372127976.jpg)](https://x.com/perp82/status/2049089500232474799/photo/1)Quote
 
 Amiraelus
 
@@ -20,11 +20,11 @@ Amiraelus
 
 Apr 28
 
-[![Image](https://pbs.twimg.com/media/HG-3On9aMAAMzs6?format=png&name=240x240)](https://x.com/amiraelus/status/2049057852971491825/photo/1)
+[![Image](_attachments/HG-3On9aMAAMzs6_17866961372152343.jpg)](https://x.com/amiraelus/status/2049057852971491825/photo/1)
 
 Replying to @spotling and @BaneThe76451
 
 [47](https://x.com/perp82/status/2049089500232474799/analytics)
 
 
-[![Image](https://pbs.twimg.com/media/HG_UPgkbQAAPca6?format=jpg&name=900x900)](https://x.com/perp82/status/2049089726045417618/photo/1)[25](https://x.com/perp82/status/2049089726045417618/analytics)
+[![Image](_attachments/HG_UPgkbQAAPca6_17866961373445399.jpg)](https://x.com/perp82/status/2049089726045417618/photo/1)[25](https://x.com/perp82/status/2049089726045417618/analytics)

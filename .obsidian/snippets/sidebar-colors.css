@@ -1,0 +1,226 @@
+
+
+.theme-light {
+  --background-secondary: #eff0ea!important;
+  --background-secondary-alt: #eff0ea!important;
+}
+
+
+/* Sidebar background overrides */
+.theme-dark {
+  --background-secondary: #141414!important;      /* Left & right sidebar */
+  --background-secondary-alt: #141414!important;  /* Alternate sidebar background */
+}
+.workspace-split.mod-left-split {
+  background-color:  #141414!important;
+}
+
+
+
+
+
+
+/* Sidebar gradient + subtle smudge/noise effect 
+.workspace-split.mod-left-split,
+.workspace-split.mod-right-split {
+  background:
+    /* noise texture layer 
+    repeating-radial-gradient(
+      rgba(255, 255, 255, 0.02) 0px,
+      rgba(255, 255, 255, 0.02) 1px,
+      transparent 1px,
+      transparent 3px
+    ),
+     main gradient
+    linear-gradient(to bottom, #141414 0%, #bcafb6 100%) !important; 
+
+  background-blend-mode: overlay; /* lets smudges blend in 
+} 
+*/
+
+
+.workspace-tab-header-container{     
+  height: 23px !important;    /* change the bar height */
+         
+}
+
+.workspace-tab-header-inner-title{
+  font-size: 9px !important;
+}
+
+
+
+/* Active tab can be slightly taller/bolder */
+.workspace-tab-header.is-active {
+
+  outline: 1px solid #c0c0c0 !important;
+  box-shadow: 0 0 6px rgba(192, 192, 192, 0.5);
+}
+/* Optional: style the window buttons */
+.titlebar{
+  display: none !important;
+}
+.is-tab{
+
+  line-height: 1.5em !important; /* spacing to match */
+  height: auto !important;       /* prevents clipping */
+  background-color: #1a1a1a !important; 
+  color: lightblue !important;
+  text-shadow: 0 0 3px lightblue , 0 0 0px lightblue !important;
+}
+
+
+
+/* 🌟 Text + Icons Glow Effect */
+.is-tab, 
+.titlebar,
+.prompt, 
+.menu, 
+.vertical-tab-header, 
+.nav-folder-title,
+.nav-file-title,
+.view-header-title,
+.workspace-tab-header *,
+.workspace-ribbon,
+.workspace-ribbon-collapse-btn,
+.side-dock-actions .clickable-icon,
+.workspace-ribbon .clickable-icon,
+.workspace-tab-header ,
+.workspace-tab-header-inner-title
+.nav-action-button,
+.status-bar-item *
+ {
+  
+  color: lightblue !important;
+  text-shadow: 0 0 3px lightblue , 0 0 0px lightblue;
+}
+
+
+
+
+
+
+
+
+.status-bar-item svg {
+  height: 10px !important;
+  stroke: lightgreen !important;
+  stroke-width: 1.5px !important;
+  fill: none !important;
+  filter: drop-shadow(0 0 3px lightgreen) drop-shadow(0 0 6px lightgreen);
+}
+
+/* 🌟 Bottom vault name + icons */
+.status-bar,
+.status-bar * {
+  height: 22px !important;
+  color: lightgreen !important;
+  font-size: smaller !important;
+  text-shadow: 0 0 0px lightgreen, 0 0 5px lightgreen;
+}
+
+/* 🎨 Hover color change for sidebar folders & files */
+.is-tab:hover, 
+.tree-item.nav-folder:hover, 
+.nav-folder-title:hover,
+.workspace-tab-header-inner-title:hover,
+.nav-file-title:hover {
+  color: pink !important;
+  text-shadow: 0 0 7px pink, 0 0 0px pink ; 
+  transition: color 0.2s ease, text-shadow 0.2s ease; 
+}
+
+
+/* ===== Option A: Reliable icon color transition ===== */
+
+/* transition for SVG or font icons */
+
+.nav-folder-title .clickable-icon,
+.nav-folder-title .clickable-icon svg,
+.nav-folder-title svg {
+  transition: fill 300ms ease, stroke 300ms ease, color 300ms ease !important;
+}
+
+/* default (normal) folder icon color = light black */
+.nav-folder-title .clickable-icon svg,
+.nav-folder-title svg {
+  fill: #222 !important;   /* light black-ish */
+  stroke: #222 !important;
+  color: #222 !important;
+}
+
+/* on hover → light silver */
+.nav-folder-title:hover .clickable-icon svg,
+.nav-folder-title:hover .clickable-icon,
+.nav-folder-title:hover svg {
+  fill: #ccc !important;   /* light silver */
+  stroke: #ccc !important;
+  color: #ccc !important;
+}
+
+
+
+
+
+/* Hide everything in status bar except word count*/
+.status-bar-item {
+  display: none !important;
+}
+
+/* Show word count */
+.status-bar-item.plugin-word-count {
+  display: flex !important;
+}
+
+
+
+
+
+/* Visible + animated hover for popup items */
+.menu-item,
+.suggestion-item,
+.prompt-results .prompt-entry {
+  transition: background-color 160ms ease, color 160ms ease, transform 120ms ease;
+}
+
+.menu-item:hover,
+.menu-item.is-active,
+.suggestion-item:hover,
+.suggestion-item.is-selected,
+.prompt-results .prompt-entry:hover,
+.prompt-results .prompt-entry.is-selected {
+  background-color: var(--background-modifier-hover) !important; /* stronger contrast */
+  transform: translateY(-1px); /* subtle lift; remove if you don't want it */
+}
+
+/* (keeps popups solid) */
+.menu,
+.modal,
+.prompt,
+.popover,
+.dropdown,
+.suggestion-container {
+  background-color: var(--color-base-00) !important;
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+}
+
+.vertical-tabs-container .nav-file-title,
+.vertical-tabs-container .nav-folder-title {
+  font-size: 40px !important;    /*adjust text size */
+  line-height: 1.5em !important;  /*spacing to match */
+  height: auto !important;       /*prevents clipping */
+}
+
+
+/* Newer Obsidian (v1.5+) */
+.workspace-ribbon.mod-left .workspace-ribbon-collapse-btn,
+.workspace-ribbon.mod-right .workspace-ribbon-collapse-btn {
+  display: none !important;
+}
+
+/* Fallback for older builds */
+.sidebar-toggle-button,
+.side-dock-collapse-btn {
+  display: none !important;
+}

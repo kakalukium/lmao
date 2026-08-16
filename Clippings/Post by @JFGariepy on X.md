@@ -48,7 +48,7 @@ While they were sacrificing, building, and delaying gratification, you were eati
 
 Eventually, you became the cupcake.
 
-![[images/641d3343f348075e2fc64562f988165c_MD5.jpg]]
+![[_attachments/641d3343f348075e2fc64562f988165c_MD5.jpg]]
 
 ---
 
@@ -67,7 +67,7 @@ Eventually, you became the cupcake.
 > 
 > The most interesting part of this Faustian bargain is that he never notices he can never make money because his social life and
 > 
-> ![[images/641d3343f348075e2fc64562f988165c_MD5.jpg]]
+> ![[_attachments/641d3343f348075e2fc64562f988165c_MD5.jpg]]
 
 ---
 

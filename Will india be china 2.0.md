@@ -4,7 +4,7 @@ No
 
 India will never be China 2.0
 
-![](https://qph.cf2.quoracdn.net/main-qimg-d0d55d4e301ee0626a6d65afd579a941)
+![](_attachments/main-qimg-d0d55d4e301ee0626a6d65afd579a941_17866961387277143.jpg)
 
 India in the best case will prosper and by its saturation point would be
 
@@ -18,7 +18,7 @@ The thing is - China reached this stage in 2017 itself
 
 So India's absolute best case scenario would be to reach a point by its saturation - WHERE CHINA HAD ALREADY REACHED 53 YEARS EARLIER
 
-![](https://qph.cf2.quoracdn.net/main-qimg-01dca79ad1be5bddb4cb3a9956b91111)
+![](_attachments/main-qimg-01dca79ad1be5bddb4cb3a9956b91111_17866961389020908.jpg)
 
 By 2070 , China would continue to be in a league of its own - as a Pole of a Bipolar World
 
@@ -42,7 +42,7 @@ Fewer births = Fewer poor and low income families = Lesser economic burden for t
 
 China already has spent 20–30 years and built Ecosystems where Innovation and Invention can be done without external dependence
 
-![](https://qph.cf2.quoracdn.net/main-qimg-dd360c6ebe941e58977797b304c38f12)
+![](_attachments/main-qimg-dd360c6ebe941e58977797b304c38f12_17866961393626006.jpg)
 
 Its tech companies have capital without depending on the US
 
@@ -68,7 +68,7 @@ India is having massive Momentum explosion in population where even declining bi
 
 India only has 34% Internal Capital Availablity against 134% of China and 205% of Hong Kong
 
-![](https://qph.cf2.quoracdn.net/main-qimg-d38a2eed0dfe84e48ed1e662583ac871)
+![](_attachments/main-qimg-d38a2eed0dfe84e48ed1e662583ac871_178669613888691.jpg)
 
 This means for complete Technology and National Upgrade India needs 66% more Capital than it has available
 

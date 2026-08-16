@@ -14,4 +14,4 @@ Let's say possibly even saw the cards entailing 70%luck written... Whatever
 Memorable 
 
 
-![[Screenshot_2025-08-21-01-41-17-378_com.miui.home.jpg]]
+![[_attachments/Screenshot_2025-08-21-01-41-17-378_com.miui.home.jpg]]
