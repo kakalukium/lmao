@@ -1,0 +1,1 @@
+Screenshot_2026-07-27-11-24-15-497_com.yandex.browser-edit.jpg
