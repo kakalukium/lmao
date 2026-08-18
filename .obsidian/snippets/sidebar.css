@@ -22,7 +22,7 @@ font-weight: 500 !important;
 
  /* Example: Change body text color, font, and alignment */
 .markdown-preview-view {
-  color: #c2c9c2 !important; /* Light gray text */
+  color: #e2ebe2 !important; /* Light gray text */
   font-weight: 300 !important;
 
 
@@ -31,7 +31,7 @@ font-weight: 500 !important;
 
 /* Optional: Style text in editing mode */
 .cm-s-obsidian {
-  color:  #acb6ac !important; /* Light gray text */
+  color:  #ccd6cc !important; /* Light gray text */
   font-weight: 300 !important;
 
 

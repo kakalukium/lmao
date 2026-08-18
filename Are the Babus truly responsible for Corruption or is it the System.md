@@ -124,32 +124,29 @@ The moment of a force about the very point of application (where the force is ap
 
 Babus are blamed because they affect the common man. They delay things for pecuniary gains.
 
-Profile photo for The Sensei
-Profile photo for The Sensei
+
 The Sensei
  
- · Thu
+
 Agreed
 
 But thats like blaming a fever for your problem when the real cause is an infection that needs strong antibiotics
 
-Profile photo for Ajay Abraham
-Profile photo for Ajay Abraham
+
 Ajay Abraham
- · Fri
+
 There is sense of job security among government servants and that is the reason for the laziness. Of course this pervades everywhere in the hierarchy, from top to bottom. But this is one of the reason that motivates common man to support privatization apart from the losses that is incurred by most of the public sector companies.
 
-Profile photo for The Sensei
-Profile photo for The Sensei
+
 The Sensei
  
- · Fri
+
 Yes but it is erroneous
 
 The common man wants privatization out of a POV rather than out of economics
 
-Profile photo for Ajay Abraham
+
 Ajay Abraham
- · Fri
+
 It has mostly to do with the snobbish and lazy attitude of government servants and ofcourse most of the govt companies are loss making. In a private company the employees will be sacked unlike govt ones
 
