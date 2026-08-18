@@ -1,5 +1,5 @@
 ---
-source: "https://x.com/Aaryouz/status/2086986963559514343"
+source: https://x.com/Aaryouz/status/2086986963559514343
 ---
 You notice they’re making it harder and harder to become successful on social media?
 
@@ -71,3 +71,4 @@ IMO just pay
 > Young people all want to be influencers b/c they see a few dozen rich influencers (shills), but the majority of rich influencers started off with money, or they agreed to push an agenda
 > 
 > This is why TikTok, for example, had to be sold to a new owner and the algorithm that allowed organic influence dismantled
+

@@ -69,3 +69,17 @@ Another tweet about what a female brings in an relationship. And it said, it was
 
 The boring part here is preserving value and building on top of your knowledge and skills, with borderline sociopathic patience.
 
+---
+It wasn't about her leaving me, I am angry about, it is about the fact about if you happen to be in an position where you fall, and this time, for no fault of your own, and lack the funds or influence to move in the right direction, you can end up helpless, and forced to see incredible depravity. That's the toughest pill to swallow.
+
+And more over, you'd still need someone to rely on in order to heal from, whether it be from the traumatic experience of having an insensitive/ neglectful/ deadbeat dad, who didn't take responsibility in reliable transfer of funds for your bare minimum needs for food rations and failed to provide a functioning household / quiet and calm shelter, whether from being misfortunate or incompetent in both of our distributed responsibility in our individual part to make our lives a success.
+
+Or about realising you weren't an slave minded academic or office employee archetype, who can mindlessly memorise useless information to please authority.
+And neither are you an jestermaxxer who wants to entertain or pretend to be happy, for frankly you aren't interested in indiscriminate love to people who lack reciprocity, exclusivity and obsessive desire, and in the case of romance, indeed someone who'll give you sex on demand and even grow you to polygamy. 
+
+Even with having faithful certainty about everything  becoming alright, the sheer amount of challenges in   miraculous upheaval and intuitive perspicacity of this complex reality with circumspection, about ternarity, to recover your free-will in your finances and love life,  also makes this perhaps cosmically meaningful, despite the ordeal.
+[[Nothing is stored. It's like the pasts are all present in the same room and we periodically have a different perspective on them]]
+[[frontier indica]]
+
+
+

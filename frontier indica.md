@@ -40,6 +40,13 @@ https://x.com/i/status/2083811380470399473
 
 the paradox of life is that you have to let go of everything you love, mentally, for everything to love you back.
 
+https://x.com/i/status/2089356238543024629
+
+confident women are as unattractive as underconfident men.
+Nobody wants a pushover either though... "masculine women being unattractive like feminine men" is clearer
+
+
+
 ---
 
 ## Comments
@@ -95,3 +102,5 @@ Or they just got lucky - in that case, you'll need to wait for a few yrs which w
 
 https://x.com/i/status/2083811380470399473
 https://x.com/i/status/2083811380470399473
+
+https://x.com/i/status/2089356238543024629

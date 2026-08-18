@@ -204,3 +204,8 @@ https://youtube.com/shorts/2ezGp8BFhBg
 
 Electronics
 https://www.instagram.com/reel/DY0ApDyzg-R/?igsh=MnBsYnJpOWwydjkz&igsi=MnBsYnJpOWwydjkz
+
+App ideas
+https://www.instagram.com/p/DcG2SSPjTJe/?img_index=2&igsh=MXVrcG10NnBsdjN5eQ==&igsi=MXVrcG10NnBsdjN5eQ==
+
+https://www.reddit.com/r/indianstartups/s/jDCvPivw4W
