@@ -110,7 +110,7 @@ source: "https://x.com/amiraelus/status/2069784579444027821"
 > > 
 > > A joke :))
 > > 
-> > ![Image](https://pbs.twimg.com/media/HLlldFUWIAAMIfC?format=jpg&name=large)
+> > ![[_attachments/60193cd3eeebf00a4790af939001f4c9_MD5.jpg]]
 > > 
 > > > **Kellum @Kellumsantana** · [2026-06-24](https://x.com/Kellumsantana/status/2069809722757120314)
 > > > 
@@ -596,13 +596,13 @@ Begin real human work to reclaim your humanity.
 
 #amiraelus #matriarchy202830
 
-![Image](https://pbs.twimg.com/media/HB0rqNhWwAAKYOW?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HB0rzrpWAAEyCvo?format=png&name=large) ![Image](https://pbs.twimg.com/media/HB0sSP_XEAE_RgA?format=png&name=large) ![Image|447](https://pbs.twimg.com/media/HB0sbRRXkAALE6B?format=png&name=large)accident that the same humans who simp for money are those who preach the benefits of hypergamy.
+![[_attachments/329b896f0e16c1f1d4c90b3185f1dfdc_MD5.jpg]]![[_attachments/6fe0296c417c424b10b43899a0f2df3b_MD5.png]]![[_attachments/56559f5f34179670de6f76207e266107_MD5.png]]![[_attachments/3a31b0ecbca60f5d84e06303308db9d9_MD5.png|447]]accident that the same humans who simp for money are those who preach the benefits of hypergamy.
 
 Because simping for money and simping for women is the same thing in two different levels.
 
 This comes from the fact that
 
-![Image](https://pbs.twimg.com/media/HB0rqNhWwAAKYOW?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HB0rzrpWAAEyCvo?format=png&name=large) ![Image](https://pbs.twimg.com/media/HB0sSP_XEAE_RgA?format=png&name=large) ![Image](https://pbs.twimg.com/media/HB0sbRRXkAALE6B?format=png&name=large)
+![[_attachments/329b896f0e16c1f1d4c90b3185f1dfdc_MD5.jpg]]![[_attachments/6fe0296c417c424b10b43899a0f2df3b_MD5.png]]![[_attachments/56559f5f34179670de6f76207e266107_MD5.png]]![[_attachments/3a31b0ecbca60f5d84e06303308db9d9_MD5.png|447]]
 
 ---
 

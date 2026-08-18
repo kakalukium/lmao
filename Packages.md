@@ -7,3 +7,5 @@ oodoo, open source indian E-com store framework
 
 
 ![[_attachments/image-2.png]]![[_attachments/image-3.png]]
+.
+

@@ -1,6 +1,6 @@
 One of the key theories of the famous VDB Hypothesis is
 
-![[images/0724edfb4e1c743fd4e3ecf9b688517e_MD5.webp]]
+![[_attachments/0724edfb4e1c743fd4e3ecf9b688517e_MD5.webp]]
 
 That somehow it is the BABUS who are responsible for all the Corruption in India
 
@@ -21,11 +21,11 @@ The Ministers make key decisions
 
 The Babus advise and Implement ..
 
-![[images/19d7396b6d21400154c11ee3bdd27ad6_MD5.jpg]]
+![[_attachments/19d7396b6d21400154c11ee3bdd27ad6_MD5.jpg]]
 
 In the world of Breaking Bad and Better Call Saul - Eladio is your Minister
 
-![[images/0e7567bb809842f2c1487f41ea3b12a2_MD5.jpg]]
+![[_attachments/0e7567bb809842f2c1487f41ea3b12a2_MD5.jpg]]
 
 These guys are your Babus who simply advise or take orders
 
@@ -60,7 +60,7 @@ Who gets the cream?
 
 The Capitalists & the Ministers of course !!!!
 
-![[images/0f6fa85bbc5627d62c54f6b9a022c150_MD5.jpg]]
+![[_attachments/0f6fa85bbc5627d62c54f6b9a022c150_MD5.jpg]]
 
 These days the Father is the Minister and son is the Capitalist 😁
 
@@ -119,7 +119,7 @@ The Answer is pretty simple
 
 The moment of a force about the very point of application (where the force is applied)
 
-![[images/b676d6279d5e2d197798e0f53bd8df69_MD5.webp]]
+![[_attachments/b676d6279d5e2d197798e0f53bd8df69_MD5.webp]]
 
 
 Babus are blamed because they affect the common man. They delay things for pecuniary gains.

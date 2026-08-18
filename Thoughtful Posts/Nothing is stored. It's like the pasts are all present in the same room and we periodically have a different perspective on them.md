@@ -25,7 +25,7 @@ Ray, unsurprisingly, communicated this perfectly.
 
 **R.E.** @ReCoastalSD [2026-04-21](https://x.com/ReCoastalSD/status/2046587253066207740)
 
-![[images/8249ef44199d1c7849a90dd2d283ae88_MD5.jpg]]
+![[_attachments/8249ef44199d1c7849a90dd2d283ae88_MD5.jpg]]
 
 ---
 
