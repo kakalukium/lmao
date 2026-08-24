@@ -2,7 +2,6 @@
 tags:
   - tasks/june-19th/amiraelus
 ---
-[[personal Tasks]]
 
 # June 28th
 
