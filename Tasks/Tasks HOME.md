@@ -209,3 +209,45 @@ App ideas
 https://www.instagram.com/p/DcG2SSPjTJe/?img_index=2&igsh=MXVrcG10NnBsdjN5eQ==&igsi=MXVrcG10NnBsdjN5eQ==
 
 https://www.reddit.com/r/indianstartups/s/jDCvPivw4W
+
+https://www.instagram.com/p/DbXxomZCQmA/?igsh=cTJsNDc3bmY4OTI=&igsi=cTJsNDc3bmY4OTI=
+
+Game dev learn 
+- game fundamentals 
+- game development 
+https://www.instagram.com/reel/DcLxSvRq9d9/?igsh=cHc1YnMwdTY1NDU=&igsi=cHc1YnMwdTY1NDU=
+
+Dev work intro
+https://youtube.com/shorts/nGPFYc6eTKw
+
+
+#Amiraelus 
+https://x.com/i/status/1990446617950921050
+
+https://x.com/i/status/2091242978639540485
+
+
+
+https://youtube.com/shorts/nGPFYc6eTKw
+https://x.com/i/status/2091021716864569840
+Youth, beauty, innocence, trust, and order are the highest ideals, because they are those goods which are easiest to destroy and hardest to maintain.
+
+
+https://x.com/i/status/2091249609314095174
+Ppl underestimate how scary it is to actually get what you’ve always wanted. It takes so much readiness to be able to energetically hold it without going into a horrible overwhelm. It doesn’t happen until you can handle it for a reason
+https://x.com/i/status/2091404078056415492
+He asks for affection, she asks for connection, both reject the other’s needs, and Twitter gets 47,000 comments explaining why the other sex is broken.
+https://x.com/i/status/2091152910692561087
+More like:
+
+- Move to WV
+- Find that all "nice girls" are taken by the age of 21
+- Find that any decent looking woman has multiple kids by 22
+- Always be treated as an outsider by locals who don't want to meet new friends after 18
+
+Yeah bro, there is a reason people pay them high rents in big cities.
+
+
+   - https://x.com/i/status/2091262886358188203Girls start pumping out kids at 14 years old. 5 kids and multiple baby daddies by age 21.
+
+Law abiding men who wait until they're 18 get screwed
