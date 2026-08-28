@@ -14,37 +14,9 @@ Just try to have a big picture conversation about anything with most people and 
 
 They haven't thought about their place in the universe, they don't know or care how anything works, nature, technology, society.  Maybe they can repeat some popular memes, or political propagaSnda for whatever team they identify with, but they don't think about it, and if you ask any follow up questions it's quickly revealed that they don't even know why they believe in what they believe in.
 
-<3
 
-[
 
 ![](https://pbs.twimg.com/media/HNl8VlnaEAAeTi4?format=jpg&name=900x900)
 
 
 
-
-](/sikkadevi/status/2078829422510260683/photo/1)
-
-[musashi](/sikkadevi/status/2078829422510260683/media_tags)
-
-[6:38 PM · Jul 19, 2026](/sikkadevi/status/2078829422510260683)
-
-·
-
-[
-
-44.7K
-
-Views](/sikkadevi/status/2078829422510260683/analytics)
-
-31
-
-29
-
-1.2K
-
-269
-
-Relevant
-
-[View quotes](/sikkadevi/status/2078829422510260683/quotes)

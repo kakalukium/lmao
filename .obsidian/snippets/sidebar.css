@@ -13,7 +13,7 @@ strong,
 .cm-s-obsidian span.cm-formatting-strong,
 
 .cm-s-obsidian span.cm-strong {
-font-weight: 500 !important;
+font-weight: 900 !important;
 
 
 }
@@ -22,7 +22,7 @@ font-weight: 500 !important;
 
  /* Example: Change body text color, font, and alignment */
 .markdown-preview-view {
-  color: #e2ebe2 !important; /* Light gray text */
+  color: #c2c9c2 !important; /* Light gray text */
   font-weight: 300 !important;
 
 
@@ -31,7 +31,7 @@ font-weight: 500 !important;
 
 /* Optional: Style text in editing mode */
 .cm-s-obsidian {
-  color:  #ccd6cc !important; /* Light gray text */
+  color:  #d2ddd2 !important; /* Light gray text */
   font-weight: 300 !important;
 
 
@@ -413,50 +413,7 @@ body {
 
 
 
-/* ==========================================================================
-   CODEBLOCK COORDINATE CALIBRATION (FIXES "ONE LINE BELOW" CARET BUG)
-   ========================================================================== */
 
-/* 1. Reset all vertical margins on codeblock lines (CRITICAL) */
-.cm-s-obsidian .cm-line.HyperMD-codeblock,
-.cm-s-obsidian .cm-line.HyperMD-codeblock.HyperMD-codeblock-begin-bg,
-.cm-s-obsidian .cm-line.HyperMD-codeblock.HyperMD-codeblock-end-bg {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-  margin-block: 0 !important;
-  line-height: var(--line-height-normal, 1.6) !important; /* Keep identical to editor line-height */
-}
-
-/* 2. Codeblock container structure (Editor Mode) */
-.cm-s-obsidian .cm-line.HyperMD-codeblock {
-  color: var(--code-normal) !important;
-  background-color: var(--code-background);
-  border-inline: var(--code-border-width) solid var(--code-border-color);
-  border-radius: 0 !important;
-  padding-left: var(--size-4-12) !important; /* Gutter space for line numbers */
-  padding-right: var(--size-4-3) !important;
-  position: relative;
-}
-
-/* 3. Top and bottom styling without using margins */
-.cm-s-obsidian .cm-line.HyperMD-codeblock.HyperMD-codeblock-begin-bg {
-  border-top: var(--code-border-width) solid var(--code-border-color);
-  border-start-start-radius: var(--code-radius) !important;
-  border-start-end-radius: var(--code-radius) !important;
-  padding-top: 4px !important;
-}
-
-.cm-s-obsidian .cm-line.HyperMD-codeblock.HyperMD-codeblock-end-bg {
-  border-bottom: var(--code-border-width) solid var(--code-border-color);
-  border-end-start-radius: var(--code-radius) !important;
-  border-end-end-radius: var(--code-radius) !important;
-  padding-bottom: 4px !important;
-}
-
-/* 4. Line Numbers: Lock to line height so they don't stretch the line box */
-.markdown-source-view.mod-cm6 .cm-contentContainer {
-  counter-reset: code-line;
-}
 
 .cm-s-obsidian .cm-line.HyperMD-codeblock:not(.HyperMD-codeblock-begin):not(.HyperMD-codeblock-end)::before {
   counter-increment: code-line;
@@ -485,4 +442,12 @@ body {
 
 .cm-s-obsidian .cm-line.HyperMD-codeblock-end {
   counter-set: code-line 0;
+}
+
+/* Disable active line background everywhere in Obsidian */
+.markdown-source-view .cm-scroller .cm-line.cm-active,
+.cm-editor .cm-line.cm-active,
+.cm-line.cm-active {
+  background-color: transparent !important;
+  background: transparent !important;
 }

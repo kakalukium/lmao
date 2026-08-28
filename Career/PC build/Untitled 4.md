@@ -36,4 +36,36 @@ https://youtube.com/shorts/zrVPNGWdqpU
 
 https://youtube.com/shorts/VRSaju6rN40
 
+<<<<<<< Updated upstream
 https://youtube.com/shorts/cy_BgJM7R58?si=h4xITjvaDKyXdjXi
+=======
+
+
+
+**Build 1** 
+CPU: i9-14900KF  
+Cooler: Arctic LF III 360 
+MB: MSI/ASUS Z790 WiFi   
+Storage: 2TB NVMe (990 Pro etc)  
+PSU: 850W Gold modular   
+Case: Lian Li Lancool 216 / similar airflow  
+GPU: RX 9070 XT 16GB 
+64GB DDR5-6000 CL30  
+
+
+**Build 2** 
+CPU: i9-14900KF  
+Cooler: Arctic LF III 360 
+MB: MSI/ASUS Z790 WiFi  
+Storage: 2TB NVMe (990 Pro etc) 
+PSU: 850W Gold modular  
+Case: Lian Li Lancool 216 / similar airflow 
+ GPU : RTX 5070 Ti 16GB 
+64GB DDR5-6000 CL30  
+
+
+
+**RAM options (±₹35k -40k)**   
+• 64GB (recommended) ≈ ₹80k 
+• 32GB ≈ ₹40k→ saves money. 
+>>>>>>> Stashed changes

@@ -34,6 +34,11 @@ https://x.com/i/status/2079601644312904013
 
 When you’re making money, fixate on the basic expenses and save for unknown expenditures. You buy the necessary things you need for your day to day living and you withhold yourself against impulse buying. When you’re making enough, you learn how to invest and multiply. This might sound cliche but be ignorant of this simple principle and watch how your finance resource spill and overflow to oblivion.
 
+
+Building wealth is less about making more money, and more about controlling your wants.
+
+Very true
+
 https://x.com/i/status/2081104223232520476
 
 when you hit your first $20k month but instead of smiling you sit with a blank stare and remember all the times you thought about giving up

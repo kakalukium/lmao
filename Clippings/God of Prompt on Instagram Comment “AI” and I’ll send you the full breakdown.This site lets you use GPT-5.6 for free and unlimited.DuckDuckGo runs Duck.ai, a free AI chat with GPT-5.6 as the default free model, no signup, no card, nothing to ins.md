@@ -1,8 +1,8 @@
 ---
 source: "https://www.instagram.com/p/Dcj9qmPHPAT/?img_index=1&igsi=MTY3MW53bzA1dWprYQ%3D%3D"
 ---
-- ![Photo by God of Prompt on August 27, 2026. May be an image of magazine, card and text that says 'GOD GODOFPR OF PROMPT This site lets you use GPT-5.6 - 5.6 for free and unlimited No account needed. Nothing to install'.](https://instagram.fixe1-2.fna.fbcdn.net/v/t51.82787-15/782093333_18013347599956776_2618526552731449803_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ig_cache_key=Mzk3MzI5MDM2MTc5MjgwNjg2OA%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=Ug7lpCopI8YQ7kNvwFOpW7S&_nc_oc=AdoIAsgx6Bx8Owwp0-5__ZjBiMJT2svKLc1dnIUqUq2Bmr0gg-Wb7YhDHByySOLi4O4zsdNekUHzuR21I3JKRSnQ&_nc_zt=23&_nc_ht=instagram.fixe1-2.fna&_nc_gid=Ej4Jd4vC6lgn-A0nnGN2zQ&_nc_ss=7b289&oh=00_AQEl_YDzp9RqX27Z2U-m0-7Url-MXgGJks2-hYa_0xxBsg&oe=6A96E748)
-- ![Photo by God of Prompt on August 27, 2026. May be a doodle of duck, duckling and text that says '02/05 >- What it is prompt.md DuckDuckGo runs a free AI chat called Duck Duck.ai, ai, and GPT-5.6 is the default free model. Go to duck. and start chatting immediately, signup, no card, nothing to install. no DuckDuckGo'.](https://instagram.fixe1-3.fna.fbcdn.net/v/t51.82787-15/782413432_18013347653956776_5773418976548886007_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ig_cache_key=Mzk3MzI5MDM2MTk4Nzc3NjYyMg%3D%3D.3-ccb7-5&ccb=7-5&_nc_sid=58cdad&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0ueHBpZHMuMTA4MC5zZHIucmVndWxhcl9waG90by5DMyJ9&_nc_ohc=X8NMSHlopWoQ7kNvwEmAFyN&_nc_oc=Adon46yIKfe1bOGGVd8nah8ZaP3vTDBWqCoMNUqPLQFU5QSzSHfSQCx1xTpBiNa85HGTiqktQDx_J6jRqFUGozmr&_nc_zt=23&_nc_ht=instagram.fixe1-3.fna&_nc_gid=Ej4Jd4vC6lgn-A0nnGN2zQ&_nc_ss=7b289&oh=00_AQH9WnRmOR5KBmVBWlNWd2ktP2Zk0te8WNChV9-LgKrfxQ&oe=6A96DCE4)
+- ![[images/7cf7b58b0e261fbfe506fcdc15389a92_MD5.jpg]]
+- ![[images/3bcdd0aa3442d3d51fc6f74434578e59_MD5.jpg]]
 
 76 likes[godofprompt](https://www.instagram.com/godofprompt/)
 
