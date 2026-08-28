@@ -27,6 +27,9 @@ https://x.com/i/status/2080670719973667118
 
 https://x.com/i/status/2079881884188676420
 
+https://x.com/i/status/2091928603353395632
+
+
 U just have to want it violently enough, and it'll become easy to get.
 
 > **The Power Of Manhood @PowerOfManhood** · [2026-07-26](https://x.com/PowerOfManhood/status/2081290804677456299)
@@ -45,6 +48,13 @@ https://x.com/i/status/2089356238543024629
 confident women are as unattractive as underconfident men.
 Nobody wants a pushover either though... "masculine women being unattractive like feminine men" is clearer
 
+https://x.com/i/status/2091928603353395632
+There is no pattern among people who get what they want. They just want it badly enough to take it. That's it. JUST TAKE IT, or go cry in the corner philosophizing about why u don't deserve it. Potential is a bitch. you deserve nothing.
+
+
+https://x.com/i/status/2091875429640778216
+
+One of the most important lessons in life is to ignore every PROMISE. Never make the slightest mistake of designing ur life around someone's word. Forget all of them. You're ultimately alone. Emotions have no loyalty, and most promises are made by emotions. Even if they deliver, treat it as a bonus, a gift. Assume nobody is coming through. Prepare urself accordingly.
 
 
 ---
@@ -104,3 +114,77 @@ https://x.com/i/status/2083811380470399473
 https://x.com/i/status/2083811380470399473
 
 https://x.com/i/status/2089356238543024629
+
+
+
+---
+source: "https://x.com/Pat_Stedman/status/2092166395119243675"
+
+Anyone who tells you one sex has a monopoly on evil is dealing with romantic trauma
+
+Met far too many terrible men and wonderful women to speak in these kind of absolutes
+
+The problem right now is not women, it's evil women hiding amongst the good and tainting the brand. It's a lack of accountability for bad actors and bad behavior
+
+There are still MANY amazing womem out there. Don't blackpill and have presence, and you will draw them to you
+
+You're only not going to make it if you've convinced yourself you can't
+
+---
+
+## Comments
+
+> **Gia Macool @GiaMMacool** · [2026-08-25](https://x.com/GiaMMacool/status/2092245728156348579)
+> 
+> It takes a lot of courage and strength not to be black pilled. But it’s worth it in the end.
+
+> **Coach Noah Revoy | Arms Dealer For The Soul @NoahRevoy** · [2026-08-25](https://x.com/NoahRevoy/status/2092169036905754862)
+> 
+> I have noticed the good women speaking up more and more and making the contrast very clear.
+> 
+> We are in a sorting phase right now.
+> 
+> > **Pat Stedman | Dating & Relationship Coach for Men @Pat\_Stedman** · [2026-08-25](https://x.com/Pat_Stedman/status/2092170419306443136)
+> > 
+> > Yes, it's been very encouraging
+
+> **Business @XBusiness** ·
+> 
+> Advertisers are using (and loving) the new X Ads Manager - no secret why - the results speak for themselves.
+> 
+> [x.com Learn More](https://business.x.com/en/advertising?utm_source=x&utm_medium=paid&utm_campaign=smb_growth_us_q3_2026&utm_content=static_image_16x9&utm_region=ind&utm_language=en&twclid=2dm7d45opby50jmsm1yuukq130)
+
+> **LIZZY @LizzyStarrrdust** · [2026-08-25](https://x.com/LizzyStarrrdust/status/2092302757965574178)
+> 
+> One of the largest problems is that both literally and metaphorically young men are going to "the clubs" in search of high value women. High value women in the bar scene or the apps or wherever are few and far between.
+> 
+> I think they are suffering from a previous pedestalization
+
+> **High-Risk Asset @HighRiskAsset** · [2026-08-25](https://x.com/HighRiskAsset/status/2092187282555994405)
+> 
+> No monopoly, but evil effects each sex differently. You have said yourself that weak men are not capable of good. Strong men can be good or evil, weak men can only be evil or at best useless to fight it.
+> 
+> Well, women are weaker than men. With a strong man, they are less evil.
+
+> **Steve Beckman - OSE @S\_Beckman2** · [2026-08-25](https://x.com/S_Beckman2/status/2092207858477609146)
+> 
+> Well this sounds like good news.
+> 
+> I was certain I'd found the last good one available some 34 years ago.
+
+> **jbo5112 @jbo5112** · [2026-08-25](https://x.com/jbo5112/status/2092201318240670148)
+> 
+> If you raise the standard for "evil" to "doesn't want to fulfill the Biblical role of husband/wife", then I'm seeing a severe shortage of amazing young women for the amazing young men.
+
+> **John Lucas @John\_Lucas\_I** · [2026-08-25](https://x.com/John_Lucas_I/status/2092174351332200781)
+> 
+> Definitely don't obsess over the bad apples and assume they are representative of the whole. Use them for entertainment here on X, then find yourself one who isn't a fucking idiot. Mine is horrified by the shit these toxic women post and laughs at my replies to them.
+
+> **Bud The Chud @Mud\_The\_Chud** · [2026-08-25](https://x.com/Mud_The_Chud/status/2092212330792706402)
+> 
+> Both sexes commit evil
+> 
+> Only one is borderline immune to consequences.
+
+https://x.com/i/status/2092284862296154507
+You learn more when you’re in practice of that particular thing you want to be good about. You can’t possibly ‘think’ your way into being professional in the field.  On the course of your execution, you learn and observe more. Your good acts, your bad decisions. You notice and restrategize and continue executing. 
