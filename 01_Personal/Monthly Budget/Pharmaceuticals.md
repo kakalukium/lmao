@@ -61,7 +61,7 @@
  
 |                |     |      |
 | -------------- | --- | ---- |
-| Protein powder |     | 3500 |
+| Protein powder |     | 4500 |
 | Glycine        |     | 1000 |
 | Taurine        |     | 500  |
 | Potato         |     | 1500 |
