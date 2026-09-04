@@ -20,3 +20,13 @@ https://x.com/i/status/2091260804909715824
 You’ll certainly feel mentally poor when you spend your attention on frivolous debates, gossips, outrages and unnecessary gatherings. Your attention is your human-capital that can possibly yield greater results for you when utilized with proper coordination. 
 
 Because in our contemporary world, a lot of distractions will gently steer you off your directional trajectory if you don’t tap yourself consistently for self rearrangement.
+
+
+
+
+https://x.com/i/status/2093756461944127968
+If you’re an intelligent person, do everything in your power to build the life you believe you deserve. 
+
+Otherwise, unrealized ambition turns into resentment, and your own intelligence starts eating you from inside out. 
+
+The world is full of brilliant but disappointed people who waste their lives envying others and create nothing. Don’t become one of them.

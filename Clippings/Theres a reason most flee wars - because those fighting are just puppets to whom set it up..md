@@ -1,5 +1,5 @@
 ---
-source: https://x.com/ZherkaOfficial/status/1985752957946905069
+source: https://x.com/charlesdhmmr/status/2095453319393148973
 tags:
   - geo-politics
 ---
@@ -73,3 +73,15 @@ This requires considerable personal effort to work on oneself and achieve true s
 > **Supah Novah @PsychReich** · [2025-11-05](https://x.com/PsychReich/status/1985924538161644022)
 > 
 > Bingo
+
+THREE MEN BREAK INTO 83-YEAR-OLD'S HOME in London
+
+There was nothing left for her to do but watch as she was being burglarized
+
+---
+
+## Comments
+
+> **Charles Williams @charlesdhmmr** · [2026-09-03](https://x.com/charlesdhmmr/status/2095453319393148973)
+> 
+> At 83 she was born in 1943, likely the daughter of a soldier fighting in WW2, possibly on furlough. I imagine the soldier loved his wife, loved his daughter, and loved his country. He worked hard after the war to make a modest living. When they came home they all did. They trusted their leaders to make the right choices.

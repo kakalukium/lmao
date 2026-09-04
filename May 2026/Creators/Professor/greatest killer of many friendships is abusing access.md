@@ -1,3 +1,6 @@
+---
+nav: true
+---
 https://x.com/i/status/2057341542126510414
 
 
@@ -40,3 +43,18 @@ The thing with former poor people is that, after getting to the top, they always
 **YM Topa** @MKtopsz [2026-05-21](https://x.com/MKtopsz/status/2057357890407604513)
 
 He's probably not good at picking friends too. Surrounds himself with leeches and get angry when leeches leech
+
+###### here
+
+https://x.com/i/status/2093386565011538043
+You are so much better off having zero friends than a lot
+
+The quality of men has deteriorated significantly and I'm no time traveler so I can't speak on men from 40 years ago but when I speak to my dad and other men of that time, they say the same as well
+
+If you have 1-2 rlly good friends, you have no clue how strong a base that is
+
+And if you think you have 5+ rlly close friends, you're very likely delusional and/or very young/inexperienced
+
+Like all good things in life, it is very hard to be good at that thing - being a good friend is not easy and comes with a ton of stipulations most men aren't hardwired with so it takes a lot of tinkering with their software until their intuition is naturally wired
+
+This is why I harp on about how women are far better than men when it comes to dating - too many loser men, a lot of really solid chicks with great loyalty and personalities (per capita nigga)

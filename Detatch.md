@@ -85,3 +85,7 @@ Even with having faithful certainty about everything  becoming alright, the shee
 
 
 
+Luck is quite easy to have, most people are too attached to their suffering, and refuse to be lucky
+
+Most limitations are self imposed- zherka
+And psychick power will lead you to getting your dream girl and life. -zherka

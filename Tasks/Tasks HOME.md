@@ -251,3 +251,8 @@ Yeah bro, there is a reason people pay them high rents in big cities.
    - https://x.com/i/status/2091262886358188203Girls start pumping out kids at 14 years old. 5 kids and multiple baby daddies by age 21.
 
 Law abiding men who wait until they're 18 get screwed
+
+https://x.com/i/status/2093318933457646069
+Rudolf Steiner says humans emanate an invisible aura and those who have spent years following esoteric practices can learn to visibly see this aura
+
+he says you can even read it to discern health problems and emotional imbalances in people without ever talking to them
