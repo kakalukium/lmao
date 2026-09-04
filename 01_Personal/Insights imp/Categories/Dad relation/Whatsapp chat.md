@@ -70,3 +70,12 @@ You are wasting the unit value of your hard earned money, every time you are neg
 [8/25, 10:40 PM] 🌸: I have limited time, and talent demands cultivation, your lack of comprehension of my problems, and financial incapacity is making this disastrous.
 ```
 
+```
+[5:52 am, 30/08/2026] 🌸: I have many high level mathematics, Physics simulation, 
+Graphical processing work I need to complete to secure my future. 
+
+I need you to buy me that PC urgently.
+[11:52 am, 30/08/2026] 🌸: This Table lacks an dedicated keyboard and mouse Holder, and it is becoming an huge problem. 
+I need you to address my grievances urgently.
+https://amzn.in/d/0hCf4qr4
+```

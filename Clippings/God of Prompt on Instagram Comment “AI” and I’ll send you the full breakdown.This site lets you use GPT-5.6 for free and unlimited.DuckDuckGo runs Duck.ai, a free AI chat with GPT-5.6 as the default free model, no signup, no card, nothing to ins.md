@@ -1,8 +1,8 @@
 ---
 source: "https://www.instagram.com/p/Dcj9qmPHPAT/?img_index=1&igsi=MTY3MW53bzA1dWprYQ%3D%3D"
 ---
-- ![[images/7cf7b58b0e261fbfe506fcdc15389a92_MD5.jpg]]
-- ![[images/3bcdd0aa3442d3d51fc6f74434578e59_MD5.jpg]]
+- ![[_attachments/7cf7b58b0e261fbfe506fcdc15389a92_MD5.jpg]]
+- ![[_attachments/3bcdd0aa3442d3d51fc6f74434578e59_MD5.jpg]]
 
 76 likes[godofprompt](https://www.instagram.com/godofprompt/)
 

@@ -49,4 +49,4 @@ Genuine grounded joy lies on the other side of letting flow. You can taste the e
 
 This is how you unlock childlike joy again.
 
-![Image](https://pbs.twimg.com/media/HROsAQtaMAAAUsB?format=jpg&name=large)
+![[images/694d2a1066b2605324a621de56a67499_MD5.jpg]]

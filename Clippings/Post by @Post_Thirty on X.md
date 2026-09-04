@@ -23,7 +23,7 @@ I don't see that being true for him so yeah, I agree, it is way too late.
 > 
 > You can change careers.
 > 
-> ![Image](https://pbs.twimg.com/media/HRKz78OWAAA53jL?format=jpg&name=large)
+> ![[images/e05059dc362be4ccb1286d03a7a1199e_MD5.jpg]]
 
 ---
 
@@ -79,7 +79,7 @@ I found assuming control of my hate much more difficult than submitting myself t
 > 
 > Let our hatred be an instrument of righteous vengeance, a scorching blaze to cleanse our enemies in so that a greater world may be shaped out of the ashes. Great men plant trees whose shade they'll never enjoy, so too must we burn the invasive species for a better future.
 > 
-> ![Image](https://pbs.twimg.com/media/HROFNW3XkAAucg2?format=png&name=large)
+> ![[images/dbad3673129579433cc36b49ae7a8a54_MD5.png]]
 > 
 > > **Kintak @Kintakus** · [2026-09-02](https://x.com/Kintakus/status/2095167808199856452)
 > > 
@@ -122,7 +122,7 @@ People choose hate because at some point, it costs less than forgiveness.
 > > 
 > > > **Aimee Terese @aimeeterese** · [2026-09-02](https://x.com/aimeeterese/status/2095047641352814931)
 > > > 
-> > > ![Image](https://pbs.twimg.com/media/HRMauTVaAAAVafJ?format=jpg&name=large)
+> > > ![[images/1c76df1df97afba62da4b18dbda3c5b3_MD5.jpg]]
 > > > 
 > > > > **PsychoMath (hoe\_math) @itispsychomath** · [2026-09-02](https://x.com/itispsychomath/status/2095047979539517727)
 > > > > 

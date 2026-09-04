@@ -118,3 +118,121 @@ It feels as though he can see through all your performances, your little dances 
 > **Seb @Seb\_Di1** · [2026-05-27](https://x.com/Seb_Di1/status/2059697928852427258)
 > 
 > That or the guy just has performance anxiety and can't get it up so he won't risk it.
+
+
+
+---
+
+Once you realise arguing is an act of extreme intimacy, you stop doing it with anyone you wouldn't want to be intimate with.
+
+---
+
+## Comments
+
+> **Wartime Consiglieré @mathbrother2** · [2026-08-27](https://x.com/mathbrother2/status/2092966036731773020)
+> 
+> Women know this intrinsically. If she's not arguing with you she doesn't want you😂
+> 
+> > **Illimitable Man (IM) @SovereignIM** · [2026-08-27](https://x.com/SovereignIM/status/2093011530589651118)
+> > 
+> > One of the core reasons I don't let women argue with me, and why I know if a woman is trying to debate me even respectfully, she is attracted to me. Feeling the need to repeatedly challenge me means I matter to her.
+> > 
+> > > **Spirit @spiritswhy** · [2026-08-27](https://x.com/spiritswhy/status/2093036416385372376)
+> > > 
+> > > Just curious if youre aware of your sexual objectification. friends cant have heated thought provoking discussions for the sake of fun intellectual debate anymore? So, Women only do that if they wanna fuck you? I enjoy challenging my friends and vice verse
+> > > 
+> > > > **Illimitable Man (IM) @SovereignIM** · [2026-08-27](https://x.com/SovereignIM/status/2093045524152631735)
+> > > > 
+> > > > Your instinct is to deliberately passive aggressively misinterpret people by using questions as rhetorical devices to make them look stupid, so you can talk down to them and make yourself look better than them by subtly positioning yourself as their superior.
+> > > > 
+> > > > Your questions are insincere because their function is merely to undermine the person you are putting them to, rather than to truly understand what they are saying and why they are saying it.
+> > > > 
+> > > > You are a really unremarkable and predictable person with nothing of any true value to offer. You are the definition of social bullshit. I invest a good portion of my existence into ensuring people like you don't get to speak to me.
+
+> **hysterical @owlofsolitude** · [2026-08-27](https://x.com/owlofsolitude/status/2092992480828371392)
+> 
+> I bet you approach and think of arguments of any kind in the dynamic of “winning and losing”. Most of you do. Many of you are dead set on imposing and affirming self rather than ensuring understanding and balance of parties involved
+> 
+> > **Illimitable Man (IM) @SovereignIM** · [2026-08-27](https://x.com/SovereignIM/status/2093013713947078901)
+> > 
+> > Your uncharitable assumption aside, the truth is I prioritise the truth over all things, even if the realisation of that truth will hurt me. But I realise most people only care about protecting their egos or humiliating others, so don't argue in the truest good faith sense.
+> > 
+> > So if someone is of reasonable intelligence and lacks bad intention, I can have a good faith discussion with them, but if it's some infant humiliation war, I'll either blast them with one thing to make them feel shit then ignore them, or I will just ignore them. But I won't argue with them. I won't give them a back and forth.
+> > 
+> > Argument is actually a cherished and sacred thing, and true debate rather than just trying to clown others and calling that a debate is something of an intellectual exercise. Why would one debate someone they don't think is fair minded, or at least cognitively sophisticated enough to pit their mind against? It makes no sense. The only people I am going to argue with who may not be mentally on my level and wish to use me as an authority figure to project their frustrations against is my children, and to an extent my woman, and that's because I care for their well-being. Everyone else can kick rocks.
+> > 
+> > > **huebet @ogobonyebe** · [2026-08-27](https://x.com/ogobonyebe/status/2093102328505098663)
+> > > 
+> > > A woman will never read this entire post
+> > > 
+> > > > **Illimitable Man (IM) @SovereignIM** · [2026-08-28](https://x.com/SovereignIM/status/2093127904561352879)
+> > > > 
+> > > > The thousands of women who read my shit all the time disagree with you.
+
+
+
+> **East Atlanta Oracle~ @johnAVERAGE** · [2026-08-27](https://x.com/johnAVERAGE/status/2093000517785932164)
+> 
+> Me n this lady argued for over an hour last night n when we hung up I was kinda turned on…??!?!
+> 
+> Unusual~
+> 
+> > **Illimitable Man (IM) @SovereignIM** · [2026-08-27](https://x.com/SovereignIM/status/2093003178908201445)
+> > 
+> > Fighting and fucking are closely related.
+> > 
+> > Hence makeup sex.
+> > 
+> > > **East Atlanta Oracle~ @johnAVERAGE** · [2026-08-27](https://x.com/johnAVERAGE/status/2093004040703492282)
+> > > 
+> > > I’m a very sentimental n empathetic person so when I get in arguments with lovers or ppl I’m intimate with I don’t even wanna be looked at let alone touched after traditionally,
+> > > 
+> > > I just started feeling this way recently tbh bc there is a lot of intimacy in conflict I’ve realized~
+
+> **Sta Sea @StaSeagirl** · [2026-08-27](https://x.com/StaSeagirl/status/2092992246404510129)
+> 
+> You're right! I need to stop giving out my energy for free and arguing with weirdos on this platform. Thanks for the reminder
+> 
+> > **Illimitable Man (IM) @SovereignIM** · [2026-08-27](https://x.com/SovereignIM/status/2093012211023167897)
+> > 
+> > It will improve your well-being tremendously. Only really get into it with people you respect or care about.
+
+> **Rish @rishachino** · [2026-08-27](https://x.com/rishachino/status/2093011786727583827)
+> 
+> Why do men who thinks they are smart try to argue and disprove your point? They tryna fuck?
+> 
+> > **Illimitable Man (IM) @SovereignIM** · [2026-08-27](https://x.com/SovereignIM/status/2093016887773000037)
+> > 
+> > If you are a woman and a man keeps trying to argue with you, he is attracted to you and likes seeing you flustered and lose composure because he is in a sense imposing himself on you, and thus dominating you by determining your emotional state. That's also why he would like to beat you at anything: a game, chess, whatever - it is a symbolic way of dominating you that foreshadows the main act of domination: sex.
+> > 
+> > That being said, some dudes are just weird, pedantic and autistic and get really bothered by people saying false or incorrect things, and can't just bite their lip and let others be wrong. They feel an overwhelming need to correct inaccuracies and ignorance, and you may be a consistent source of that, so all in all, it really depends on the context.
+> > 
+> > > **Nostra Dominus. @RoseGoldLion** · [2026-08-27](https://x.com/RoseGoldLion/status/2093034642089632221)
+> > > 
+> > > The former is weirder than the latter tbh
+> > > 
+> > > > **Illimitable Man (IM) @SovereignIM** · [2026-08-27](https://x.com/SovereignIM/status/2093040363892023486)
+> > > > 
+> > > > Mainly a problem for smart women.
+
+> **B @princesssage969** · [2026-08-28](https://x.com/princesssage969/status/2093333854668865733)
+> 
+> Genuinely realized this a couple of weeks ago with an ex friend, had to step back and stop arguing with him because we were not in a relationship & the way we were arguing felt too much like it. Hes cut off now.
+
+> **Man of Gold @ManofGold88** · [2026-08-27](https://x.com/ManofGold88/status/2092995684261888456)
+> 
+> Arguing is taking your inner anger and expressing it outwardly to someone else. This most likely happens if someone is relevant in your life, but can also happens with random people.
+
+> **Good Old Dan @goodolddan** · [2026-08-28](https://x.com/goodolddan/status/2093132432262205542)
+> 
+> “Answer not a fool according to his folly, lest thou also be like unto him.” — Proverbs 26:4
+> 
+> Wisdom isn’t merely knowing how to defend the truth. It’s knowing when the conversation isn’t worth having.
+
+> **C @ess3doublep0p** · [2026-08-27](https://x.com/ess3doublep0p/status/2092983463255400473)
+> 
+> Exactly. If I still argue with u means you’re still important to me and I still care. Otherwise, I wouldn’t want to even respond to your shitty opinions.
+
+> **Christian O'Colman @C\_OColman** · [2026-08-28](https://x.com/C_OColman/status/2093145576565297616)
+> 
+> I have a crazy neighbor who’s tried to create beef. It makes him furious I just pretend he doesn’t exist.

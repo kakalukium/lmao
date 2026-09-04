@@ -2,7 +2,7 @@ China vs India through example
 
 On the Anti India Propaganda Space - there was an article posted by a user about how in China - they sold someone a 34th Floor Apartment in a building that only had 32 floors
 
-![](https://qph.cf2.quoracdn.net/main-qimg-50158b4bb02c4d1a39e5f3f7a1a30672)
+![](_attachments/main-qimg-50158b4bb02c4d1a39e5f3f7a1a30672_17880671447327032.jpg)
 
 This has been clearly mentioned by user [Ted Chyn](https://www.quora.com/profile/Ted-Chyn "www.quora.com") in the space EVERYTHING CHINA
 
@@ -60,7 +60,7 @@ If he didn't - By law he loses his permit and pays a large fine or is jailed for
 
 No other options. No long winded court cases that last 6–12 years.
 
-![](https://qph.cf2.quoracdn.net/main-qimg-7bca0fd57b5f2a81f462103dce55be91)
+![](_attachments/main-qimg-7bca0fd57b5f2a81f462103dce55be91_17880671447401314.jpg)
 
 In India - VERY FEW BUYERS GET A NAYA PAISA REFUND IF A PROPERTY DEAL GOES SOUR
 
@@ -102,7 +102,7 @@ In India settlement is private and so susceptible of threats and intimidation by
 
 Strong Robust System (China) vs Weak, Rotting System (India)
 
-![](https://qph.cf2.quoracdn.net/main-qimg-4467c432e38d9afe85db1808d73ea4ee)
+![](_attachments/main-qimg-4467c432e38d9afe85db1808d73ea4ee_17880671450898826.jpg)
 
 https://kbsliesdebunkeduncensored1.quora.com/China-vs-India-through-example-On-the-Anti-India-Propaganda-Space-there-was-an-article-posted-by-a-user-about-how-in?ch=10&oid=250413960&share=5cfc9bcd&srid=5RmR9L&target_type=post
 

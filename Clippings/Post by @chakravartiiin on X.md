@@ -45,7 +45,7 @@ Women are babysat at work while men are treated as slaves to compensate for it. 
 > 
 > Wow i cant believe you think women with Serious Government Roles who send Serious Emails had time for tiktoks 😤
 > 
-> ![[images/a79846a67f6c1965b594f7c380701902_MD5.jpg]]
+> ![[_attachments/a79846a67f6c1965b594f7c380701902_MD5.jpg]]
 
 > **sleepysnow @sleepysnow42334** · [2026-08-25](https://x.com/sleepysnow42334/status/2092350215969731057)
 > 

@@ -29,3 +29,5 @@ there’s an invisible force working in your favour rn. everything will work out
 
 it knows how it will happen, you don’t. believe in it. that’s all you can do.
 
+[[Electromagnetism appears to have effects on magical ability]]
+

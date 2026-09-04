@@ -2,6 +2,10 @@
 > You can only get to know and share life with, as to only how much depth they have met themselves
 > 
 
+
+> [!NOTE] Title
+> A good man without strength is hoping that evil has mercy. —Sun Tzu
+
 source: "https://x.com/retirementkeys/status/2058559057284538377"
 
 People can only meet you at the depth of their own perception

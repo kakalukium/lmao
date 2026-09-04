@@ -1,8 +1,8 @@
 ---
 cssclasses: ["zen-grid"]
 title: Illimitable Man
-created: 2026-08-28
-updated: 2026-08-28
+created: 2026-09-04
+updated: 2026-09-04
 ---
 
 # Illimitable Man

@@ -19,7 +19,7 @@ Most people who get good grades are just good at memorization, not actually smar
 > 
 > How much longer will rule by faux-educated slave types be able to persist before a new elite emerges capable of restoring order?
 > 
-> ![Image](https://pbs.twimg.com/media/HQ6mTeabsAAmcZs?format=jpg&name=large)
+> ![[images/b95c32a53fb9e641a68ccd56f2970fc7_MD5.jpg]]
 
 > **Antix @itsantixgaming** · [2026-08-29](https://x.com/itsantixgaming/status/2093741642347946218)
 > 

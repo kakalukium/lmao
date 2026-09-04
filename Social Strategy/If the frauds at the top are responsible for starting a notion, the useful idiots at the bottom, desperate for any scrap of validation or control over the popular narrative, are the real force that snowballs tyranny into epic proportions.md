@@ -1,4 +1,4 @@
-![](https://qph.cf2.quoracdn.net/main-qimg-b4c3fd6768716e0ae3474de3691d821a)
+![[images/de40924709ae9b83418610ee794e29fe_MD5.jpg]]
 
 ..and the useful mouthpieces in the Indian subcontinent will take this as an opportunity to assert their moral superiority over you because “millets and pulses are universally cheaper” and “it’s why they’ve been eating them for years.”
 

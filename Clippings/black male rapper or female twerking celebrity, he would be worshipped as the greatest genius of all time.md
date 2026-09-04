@@ -2,6 +2,8 @@
 source: https://x.com/MasterZephyr11/status/2065845656111976803
 tags:
   - social-skills/pleb-mind
+nav: true
+description: Has workplace politics pic
 ---
 MUSK DESERVES MORE ⛓️🚀
 
@@ -38,3 +40,15 @@ So to all of you ghetto worshippers and reality TV lovers, you vermin that cheer
 > In a world where stupid nonsense, DEI, and sensationalist bull shit gets rewarded
 > 
 > He's a reminder that competency and merit still indeed rule in the end
+
+
+https://x.com/Stopworkplacebu/status/2093338201960136762?s=20
+![[_attachments/39421df2321d214cba96faf6b57afe4d_MD5.jpg]]
+
+---
+
+## Comments
+
+> **Jeremy Peeples @Jeremy\_Peeples** · [2026-08-28](https://x.com/Jeremy_Peeples/status/2093344614778298719)
+> 
+> yeah it triggered the worst parts of rejection as a kid and was made so much worse by having managers "remind" me that I had my house riding on the job

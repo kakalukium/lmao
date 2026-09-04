@@ -16,7 +16,8 @@ They haven't thought about their place in the universe, they don't know or care 
 
 
 
-![](https://pbs.twimg.com/media/HNl8VlnaEAAeTi4?format=jpg&name=900x900)
+[[images/b412442c0d7954ee77efbcbc176b22b4_MD5.jpg|Open: image.png]]
+![[images/b412442c0d7954ee77efbcbc176b22b4_MD5.jpg]]
 
 
 

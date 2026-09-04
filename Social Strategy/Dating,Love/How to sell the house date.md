@@ -40,7 +40,7 @@ What women say they're "attracted" to is complete bullshit.
 
 (This is an excerpt from my book, get it here now if you haven't: https://zylvie.com/aruvinchan/p/moderndatingsurvivalguide/coupon/TWITTERBRO…)
 
-![Image](https://pbs.twimg.com/media/HQvP69pXcAA-JAD?format=png&name=large) ![Image](https://pbs.twimg.com/media/HQvP667XkAAfy4v?format=png&name=large)
+![[_attachments/15d1a1386cf02a1ec2cb7e0ba51799a3_MD5.png]] ![[_attachments/0986d32a554066e87b6a857c3f395510_MD5.png]]
 
 ---
 

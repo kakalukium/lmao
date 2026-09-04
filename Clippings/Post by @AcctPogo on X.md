@@ -45,7 +45,7 @@ Beach days
 > 
 > Feeling cute, might delete later, idk
 > 
-> ![[images/3b2be6d2ae8c59f31eb3134b47f73261_MD5.jpg]]
+> ![[_attachments/3b2be6d2ae8c59f31eb3134b47f73261_MD5.jpg]]
 > 
 > > **Baby Akuma @AcctPogo** · [2026-01-16](https://x.com/AcctPogo/status/2012235493602148817)
 > > 

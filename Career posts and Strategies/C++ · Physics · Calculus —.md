@@ -3,7 +3,7 @@ source: https://x.com/e_opore/status/2094995862875217977
 ---
 C++ · Physics · Calculus — Integrated Stem Bundle for CS students https://creatifystoredp.gumroad.com/l/mbpoy
 
-![Image](https://pbs.twimg.com/media/HRM0MSLWwAIis_M?format=jpg&name=large)
+![[images/3d5a60a38de467fd5bdfdddc57d9632c_MD5.jpg]]
 
 
 ---
@@ -15,7 +15,7 @@ PDF: https://graphics.stanford.edu/courses/cs205a-13-fall/assets/notes/cs205a\_n
 
 Video Lectures: https://youtube.com/playlist?list=PLQ3UicqQtfNvQ\_VzflHYKhAqZiTxOkSwi…
 
-![Image](https://pbs.twimg.com/media/HMF-TizW4AAQ6MI?format=png&name=large)
+![[images/4dc9fa36b8edc214c8e38f410c84f2d1_MD5.png]]
 
 ---
 
@@ -575,4 +575,4 @@ BACKEND ENGINEERING ROADMAP
 
 Grab Backend Engineering Ebook: https://codewithdhanian.gumroad.com/l/ungqng
 
-![Image](https://pbs.twimg.com/media/HRLqw9UW8AMt8GP?format=jpg&name=large)
+![[images/24c73b7ea7735e6b527162881cda4ddd_MD5.jpg]]

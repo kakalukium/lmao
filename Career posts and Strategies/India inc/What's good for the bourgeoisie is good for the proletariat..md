@@ -1,7 +1,7 @@
 ---
 source: https://x.com/MaitreyaBhakal/status/2062401347350401353
-tags:
-  - Maitreya
+author:
+  - "@Maitreya"
 ---
 Just so everyone is clear, the gripe here is that China is destroying the profits of the western bourgeoisie, because they are forced to make their products cheaper to compete with Chinese competitors.
 

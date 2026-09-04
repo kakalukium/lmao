@@ -43,4 +43,4 @@ you stop seeing code as syntax.
 
 you start seeing the mathematical structures underneath it.
 
-![Image](https://pbs.twimg.com/media/HROb-jobQAAvf2m?format=jpg&name=large)
+![[images/fe3fed8220a288a1c4d272988d6ddc1a_MD5.jpg]]

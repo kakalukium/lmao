@@ -18,6 +18,14 @@ https://youtube.com/watch?v=z-qLJ9gWxes
 Kiss of life 
 https://youtube.com/source/4MOzk7-6j-I/shorts
 
+
 Worry ultra slowed
 
+
+someone wrote this song before and i can tell you where it's from
+https://youtu.be/AjONiE2EQAs?si=moSGfDZCDNjXb-G7
+
+toxic voltage
+https://youtu.be/_DPq_9eh5Cw?si=94VVJQvJz7IoFBzR
+>>>>>>> Stashed changes
 

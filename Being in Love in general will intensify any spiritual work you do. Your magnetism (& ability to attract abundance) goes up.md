@@ -5,6 +5,7 @@ tags:
   - Individuation/creativity
 nav: true
 ---
+[[The lovable asshole is how you want to be.]]
 
 GINA NÄUMAN • جینا نعمان
 @entertheunseen

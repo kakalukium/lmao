@@ -2,6 +2,17 @@
 tags:
   - spirituality/soulmate
 ---
+[[Nature never puts anything in people's hands without judging their karma, their desires, their abilities, and their understanding.]]
+
+
+
+
+
+
+
+
+
+
 
 https://x.com/DaygameCharisma/status/2078852821139800217?s=20
 
