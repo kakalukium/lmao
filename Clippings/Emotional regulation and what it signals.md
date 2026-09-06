@@ -1,5 +1,6 @@
 ---
-source: "https://x.com/verritass/status/2095218893577224630"
+source: https://x.com/verritass/status/2095218893577224630
+nav: true
 ---
 Not being able to deal with your emotions is a skill issue and you've never been shown how to actually deal with them and from the shadows they control your life.
 
@@ -50,3 +51,8 @@ Genuine grounded joy lies on the other side of letting flow. You can taste the e
 This is how you unlock childlike joy again.
 
 ![[images/694d2a1066b2605324a621de56a67499_MD5.jpg]]
+
+https://x.com/i/status/2096486053792063667
+###### If every bad mood sends you looking for stimulation, your brain will eventually learn that sadness, boredom and frustration are signals to escape. Then ordinary emotions start producing extraordinary behavior. Self-command grows when you repeatedly experience an uncomfortable state without immediately trying to chemically or digitally change it.
+
+

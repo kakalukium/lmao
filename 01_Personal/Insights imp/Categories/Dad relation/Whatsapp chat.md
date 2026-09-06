@@ -79,3 +79,6 @@ I need you to buy me that PC urgently.
 I need you to address my grievances urgently.
 https://amzn.in/d/0hCf4qr4
 ```
+
+
+[[Whatsapp log 9•6]]

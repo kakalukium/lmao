@@ -88,9 +88,16 @@ Even with having faithful certainty about everything  becoming alright, the shee
 Luck is quite easy to have, most people are too attached to their suffering, and refuse to be lucky
 
 Most limitations are self imposed- zherka
+<<<<<<< Updated upstream
 And psychic power will lead you to getting your dream girl and life. -zherka
 
 You need minimum 2 of them, and eventually three,
  a) logistics
   b) socio-economic might
   c)long term established recurring high income sources
+=======
+And psychick power will lead you to getting your dream girl and life. -zherka
+
+
+I am falling sick, Getting too ahead of myself, unable to maintain steady mental coherance for systematic execution. All I have is some tormenting memories of unrealised love and ambitions.
+>>>>>>> Stashed changes
