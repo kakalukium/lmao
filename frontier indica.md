@@ -188,3 +188,30 @@ You're only not going to make it if you've convinced yourself you can't
 
 https://x.com/i/status/2092284862296154507
 You learn more when you’re in practice of that particular thing you want to be good about. You can’t possibly ‘think’ your way into being professional in the field.  On the course of your execution, you learn and observe more. Your good acts, your bad decisions. You notice and restrategize and continue executing. 
+
+
+
+---
+source: "https://x.com/frontierindica/status/2073624404991574162"
+
+The Indian education system produces English-speaking underconfidence at industrial scale.
+
+Millions can write emails, use Excel, clear entrance exams and sit in offices, but cannot negotiate salary, sell themselves, take initiative or deal with authority without freezing.
+
+True agency in Indian professional and corporate circles requires that you be able to pitch yourself in decent English.
+
+---
+
+## Comments
+
+> **Neo\_Kabir @si77835** · [2026-07-05](https://x.com/si77835/status/2073624955569541383)
+> 
+> Elaborate on factual solutions also pl !
+
+> **FaFudon @Risshi33** · [2026-07-05](https://x.com/Risshi33/status/2073699267970293778)
+> 
+> Even authority has someone above as authority, it's always like this. So, dealing with authority is a Skill, without straining relationship, getting work done is the entire art that can help you tremendously.
+
+> **Biotweets @BiotweeX** · [2026-07-05](https://x.com/BiotweeX/status/2073731979850506688)
+> 
+> True
