@@ -1,5 +1,6 @@
 ---
 source: https://x.com/aruvinchan/status/2089357833099743673
+nav: true
 ---
 How to sell the house date:
 
@@ -71,3 +72,67 @@ What women say they're "attracted" to is complete bullshit.
 > Attraction aint shit.
 > 
 > Who gets that pussy GOING, is what matters
+
+
+
+---
+
+Only low-life men are jealous of women.
+
+###### Why the fuck would you envy the gender who's literally weaker + have a built-in biological clock, beyond which they're no longer relevant/fertile?
+
+I thank the Lord every day being born a man.
+
+Being a woman is such a burden.
+
+> **Katrina (大王）🇺🇸🇲🇽🇨🇳 @zapatas\_mom** · 2026-09-04
+> 
+> Men are so jealous of women.
+> 
+> To add to your jealousy, random simps I’ve never ever met before also send me money for no reason. x.com/schtal2/status…
+
+---
+
+## Comments
+
+> **RSPY @RSPY\_critical** · [2026-09-05](https://x.com/RSPY_critical/status/2096196058443399227)
+> 
+> Well you want to bang us and we don’t want to bang you as much, so that’s why.
+> 
+> > **Aruvin 💊 @aruvinchan** · [2026-09-05](https://x.com/aruvinchan/status/2096215352619253886)
+> > 
+> > But that's because that's all you're good for.
+> > 
+> > We men are good for more.
+> > 
+> > > **RSPY @RSPY\_critical** · [2026-09-05](https://x.com/RSPY_critical/status/2096215680223756573)
+> > > 
+> > > Whoa. Relax.
+> > > 
+> > > > **Aruvin 💊 @aruvinchan** · [2026-09-05](https://x.com/aruvinchan/status/2096216824991920347)
+> > > > 
+> > > > You started it.
+> > > > 
+> > > > > **RSPY @RSPY\_critical** · [2026-09-05](https://x.com/RSPY_critical/status/2096217350030684667)
+> > > > > 
+> > > > > I just said the true thing. I’d accept “that’s your greatest power” over “that’s all you’re good for.”
+> > > > > 
+> > > > > In 2026 when women earn more than men (not me) in major metro areas, you cannot say that.
+> > > > > 
+> > > > > Anyway, I’m (independently) poor and old. Don’t take it out on me!
+> > > > > 
+> > > > > > **Aruvin 💊 @aruvinchan** · [2026-09-05](https://x.com/aruvinchan/status/2096223202242449573)
+> > > > > > 
+> > > > > > "That's your greatest power" isn't the same thing as "that's all men see you as good for" though.
+> > > > > > 
+> > > > > > Earn all the money you want, it won't make a difference in how men are attracted to women.
+> > > > > > 
+> > > > > > I also just said the true thing.
+> > > > > > 
+> > > > > > > **RSPY @RSPY\_critical** · [2026-09-05](https://x.com/RSPY_critical/status/2096223870675976463)
+> > > > > > > 
+> > > > > > > Oh Katrina said men are jealous of women lol
+> > > > > > > 
+> > > > > > > > **RSPY @RSPY\_critical** · [2026-09-05](https://x.com/RSPY_critical/status/2096224122057503108)
+> > > > > > > > 
+> > > > > > > > And I said, “well you wanna bang us more so kinda tracks”
