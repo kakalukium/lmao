@@ -1,0 +1,11 @@
+---
+tags:
+---
+[[capitalism might not work for young people today]]
+
+
+The grandfather clause. Imagine 100 years ago. Psychology is basically a new field. Sigmund Freud is still alive. What laws are there preventing someone from becoming a practicing psychologist or therapist? There basically are none. You could claim you have developed some method of treating some psychological condition, there is nothing preventing you from hanging up a sign and charging people for it. Now let's say you continue to practice until 1965 when the first board certifications are established. Are you forced to pass the boards? If you don't pass, are you forced to hang up your hat? No, you are grandfathered in. You are given the same ability to practice as someone who went through the process of becoming board certified.
+
+This has happened with every profession over the years. It used to be that a nursing degree was basically a 2 year process. An LPN was 1 year. Now you need almost 2 years of prerequisites to get into the program. There are rules, laws and organizations governing real estate agents, car sales, commercial trucking, manufacturing and just about every other profession and business you can think of.
+
+The problem is the established folks are grandfathered in. Newer professionals and businesses have to spend a ton of money and time jumping through hoops that established folks did not and do not have to. So, as a young person the barriers to market entry get harder every year, which allows the established folks a huge competitive advantage. There are many reasons that capitalism is not working for the young, but this is definitely a contributing factor.

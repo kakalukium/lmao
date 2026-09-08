@@ -35,4 +35,4 @@ The judges who do not judge are the fundamental force of societal spiritual deca
 > 
 > Intellectual capital (IQ) is essential for a successful society. Why would society hate intelligent children? x.com/FinancialPhys/…
 > 
-> ![Image](https://pbs.twimg.com/media/HHKd73KXoAALh3U?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HHJ-paKaUAEbzZ3?format=jpg&name=large)
+> ![[images/c88b95d3a7bfbfda7b03bc52d7078c9c_MD5.jpg]]![[images/e05bc35b1dbf72bd593627574fc3434d_MD5.jpg]]

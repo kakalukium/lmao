@@ -11,7 +11,7 @@ In every lifetime, the subconscious enforces its own laws of equilibrium. You do
 > 
 > If you are about to watch p0rn, remember all these angels are watching you.
 > 
-> ![Image](https://pbs.twimg.com/media/HAQt_3lX0AAi744?format=jpg&name=large)
+> ![[images/0270c2308c20f261765b5519351b0c95_MD5.jpg]]
 
 ---
 
