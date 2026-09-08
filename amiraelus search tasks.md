@@ -1,0 +1,21 @@
+- [ ] world
+- [ ] fuck
+- [ ] save
+- [ ] orgasm
+- [ ] money
+- [ ] will
+- [ ] presence
+- [ ] pareto
+- [ ] karma
+- [ ] neutralize
+- [ ] ingenuity
+- [ ] cosmic
+- [ ] devil
+- [ ] age
+- [ ] resources and parent
+- [ ] preservation and level and repent and archdemon and personal
+- [ ] satan perfection hypergamy
+- [ ] subjectivity and destiny
+- [ ] darkness
+- [ ] intelligence, ingenuity
+- [ ] forget
