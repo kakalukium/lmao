@@ -596,7 +596,8 @@ Begin real human work to reclaim your humanity.
 
 #amiraelus #matriarchy202830
 
-![[_attachments/329b896f0e16c1f1d4c90b3185f1dfdc_MD5.jpg]]![[_attachments/6fe0296c417c424b10b43899a0f2df3b_MD5.png]]![[_attachments/56559f5f34179670de6f76207e266107_MD5.png]]![[_attachments/3a31b0ecbca60f5d84e06303308db9d9_MD5.png|447]]accident that the same humans who simp for money are those who preach the benefits of hypergamy.
+![[_attachments/329b896f0e16c1f1d4c90b3185f1dfdc_MD5.jpg]]![[_attachments/6fe0296c417c424b10b43899a0f2df3b_MD5.png]]![[_attachments/56559f5f34179670de6f76207e266107_MD5.png]]![[_attachments/3a31b0ecbca60f5d84e06303308db9d9_MD5.png|447]]
+accident that the same humans who simp for money are those who preach the benefits of hypergamy.
 
 Because simping for money and simping for women is the same thing in two different levels.
 

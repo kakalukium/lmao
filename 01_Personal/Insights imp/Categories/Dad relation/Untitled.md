@@ -31,7 +31,40 @@ Otherwise, unrealized ambition turns into resentment, and your own intelligence 
 
 The world is full of brilliant but disappointed people who waste their lives envying others and create nothing. Don’t become one of them.
 
+<<<<<<< Updated upstream
 https://x.com/i/status/2097596098894533063
 Boomers, farmers and tradesman being the salt of the earth people has to be the biggest pysop ever these people exude an unusual amount of glee in seeing the educated young men suffer.
 
 Me thinks either they see suffering as a moral condition of being a man or they're simply jealous of men working in livable conditions getting a decent wage. I hope robotics will wipe out their moral fetish with labour.
+
+
+---
+https://x.com/CorpMachReborn/status/2096908909059473537
+"There's no harm in asking."
+
+Wrong THERE IS HARM in asking.
+
+Asking for things,
+
+that people cannot or will not grant,
+
+causes people to dislike you.
+
+---
+
+## Comments
+
+> **SV @Sam\_Verg** · [2026-09-07](https://x.com/Sam_Verg/status/2096949669226025095)
+> 
+> This includes asking for your constitutional rights (esp. privacy), capitalism (ownership of value created), merit, and the rule of law.
+> 
+> Double the hate if directing the ask towards anyone who publicly platforms on this (politicians, investors, etc).
+
+> **Yaáro @NothernNephilim** · [2026-09-07](https://x.com/NothernNephilim/status/2097025349674528841)
+> 
+> Every time you ask for something someone cannot grant you remind them that they do not have infinite capacity. But when you ask for something they can and will grant, you make them feel more powerful.
+
+> **LXCKOFRXLIGIXN 2001 \* @LxckOfRxligixn** · [2026-09-07](https://x.com/LxckOfRxligixn/status/2096957760847958314)
+> 
+> .
+>>>>>>> Stashed changes

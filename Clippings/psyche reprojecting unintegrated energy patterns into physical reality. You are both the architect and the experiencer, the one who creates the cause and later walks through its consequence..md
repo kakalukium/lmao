@@ -1,5 +1,6 @@
 ---
-source: "https://x.com/SIGMAPROFESSOR/status/2020527328347177008"
+source: https://x.com/SIGMAPROFESSOR/status/2020527328347177008
+nav: true
 ---
 True spirituality begins when you realize that no divine accountant is watching you. There’s no celestial observer tallying your deeds - no angel, no demon, no cosmic jury. The only witness is your own consciousness. 
 
@@ -60,3 +61,65 @@ In every lifetime, the subconscious enforces its own laws of equilibrium. You do
 > > **PROFESSOR @SIGMAPROFESSOR** · [2026-02-09](https://x.com/SIGMAPROFESSOR/status/2020932316819071140)
 > > 
 > > 🩵
+
+////////////
+
+
+
+high men pray. higher men move toward a goal praying they achieve it. the highest men move toward a goal praying for wisdom regarding whether the goal they chose is right for them or not. despite really wanting it. despite being ready to die for it. who said you wanted that which you always wanted? set goals then pray to God they get obliterated if they’re not ultimately good for you. but you need a lot of faith for that. do you have it?
+
+> **shadow work guide @anokariver** · 2026-08-22
+> 
+###### Ppl underestimate how scary it is to actually get what you’ve always wanted. It takes so much readiness to be able to energetically hold it without going into a horrible overwhelm. It doesn’t happen until you can handle it for a reason
+
+
+> **Nornal Guy @theralkia** · [2026-08-22](https://x.com/theralkia/status/2091211682194354384)
+> 
+> It requires one to reconcile with all parts of themselves
+> 
+> > **Alexander Wolfe @ABenjaminWolfe** · [2026-08-22](https://x.com/ABenjaminWolfe/status/2091222173537206450)
+> > 
+> > This but also it is a kind of death
+
+> **ClearKnowing @ClearKnowing** · [2026-08-23](https://x.com/ClearKnowing/status/2091547654186561586)
+> 
+> Correct. The former version must die/be integrated into the new.
+> 
+> > **Alexander Wolfe @ABenjaminWolfe** · [2026-08-23](https://x.com/ABenjaminWolfe/status/2091549997443719563)
+> > 
+> > “Nothing is lost, everything is transformed”
+> > 
+> > ![[images/96e37b389b3aaeae179a6c47dcc2b9c9_MD5.jpg]]![[images/e39fa520e2740295fe08f0ead6c02413_MD5.jpg]]
+> > 
+> > > **ClearKnowing @ClearKnowing** · [2026-08-24](https://x.com/ClearKnowing/status/2091993510383644701)
+> > > 
+> > > Well-said
+---
+
+## Comments
+
+> **Zubair @zubairforward** · [2026-08-22](https://x.com/zubairforward/status/2091250485928034404)
+> 
+> God buries gold in the wound
+> 
+> > **Blond @BlondB00** · [2026-08-22](https://x.com/BlondB00/status/2091250658481471749)
+> > 
+> > prayer releases it.
+
+> **vb @vb\_\_i0** · [2026-08-23](https://x.com/vb__i0/status/2091545319607869716)
+> 
+> U can find peace in knowing that whatever is indeed obliterated as a result of ur prayer, was ultimately a misguided pursuit borne of mans narrowminded worldly sensibilities,,,
+> 
+> and will soon be realigned to something far greater than what u could have ever mortally conceived
+
+> **Kotak Neo @kotakneo** ·
+> 
+> MTF at just 9.69% p.a. on Kotak Neo
+
+> **jstnurmind @jstnurmind** · [2026-08-23](https://x.com/jstnurmind/status/2091365026917478578)
+> 
+> Truly, a golden post
+
+> **Reuben @DraculaofWeb3** · [2026-08-23](https://x.com/DraculaofWeb3/status/2091416796184101295)
+> 
+> @XScreenshoter screenshot this

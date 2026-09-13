@@ -15,7 +15,10 @@
 - [ ] resources and parent
 - [ ] preservation and level and repent and archdemon and personal
 - [ ] satan perfection hypergamy
-- [ ] subjectivity and destiny
+- [ ] **subjectivity** and destiny
 - [ ] darkness
 - [ ] intelligence, ingenuity
 - [ ] forget
+- [ ] irrefutable devil
+- [ ] darkness  female nature/ darkness socialism female nature 
+- [ ] 

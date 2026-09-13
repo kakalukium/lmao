@@ -42,3 +42,6 @@ Very true
 https://x.com/i/status/2081104223232520476
 
 when you hit your first $20k month but instead of smiling you sit with a blank stare and remember all the times you thought about giving up
+
+
+

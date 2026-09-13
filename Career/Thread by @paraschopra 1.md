@@ -49,7 +49,7 @@ Our dreams and imagination is literally data-creation
 
 what's your take on this ?
 
-![A screenshot of a tweet by Andrej Karpathy. The tweet text is visible, detailing steps on how to become an expert at something, including taking on concrete projects and summarizing learnings. The profile picture of Andrej Karpathy is visible on the left side, showing a colorful background.](_attachments/G0dnmkNbgAQ08Zz_17866962026484902.jpg)
+![A screenshot of a tweet by Andrej Karpathy. The tweet text is visible, detailing steps on how to become an expert at something, including taking on concrete projects and summarizing learnings. The profile picture of Andrej Karpathy is visible on the left side, showing a colorful background.|186](_attachments/G0dnmkNbgAQ08Zz_17866962026484902.jpg)
 
 ---
 
