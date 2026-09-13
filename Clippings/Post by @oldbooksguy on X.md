@@ -3,7 +3,7 @@ source: "https://x.com/oldbooksguy/status/2098412339188089126"
 ---
 thinking about this banger from Naval
 
-![Image](https://pbs.twimg.com/media/HR8Ox2ebkAAsjbO?format=jpg&name=large)
+![[images/04afec5a654a102e91b0d9c68f8db5b3_MD5.jpg]]
 
 ---
 
@@ -23,7 +23,7 @@ thinking about this banger from Naval
 > > 
 > > It's incredibly beautiful and tragic
 > > 
-> > ![Image](https://pbs.twimg.com/media/EZsEIDLXgAYAWnX?format=jpg&name=large)
+> > ![[images/d95072105f523b364ec8b90e19867300_MD5.jpg]]
 
 > **HowlingFeminist @hetero\_ally** · [2026-09-11](https://x.com/hetero_ally/status/2098449517762789584)
 > 
@@ -69,4 +69,4 @@ thinking about this banger from Naval
 > 
 > Isn’t there someone you forgot to ask
 > 
-> ![Image](https://pbs.twimg.com/media/HR9PgixbkAAF54d?format=jpg&name=large)
+> ![[images/4095b4bf2b58eb323156477adf36df1f_MD5.jpg]]
