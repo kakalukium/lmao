@@ -30,3 +30,8 @@ If you’re an intelligent person, do everything in your power to build the life
 Otherwise, unrealized ambition turns into resentment, and your own intelligence starts eating you from inside out. 
 
 The world is full of brilliant but disappointed people who waste their lives envying others and create nothing. Don’t become one of them.
+
+https://x.com/i/status/2097596098894533063
+Boomers, farmers and tradesman being the salt of the earth people has to be the biggest pysop ever these people exude an unusual amount of glee in seeing the educated young men suffer.
+
+Me thinks either they see suffering as a moral condition of being a man or they're simply jealous of men working in livable conditions getting a decent wage. I hope robotics will wipe out their moral fetish with labour.

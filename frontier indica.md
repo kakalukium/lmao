@@ -204,7 +204,9 @@ The Indian education system produces English-speaking underconfidence at industr
 Millions can write emails, use Excel, clear entrance exams and sit in offices, but cannot negotiate salary, sell themselves, take initiative or deal with authority without freezing.
 
 True agency in Indian professional and corporate circles requires that you be able to pitch yourself in decent English.
+
 =======
+
 https://x.com/i/status/2096208489639293251
 Ur life will drastically change once u get that there is literally nothing called deserving. U deserve nothing by definition. It's all about what u can take, if u can take it. It's about audacity & action. Some people will always define why u don't deserve what u have. Let them.
 
