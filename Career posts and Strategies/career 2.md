@@ -82,3 +82,36 @@ we are not the same
 
 # !!!!!!!!!!!!!!!
 https://www.instagram.com/reel/DdOiFtmNL1Q/?stkn=MWE0eTgwM2MxZDh3YQ==
+
+
+https://x.com/i/status/2099200501955088802
+Though I’m often in the depths of misery, there’s still calmness, pure harmony and music inside me.
+
+—Vincent van Gogh
+
+https://x.com/i/status/2099223190098850126
+All people are liars. All women are prostitutes. And everyone is a parasite. In certain circumstances.
+
+When lying is beneficial, expecting people not to is naive.
+
+When women can get what they want by sexualizing themselves, expecting them not to do it is naive.
+
+When you are exploitable, expecting people not to exploit you is naive.
+
+But if the circumstances don't incentivize these behaviors, they won't happen.
+
+If by gaining your trust people win much more that by lying, they won't lie.
+
+If by submitting to you and being loyal to you she gains more than by wh00ring, she will become yours.
+
+If by serving you people gain more than by trying to exploit you, they will become useful.
+
+It was you all this time who was making the world a dirty mess. And it is the time for you to understand it and change it.
+
+Become a man who incentivizes the world flourish the way he loves.
+
+
+
+#tasks/iii 
+https://search.brave.com/ask?q=why+did+tesla+refuse+to+marry+jp+morgan+daughter&conversation=09927bbcc73330db5cbf8548da8d62fc60ec#xT3yXErwqHwSkjkz8Uek4UEGPdnRlrDsuS751xK8hg0
+

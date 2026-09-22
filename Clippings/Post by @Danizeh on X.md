@@ -1,5 +1,5 @@
 ---
-source: https://x.com/Danizeh/status/2096484093441515547
+source: https://x.com/dmoonlives/status/2100083069978087537
 tags:
   - parasitic-feminism
   - capitalism/pathocracy
@@ -33,3 +33,21 @@ These guys have so much blood on their hands, it's actually absurd. They did the
 As you can see, a boomer replied to this and literally confirmed everything that I said.
 
 Once again, my pattern recognition is undefeated.
+
+
+
+
+https://x.com/dmoonlives/status/2100083069978087537
+Employers who don’t pay enough for their employees to responsibly afford rent (i.e. monthly net pay is 3x the average rent in the area) should not expect them to care about their jobs or put in any effort beyond the bare minimum.
+
+---
+
+## Comments
+
+> **DJ Bane @CoachellaBestie** · [2026-09-16](https://x.com/CoachellaBestie/status/2100132792244007403)
+> 
+> As soon as jobs stopped paying employees enough to afford a house, that's when people stopped working hard. There's no incentive. #Boomers just don't understand. They think we're acting entitled to ask for what they got in the 1960-1990's.
+> 
+> #BoomerFatigue
+> 
+> ![Image](https://pbs.twimg.com/media/HSUrpH7bIAA5JXv?format=jpg&name=large)

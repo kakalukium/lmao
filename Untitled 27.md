@@ -1,5 +1,6 @@
 ---
-source: "https://x.com/sekar_vembu/status/2084143577291186198"
+source: https://x.com/sekar_vembu/status/2084143577291186198
+tags:
 ---
 These “rise above personal gains to build a stronger India” messages to the youth are empty slogans. Like every slogan, they mean nothing except a tool to exploit young people’s emotions and push them to sacrifice themselves for power-hungry leaders.
 

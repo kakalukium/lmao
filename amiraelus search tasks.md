@@ -23,6 +23,15 @@
 - [ ] forget
 - [ ] irrefutable devil
 - [ ] darkness  female nature/ darkness socialism female nature 
+
 - [ ] legitimate
 - [ ] scam
 - [ ] immortality
+- [ ] godly/ godly female
+- [ ] currency
+
+
+
+
+Personally, to take revenge.
+

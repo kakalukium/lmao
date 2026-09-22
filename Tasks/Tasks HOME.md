@@ -256,3 +256,7 @@ https://x.com/i/status/2093318933457646069
 Rudolf Steiner says humans emanate an invisible aura and those who have spent years following esoteric practices can learn to visibly see this aura
 
 he says you can even read it to discern health problems and emotional imbalances in people without ever talking to them
+
+
+#tasks/search
+Thermo Europe search
