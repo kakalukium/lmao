@@ -3,4 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.ext != "".jpg""
+        - '!file.name.contains("MD5")'
+    sort:
+      - property: file.ctime
+        direction: DESC

@@ -2,6 +2,7 @@
 - [ ] fuck
 - [ ] save
 - [ ] orgasm
+    - [ ] eroticism, erotica, erotic, eros.
 - [ ] money
 - [ ] will
 - [ ] presence
@@ -10,6 +11,7 @@
 - [ ] neutralize
 - [ ] ingenuity
 - [ ] cosmic
+    - [ ] cosmically meaningful death
 - [ ] devil
 - [ ] age
 - [ ] resources and parent
@@ -21,4 +23,6 @@
 - [ ] forget
 - [ ] irrefutable devil
 - [ ] darkness  female nature/ darkness socialism female nature 
-- [ ] 
+- [ ] legitimate
+- [ ] scam
+- [ ] immortality

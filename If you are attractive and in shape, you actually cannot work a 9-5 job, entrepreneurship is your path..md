@@ -1,6 +1,11 @@
+---
+tags:
+  - social-skills/pleb-mind
+  - goyDepravities/Exit-strat
+---
 ## Conversation[Gym](https://x.com/trainer_skyi)[@trainer\_skyi](https://x.com/trainer_skyi)
 
-If you are attractive and in shape, you actually cannot work a 9-5 job, entrepreneurship is your path.
+If you are attractive and in shape, you actually cannot work a 9-5 job, goentrepreneurship is your path.
 
 [View quotes](https://x.com/trainer_skyi/status/2073004700383809941/quotes)[GRKAZO](https://x.com/GRKAZO)[@GRKAZO](https://x.com/GRKAZO)
 
