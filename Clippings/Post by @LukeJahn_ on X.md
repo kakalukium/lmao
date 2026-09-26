@@ -11,7 +11,7 @@ To lower yourself and your culture to some sub-Saharan sexual dance is pathetic 
 > 
 > So this is happening in Łódź, Poland…
 > 
-> ![Embedded video](https://pbs.twimg.com/media/HSly9CcX0AAdaHu?format=jpg&name=large)
+> ![[images/c14ad0ff57756b383a74095e64cc25c0_MD5.jpg]]
 
 ---
 

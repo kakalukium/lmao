@@ -236,3 +236,113 @@ Once you realise arguing is an act of extreme intimacy, you stop doing it with a
 > **Christian O'Colman @C\_OColman** · [2026-08-28](https://x.com/C_OColman/status/2093145576565297616)
 > 
 > I have a crazy neighbor who’s tried to create beef. It makes him furious I just pretend he doesn’t exist.
+
+
+
+---
+source: "https://x.com/SovereignIM/status/2103557587450929302"
+published:
+author:
+  - "[[@SovereignIM]]"
+---
+Combative women want men they consider unusually masculine, psychologically deep and intellectually penetrating, but those are precisely the kinds of men least likely to tolerate contempt. So when she feels insecure and tries to regain a sense of internal power by reflexively degrading the man, she disproportionately selects herself out of access to precisely the type of man she claims to value.
+
+This is her structural trap.
+
+She appears to think her contempt can function as a kind of leash: I will lower him, withdraw admiration and criticise him, and in doing so, force him to engage with me.
+
+But with the type of man she wants, it actually has the complete opposite effect. She seemingly fails to understand a very basic principle: that disrespect will not widen the aperture and create more access through negative attachment - but will lead to the complete collapse of whatever limited access she had otherwise up until that point been permitted. Antagonism is momentarily cathartic for her in so much as it allows her to vent her frustrations and trauma dump - but more crucially, such indulgence is spiritually ugly and unseductive, and thus pertinently antithetical to her intended aim of winning him.
+
+She is not a conqueror of man, because she does not "know her enemy", meaning she is self-absorbed to the point she seems to have no theory of mind as to the nature of man's psyche and his underlying dignity, and thereby like a bull in a china shop, presumes she can just inelegantly trample all over him, repeatedly humiliating herself by imposing herself unpleasantly, under the idiotic belief this will somehow get her what she wants. For the supposedly emotionally intelligent sex, this is profoundly retarded - but it goes to show that even in otherwise at least moderately clever women, ego can prove such a blind spot it renders them functionally moronic.
+
+And because she apparently does not understand that disrespecting the man she wants is why he keeps cutting her off every time she manages to force access to him, she keeps interpreting his resulting exclusion as "another move in the dance" - further evidence that something psychologically profound and meaningful is happening between them, rather than recognising the much simpler but less flattering and more self-indicting causal chain:
+
+She behaved unpleasantly toward a man who had no obligation to tolerate her, so he removed her.
+
+---
+
+## Comments
+
+> **tom whitehouse @Tom\_Whitehouse1** · [2026-09-25](https://x.com/Tom_Whitehouse1/status/2103563467366248816)
+> 
+> Fortunately, this type of woman is the exception, not the rule.
+> 
+> I have experienced this, but more often than not, she is aware that strong men don't submit.
+> 
+> Skill issue.
+> 
+> > **Illimitable Man (IM) @SovereignIM** · [2026-09-25](https://x.com/SovereignIM/status/2103566440771289522)
+> > 
+I don't think high ego low empathy women are rare. I think they are the rule rather than the exception, and that your personal lifestyle (whatever your job/industry is and the degree to which you work) may insulate/limit your access to such experiences, but I don't think that reflects an overall societal trend of such women being rare, merely that your extrapolation of your personal experience as representative of the whole is short-sighted.
+
+I would actually like you to be right. I don't want low empathy confrontational idiots to be more than some strange niche slither of the population, but I just don't think you are correct.
+
+I think these women are fairly common, and I think the higher and more publicly visible/prestigious your position in society as a man, the more likely you are to be subjected to it.
+
+So let's say for your example you're a guy who is a tradey (electrician, plumber etc) and your frame of reference is "one or two annoying exes from when you were younger" but most of the time you're driving around to residential areas in a van fixing stuff in people's homes, of course this is going to seem rare to you. Most of the women you would meet would be wives of white collar men happy you're fixing some broken shit for them. But if you are a prominent public speaker, scientist, university professor, politician or in some other role with greater exposure to even moderately intelligent and dissatisfied women, you will run into far more of what I'm talking about.
+
+> **snow @ilovesnow248** · [2026-09-25](https://x.com/ilovesnow248/status/2103587865628459242)
+> 
+> This here is psycho-babble word-garbage nonsense made by the enemy to make men hate women. Matthew 4:10
+> 
+> > **Illimitable Man (IM) @SovereignIM** · [2026-09-26](https://x.com/SovereignIM/status/2103679711444406372)
+> > 
+> > Pearls before swine, and you’re the pig.
+
+> **IEVA @IevaSoulFood** · [2026-09-26](https://x.com/IevaSoulFood/status/2103687338144436681)
+> 
+> There’s definitely a lot of truth to the pattern you describe. I’d like to add that the reason she behaves like this is essentially learned in childhood. She’s a victim of these dynamics growing up. It’s just her programming. And if you’re willing and she’s willing to change and
+
+> **Roscoe @Roscoedawg17** · [2026-09-25](https://x.com/Roscoedawg17/status/2103598639650402493)
+> 
+> Yes, they want to be in control of a man who takes control.
+
+> **High-Risk Asset @HighRiskAsset** · [2026-09-25](https://x.com/HighRiskAsset/status/2103577059838566897)
+> 
+> Simplified:
+> 
+> Unfeminine women want a man who can fix her. And the men most capable of that have no interest in a woman who needs fixing.
+
+> **James Flesch @james\_flesch** · [2026-09-26](https://x.com/james_flesch/status/2103682686984274050)
+> 
+> My first thought? She fucked you over, I feel it, man. Second, you went a long way to say, she would have done better, if she simply learned, not to be a demonic, abusive whore.
+
+> **troglobyte @troglobyte1** · [2026-09-25](https://x.com/troglobyte1/status/2103631914640773150)
+> 
+> They do t actually want a masculine man. They want a dog on a leash. The biggest dog they can get.
+
+> **Aurea Una @aur3auna** · [2026-09-25](https://x.com/aur3auna/status/2103577822442697209)
+> 
+> I am a bit more optimistic, but I am not a beautiful writer, like you, so I won’t make it sound so pretty. It is possible that any blatant disrespect is almost an instinctual or subconscious pull away from a man when a woman witnesses a repeatedly self-destructive behavior.
+
+> **SMFG India Credit @SMFGIndia** ·
+> 
+> Life is busy enough. Your loan management doesn’t have to be. With mConnect 2.0, stay connected to your loan account and manage it with ease, anytime, anywhere.
+> 
+> Download mConnect 2.0 today.
+> 
+> \[SMFG India Credit, mConnect 2.0, Financial Services, Pragati Ki Nayi Pehchaan\]
+
+> **Noble Normie @NobleNormie** · [2026-09-25](https://x.com/NobleNormie/status/2103565937165160584)
+> 
+> Superb. IM it’s time to publish a jungian “Red Book”📕
+
+> **LateralFrequency @MichaelFin57194** · [2026-09-25](https://x.com/MichaelFin57194/status/2103612266239406503)
+> 
+> Damn, very well said. Kudos.
+
+> **Lord Jakub Rotschild @avvmunteanu** · [2026-09-25](https://x.com/avvmunteanu/status/2103596980240896112)
+> 
+> Thinking about the fact that jews do and did this for centuries to western society
+
+> **DonaledoTerumpo @DTerumpo** · [2026-09-25](https://x.com/DTerumpo/status/2103619451329429567)
+> 
+> Excellent analysis
+
+> **Bayah Kelvin @KELVIN\_BAYAH** · [2026-09-25](https://x.com/KELVIN_BAYAH/status/2103583752085766178)
+> 
+> Only a sovereign,,high value man is able to achieve this with ease.
+
+> **Poshak Dua @PoshakDua** · [2026-09-25](https://x.com/PoshakDua/status/2103601759927353770)
+> 
+> So true man

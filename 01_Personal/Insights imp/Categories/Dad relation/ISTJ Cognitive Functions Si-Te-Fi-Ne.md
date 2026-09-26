@@ -13,8 +13,20 @@ In summary, based on the rules of MBTI function stacks, the noted tendency of IS
 
 , and the comment about inferior Ne not bothering ISxJs, the sources support the cognitive function stack Si-Te-Fi-Ne for the ISTJ type
 
-.
+![[images/2d8f7762da29d5c55cc03f6b076efed8_MD5.unknown]]
 
-Saved responses are view only
+## Transcript
 
-Gemini Notebook can be inaccurate; please double-check its responses.
+**0:00** · This week, two men whose fathers were famous for their toughness met at the White House. Xihinping's father was so tough that his secretary kept track of how much money the kids spent on the movies. Donald Trump's father told his sons to be killers. Neither father was known for generosity either, but each made an exception for this son. Xi Jong Shun was vice premier until he was purged in 1962.
+
+**0:26** · When his son needed clearance to get into Chinua in 1975, the factory where the father was exiled created an ad hoc certificate saying that his political problems would not stand in the way of his children's education. And later, the historian Joseph Teresian writes, "The father met Hab's party chief and told him to take care of his son who was a premier in the making." Teresian counts this kind of cronyism as one of the few stains on the older she's disciplined career.
+
+**0:53** · In December 1990, Donald Trump was about $4 billion in the hole to more than 70 banks and Trump Castle Casino was about to pay $18.4 million in interest payments. Fred's lawyer showed up, bought $670 gray $5,000 chips with a $3.35 million check on Fred, put them in a case, and left. No one gambled with them. It was a way of getting Fred's money into the casino, and New Jersey gaming regulators assessed a $30,000 penalty for the loan. But even the father's generosity had its limits.
+
+**1:25** · That month, Donald's lawyer drew up an amendment to Fred's will that Donald's brother-in-law said was basically taking the whole estate and giving it to Donald. It doesn't pass the smell test, Fred said. Donald was not the one who broke under Fred's pressure. It was Freddy, the oldest son, who wanted to be an airline pilot. A chauffeur in the sky, Fred scorned. Freddy drank himself to death, dying in 1981 at the age of 42 of an alcohol-related disease.
+
+**1:52** · Donald, who has never drunk alcohol, said, "I do regret having put pressure on him, and that Freddy kept me off alcohol." She and Trump are certainly not self-made men, but they are not mere privileged heirs either. They are the sons that demanding fathers decided to invest in.
+
+**2:10** · Trump did something that presidents rarely do on Tuesday, personally walking out of the tarmac at Joint Base Andrews to greet Xi's plane. When Trump landed in Beijing back in May, she sent his vice president, Han Jang, to greet him.
+
+**2:24** · Chinese state television's coverage of the Andrews arrival did not show the two leaders shaking hands at all.

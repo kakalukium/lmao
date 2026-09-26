@@ -7,7 +7,7 @@ Indian Judiciary is so dumb and biased that you would have got both divorce with
 
 You are unlucky that you are not born in India..
 
-![Image](https://pbs.twimg.com/media/HSKmg6CaAAAgCgV?format=jpg&name=large)
+![[images/6c67eb0631393d260130be58f680f2dd_MD5.jpg]]
 
 ---
 

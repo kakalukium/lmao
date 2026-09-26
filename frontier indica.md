@@ -248,3 +248,29 @@ Ur life will drastically change once u get that there is literally nothing calle
 > 
 > It's all about what u can take, if u can take it. It's about audacity & action. Osho defined that they take risk and take and sing morality. Singing morality hardly works. @SIGMAPROFESSOR you are opening unseen doors.
 >>>>>>> Stashed changes
+
+
+
+###### !!!!!!!!
+this is a good mindset to have in a high trust first world society. But it may not always work in a third world dog eat dog crab mentality infested hellhole like vishwaguru.
+
+If you are playing a positive sum game but out of the 10 people you interact with more than half are playing zero sum games, then you're not going to get very far...
+
+> **Respectful Memes @RespectfulMemes** · 2026-08-07
+> 
+> ![[images/74b9f8f54458828412d5f38a32f434ec_MD5.jpg]]
+
+---
+
+## Comments
+
+> **Anchit Velumalai @AnchitVelumalai** · [2026-08-10](https://x.com/AnchitVelumalai/status/2086741107342270920)
+> 
+> True. Have seen a lot of cases where husband sells property just to get his wife educated and once the wife gets government jobs they just leave their husband calling him a loser living in woman’s money.
+
+> **Lokesh Singh Bora @Arree\_Lokesh** · [2026-08-10](https://x.com/Arree_Lokesh/status/2086829078427128092)
+> 
+> The moment one would try to weigh the pros and cons, make it look or sound transactional or yield an outcome, good deed is not for you.
+> 
+> That's it, rest every other calculation is meaningless.
+

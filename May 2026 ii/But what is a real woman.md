@@ -103,3 +103,157 @@ Between devotion and negotiation.
 Between love and strategic settlement.
 
 A man who has never tasted the real thing is dangerously easy to feed a counterfeit.
+
+
+
+---
+source: "https://x.com/teachrobotslove/status/2103642069327573304"
+published: 2026-09-26
+author:
+  - "[[@teachrobotslove]]"
+---
+Here's my dating advice for men: Marry a woman who needs to be a slut for you. Everything else can be negotiated. She can always get hotter. She can find religion. She can improve her cooking skills. She can work on her interpersonal relationships. You can get her a therapist. You can get her a doctor. You can get her braces. You can send her back to college. But if she doesn't look at you in the dark of your bedroom, practically panting, like she needs your cock like she needs to breathe, you've got nothing.
+
+---
+
+## Comments
+
+> **RedpillSeethe @RedpillSeething** · [2026-09-26](https://x.com/RedpillSeething/status/2103662939882627270)
+> 
+> I agree with you here. I've always thought unless a woman REALLY desires you physically, a relationship won't work, no matter how great the man is elsewhere.
+> 
+> The problem is, how can most men get this? To have this requires a man to be a very high level of physical desirability.
+> 
+> > **Autumn Christian @teachrobotslove** · [2026-09-26](https://x.com/teachrobotslove/status/2103663991088349567)
+> > 
+> > A man becomes physically desirable to a woman primarily through competence.
+
+> **Warb of Fire @warb\_of\_fire** · [2026-09-26](https://x.com/warb_of_fire/status/2103646628267565484)
+> 
+> Can you make her kinder? What if you're not planning to be alone together in a dark bedroom before marriage?
+> 
+> > **Autumn Christian @teachrobotslove** · [2026-09-26](https://x.com/teachrobotslove/status/2103646881033171283)
+> > 
+> > Yes, you can make her kinder.
+> > 
+> > You can get a feel for it. You don't actually have to have sex before marriage.
+
+> **@gdess** · [2026-09-26](https://x.com/GDess/status/2103649863242010718)
+> 
+> on it
+> 
+> > **Autumn Christian @teachrobotslove** · [2026-09-26](https://x.com/teachrobotslove/status/2103650284329164919)
+> > 
+> > Godspeed.
+
+> **Lisa @Lisakcx0** · [2026-09-26](https://x.com/Lisakcx0/status/2103678814949695784)
+> 
+> He’s my take: do women just walk up to you, ready to sleep with you? Probably not. You had to engage with her, talk to her, be curious about her. Just continue that. Be her best friend. Walk beside her in life. Nothing sexier than that.
+
+> **Dumb Goyim @dumbgoyim\_** · [2026-09-26](https://x.com/dumbgoyim_/status/2103685034293297185)
+> 
+> Wrong
+> 
+> Her attraction is more controllable on the man’s end
+> 
+> Fitness, mental frame, actions, etc
+> 
+> This is much better than training her like a dog
+> 
+> Women don’t like that very much
+> 
+> Ideally, men work to solidify the aforementioned before seeking a wife
+
+> **The View Up Here @TheViewUpHere26** · [2026-09-26](https://x.com/TheViewUpHere26/status/2103674999236378992)
+> 
+> One thing women don't do is improve.
+> 
+> Especially Western women, they all think they are 10s
+> 
+> Not entirely their fault
+> 
+> Guys have been gassing them up for a decade, just to sleep with them, but that creates long-term brain damage....
+
+> **Jankum @Jankum\_** · [2026-09-26](https://x.com/Jankum_/status/2103685589061062790)
+> 
+> I’ve tried this and this is terrible advice. Those are some real uphill battles. Not a chance you want to take
+
+> **Twilly (American) @twilly\_of\_usa** · [2026-09-26](https://x.com/twilly_of_usa/status/2103680821659840679)
+> 
+> Do people get into relationships where this isn’t the case?
+
+> **Diddymus @KingDiddy96** · [2026-09-26](https://x.com/KingDiddy96/status/2103660464597053610)
+> 
+> Damn, the key phrasing here: “a woman who needs to be a slut for you”. As a man, every time a woman has ever expressed to me a lack of understanding of “what do I/men want” in a general way I literally have to put in the mental work to come up with other options aside from this
+
+> **Casey Doe @CaseyDoe8** · [2026-09-26](https://x.com/CaseyDoe8/status/2103676598645838138)
+> 
+> Heh, I’ve had one girl like this and she was nuts. Most women are only this way at the beginning.
+
+> **Bill Guilfoil @BillGuilfoil** · [2026-09-26](https://x.com/BillGuilfoil/status/2103668213494280676)
+> 
+> First you say dating advice and then say marry. I think you’re right about dating, wrong about marriage. No matter how strong at the beginning, lust fades over time. When that happens, there needs to be love and respect there or it won’t last. Date for lust, marry for respect.
+
+> **Smile At Death @RidetMortem** · [2026-09-26](https://x.com/RidetMortem/status/2103683042086928404)
+> 
+> Women trying to lower men's standards for women to "marry the first woman who will suck your dick" is hilarious for what it reveals about the women saying it.
+
+> **Liz @Lizzinizz** · [2026-09-26](https://x.com/Lizzinizz/status/2103676432757166359)
+> 
+> Men don't understand that we do fir them, we don't do for others.
+
+> **Analogous Proclivity @Analogous\_Pro** · [2026-09-26](https://x.com/Analogous_Pro/status/2103672344455847941)
+> 
+> Sounds more like manic bipolar
+
+> **Name cannot be blank @R\_K\_Hessel** · [2026-09-26](https://x.com/R_K_Hessel/status/2103660855602942383)
+> 
+> Fixer-uppers don't exactly have a great track record at sticking with the guys who fixed them up.
+
+> **William Gadomski @Necroticpsyche** · [2026-09-26](https://x.com/Necroticpsyche/status/2103663841200513073)
+> 
+> This is why men should never take advice from women
+> 
+> If you're one of the 10% of men that this is possible for then you don't need this advice to begin with
+> 
+> If you're not...
+
+> **Peter Thomas Knox @Marshals\_RRABL** · [2026-09-26](https://x.com/Marshals_RRABL/status/2103655587762319497)
+> 
+> Thing is it's not a good idea to test for this in a physically complete way before marriage.
+> 
+> It's a bad idea, actually, because there's no place for fornicators\* in heaven (don't @ me, Bible says so).
+> 
+> So, the youngsters/bachelors around here will need a bit of follow-on advice.
+
+> **Royal\_Bloo @Royal\_Bloo** · [2026-09-26](https://x.com/Royal_Bloo/status/2103687366208544893)
+> 
+> I have this and she is correct. She is a complete straight and narrow in the real world but there are zero inhibitions and everything is on the table when it comes to romping around. Indoors, outdoors, movie making and wild fantasies when the spotlight is just two of us.
+
+> **ProperlyAgedChad @DHSalter** · [2026-09-26](https://x.com/DHSalter/status/2103674995914187157)
+> 
+> Nah. Find a chick that likes to cook, clean, and bake. You’ll get way more use out of that in the long run.
+
+> **ancestral recaller @autistic\_campus** · [2026-09-26](https://x.com/autistic_campus/status/2103679646848155721)
+> 
+> You may as well tell me to go win the Powerball
+
+> **Seven @sevenhasplans** · [2026-09-26](https://x.com/sevenhasplans/status/2103658697998356932)
+> 
+> disagree on one thing. everything else on that list gets better with effort. that one only survives on attention. and it never ends in a fight, it ends with the two of you on the couch at 9pm, both phones out, going "i don't care, whatever you want."
+
+> **Tacitus @Tacitus1** · [2026-09-26](https://x.com/Tacitus1/status/2103674519915495653)
+> 
+> She needs to be able to show up on time, live within a budget and be generally pleasant. That and sex are pretty much it
+
+> **WhatisTruth @whatistruthUSA** · [2026-09-26](https://x.com/whatistruthUSA/status/2103682627257418060)
+> 
+> I don't know how this helps anyone.
+
+> **Penny Wise @wise145485** · [2026-09-26](https://x.com/wise145485/status/2103657881723875839)
+> 
+> Great advice if she stays that way. What happens if after a few years she decides that the neighbor's husband is who she is now hot for?
+
+> **staye @7710stanley** · [2026-09-26](https://x.com/7710stanley/status/2103672034295156898)
+> 
+> tried this and she ended up wanting to come over 5+ days a week just to get fucked and if i said no she'd cut herself

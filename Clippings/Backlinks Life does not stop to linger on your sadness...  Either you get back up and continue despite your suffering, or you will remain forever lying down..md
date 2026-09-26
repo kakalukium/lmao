@@ -2,9 +2,10 @@
 source: https://x.com/ZherkaOfficial/status/2099213015929540757
 ---
 
-https://x.com/ZherkaOfficial/status/2099213015929540757
+
 
 > [!quote] 
+> https://x.com/ZherkaOfficial/status/2099213015929540757
 > Life does not stop to linger on your sadness...
 > 
 > Either you get back up and continue despite your suffering, or you will remain forever lying down.
@@ -21,3 +22,4 @@ https://x.com/ZherkaOfficial/status/2099213015929540757
 ## Mentality
 [[Nostalgia is a form of mental illness.Don’t over indulge and move forward]]
 
+[[Hung up on past is ironically not an inability to accept the past, but an inability to accept the reality of your old way of thinking NOW. It's a 'now' problem, not a 'then' problem. And this is the irony]]
