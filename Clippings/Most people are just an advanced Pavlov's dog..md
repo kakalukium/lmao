@@ -7,7 +7,7 @@ The majority of people coincidentally believe the worldview their environment re
 [[If you are attractive and in shape, you actually cannot work a 9-5 job, entrepreneurship is your path.]]
 They are Pavlovian conditioned humans, nothing more, nothing less.
 
-![Image](https://pbs.twimg.com/media/HTIWcFoawAA-RP6?format=jpg&name=large)
+![[images/8838d2dd9325ded8a770a4f41335e052_MD5.jpg]]
 
 ---
 
