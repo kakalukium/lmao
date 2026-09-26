@@ -195,7 +195,7 @@ You learn more when you’re in practice of that particular thing you want to be
 
 
 
-<<<<<<< Updated upstream
+
 ---
 source: "https://x.com/frontierindica/status/2073624404991574162"
 
@@ -205,7 +205,7 @@ Millions can write emails, use Excel, clear entrance exams and sit in offices, b
 
 True agency in Indian professional and corporate circles requires that you be able to pitch yourself in decent English.
 
-=======
+
 
 https://x.com/i/status/2096208489639293251
 Ur life will drastically change once u get that there is literally nothing called deserving. U deserve nothing by definition. It's all about what u can take, if u can take it. It's about audacity & action. Some people will always define why u don't deserve what u have. Let them.
@@ -215,13 +215,13 @@ Ur life will drastically change once u get that there is literally nothing calle
 > Guys are cucking themselves in dating by thinking there are any requirements to this.
 > 
 > After you pull a baddie you realize you didn’t need to be half of the man you are. She was down without you bringing money, status or physique into the equation. You pulled it off on looks and
->>>>>>> Stashed changes
+
 
 ---
 
 ## Comments
 
-<<<<<<< Updated upstream
+
 > **Neo\_Kabir @si77835** · [2026-07-05](https://x.com/si77835/status/2073624955569541383)
 > 
 > Elaborate on factual solutions also pl !
@@ -233,7 +233,7 @@ Ur life will drastically change once u get that there is literally nothing calle
 > **Biotweets @BiotweeX** · [2026-07-05](https://x.com/BiotweeX/status/2073731979850506688)
 > 
 > True
-=======
+
 > **Beyond The Veil @BtvVeil** · [2026-09-05](https://x.com/BtvVeil/status/2096209377921249426)
 > 
 > The deserve story is useful when you want a reason to stay put.
@@ -247,7 +247,7 @@ Ur life will drastically change once u get that there is literally nothing calle
 > **Beyond\_Logicbounds @logic\_nobounds** · [2026-09-05](https://x.com/logic_nobounds/status/2096230476512190701)
 > 
 > It's all about what u can take, if u can take it. It's about audacity & action. Osho defined that they take risk and take and sing morality. Singing morality hardly works. @SIGMAPROFESSOR you are opening unseen doors.
->>>>>>> Stashed changes
+
 
 
 
