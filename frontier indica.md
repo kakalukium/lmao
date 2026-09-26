@@ -195,6 +195,10 @@ You learn more when you’re in practice of that particular thing you want to be
 
 
 
+! HEAD
+!
+
+! 5c8b79170014d593b7c38ab1db7675278debc581
 ---
 source: "https://x.com/frontierindica/status/2073624404991574162"
 
@@ -204,6 +208,10 @@ Millions can write emails, use Excel, clear entrance exams and sit in offices, b
 
 True agency in Indian professional and corporate circles requires that you be able to pitch yourself in decent English.
 
+! HEAD
+!
+
+! 5c8b79170014d593b7c38ab1db7675278debc581
 
 https://x.com/i/status/2096208489639293251
 Ur life will drastically change once u get that there is literally nothing called deserving. U deserve nothing by definition. It's all about what u can take, if u can take it. It's about audacity & action. Some people will always define why u don't deserve what u have. Let them.
@@ -232,6 +240,10 @@ Ur life will drastically change once u get that there is literally nothing calle
 > **Biotweets @BiotweeX** · [2026-07-05](https://x.com/BiotweeX/status/2073731979850506688)
 > 
 > True
+! HEAD
+!
+
+! 5c8b79170014d593b7c38ab1db7675278debc581
 > **Beyond The Veil @BtvVeil** · [2026-09-05](https://x.com/BtvVeil/status/2096209377921249426)
 > 
 > The deserve story is useful when you want a reason to stay put.
@@ -246,7 +258,10 @@ Ur life will drastically change once u get that there is literally nothing calle
 > 
 > It's all about what u can take, if u can take it. It's about audacity & action. Osho defined that they take risk and take and sing morality. Singing morality hardly works. @SIGMAPROFESSOR you are opening unseen doors.
 
+! HEAD
 
+!
+! 5c8b79170014d593b7c38ab1db7675278debc581
 
 
 
@@ -267,7 +282,7 @@ This doesn't work in low trust third world societies, particularly in India. If 
 > Smile, be polite and respectful if you want to deceive, manipulate & control bad people.
 > 
 > Think about it.
->>>>>>> Stashed changes
+! Stashed changes
 
 ---
 
@@ -284,7 +299,7 @@ This doesn't work in low trust third world societies, particularly in India. If 
 > 
 > That's it, rest every other calculation is meaningless.
 
-=======
+!
 > **Voice for Quiet Chennai @ChennaiNoise** · [2026-09-23](https://x.com/ChennaiNoise/status/2102691387187831049)
 > 
 > Genuinely try to slow down give way to a vehicle, five more will squeeze through and the one behind is already discussing about your 3 generations...
