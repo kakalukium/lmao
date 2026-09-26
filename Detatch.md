@@ -101,3 +101,6 @@ And psychick power will lead you to getting your dream girl and life. -zherka
 
 I am falling sick, Getting too ahead of myself, unable to maintain steady mental coherance for systematic execution. All I have is some tormenting memories of unrealised love and ambitions.
 >>>>>>> Stashed changes
+
+
+Once I feel more energetically balanced/protected, I shall start more deeper dives into technical mastery.

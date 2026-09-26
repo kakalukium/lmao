@@ -76,7 +76,7 @@ EtherealMapleDonut
 And if you have aura and know how to flirt and use your god given gifts it’s ovah
 
 Truth. I get why elites built the matrix: most average ppl are stupid, jealous, completely insufferable, evil. Most ppl are soulless, they’re like animals. They have to be rounded up like sheep in their adult daycare slavery factories
-
+[[Most people are just an advanced Pavlov's dog.]]
 
 Jeremy Standiford
 @jeremystandifor

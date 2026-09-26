@@ -29,6 +29,12 @@
 - [ ] immortality
 - [ ] godly/ godly female
 - [ ] currency
+- [ ] Jealousy(deadly sin)
+- [ ] synchronicity 
+
+
+
+
 
 
 

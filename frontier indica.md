@@ -1,5 +1,5 @@
 ---
-source: https://x.com/SIGMAPROFESSOR/status/2096208489639293251
+source: https://x.com/frontierindica/status/2102677641212076064
 tags:
 ---
 https://x.com/i/status/2080208545140875748
@@ -195,7 +195,6 @@ You learn more when you’re in practice of that particular thing you want to be
 
 
 
-<<<<<<< Updated upstream
 ---
 source: "https://x.com/frontierindica/status/2073624404991574162"
 
@@ -205,7 +204,6 @@ Millions can write emails, use Excel, clear entrance exams and sit in offices, b
 
 True agency in Indian professional and corporate circles requires that you be able to pitch yourself in decent English.
 
-=======
 
 https://x.com/i/status/2096208489639293251
 Ur life will drastically change once u get that there is literally nothing called deserving. U deserve nothing by definition. It's all about what u can take, if u can take it. It's about audacity & action. Some people will always define why u don't deserve what u have. Let them.
@@ -215,25 +213,25 @@ Ur life will drastically change once u get that there is literally nothing calle
 > Guys are cucking themselves in dating by thinking there are any requirements to this.
 > 
 > After you pull a baddie you realize you didn’t need to be half of the man you are. She was down without you bringing money, status or physique into the equation. You pulled it off on looks and
->>>>>>> Stashed changes
+
 
 ---
 
 ## Comments
 
-<<<<<<< Updated upstream
+
 > **Neo\_Kabir @si77835** · [2026-07-05](https://x.com/si77835/status/2073624955569541383)
 > 
 > Elaborate on factual solutions also pl !
 
 > **FaFudon @Risshi33** · [2026-07-05](https://x.com/Risshi33/status/2073699267970293778)
+> A
 > 
 > Even authority has someone above as authority, it's always like this. So, dealing with authority is a Skill, without straining relationship, getting work done is the entire art that can help you tremendously.
 
 > **Biotweets @BiotweeX** · [2026-07-05](https://x.com/BiotweeX/status/2073731979850506688)
 > 
 > True
-=======
 > **Beyond The Veil @BtvVeil** · [2026-09-05](https://x.com/BtvVeil/status/2096209377921249426)
 > 
 > The deserve story is useful when you want a reason to stay put.
@@ -247,7 +245,8 @@ Ur life will drastically change once u get that there is literally nothing calle
 > **Beyond\_Logicbounds @logic\_nobounds** · [2026-09-05](https://x.com/logic_nobounds/status/2096230476512190701)
 > 
 > It's all about what u can take, if u can take it. It's about audacity & action. Osho defined that they take risk and take and sing morality. Singing morality hardly works. @SIGMAPROFESSOR you are opening unseen doors.
->>>>>>> Stashed changes
+
+
 
 
 
@@ -259,10 +258,21 @@ If you are playing a positive sum game but out of the 10 people you interact wit
 > **Respectful Memes @RespectfulMemes** · 2026-08-07
 > 
 > ![[images/74b9f8f54458828412d5f38a32f434ec_MD5.jpg]]
+This doesn't work in low trust third world societies, particularly in India. If you are respectful, polite and smiling all the time then people will take you for a fool and a doormat who is to be walked over and exploited as much as possible. In countries like India you have to be strategic with your politeness and ration out respect carefully, otherwise you are asking for trouble.
+
+> **Corporate Machiavelli @Mach\_Tactics** · 2026-09-23
+> 
+> Smile, be polite and respectful if you want to genuinely build a bond & trust with good people.
+> 
+> Smile, be polite and respectful if you want to deceive, manipulate & control bad people.
+> 
+> Think about it.
+>>>>>>> Stashed changes
 
 ---
 
 ## Comments
+
 
 > **Anchit Velumalai @AnchitVelumalai** · [2026-08-10](https://x.com/AnchitVelumalai/status/2086741107342270920)
 > 
@@ -273,4 +283,51 @@ If you are playing a positive sum game but out of the 10 people you interact wit
 > The moment one would try to weigh the pros and cons, make it look or sound transactional or yield an outcome, good deed is not for you.
 > 
 > That's it, rest every other calculation is meaningless.
+
+=======
+> **Voice for Quiet Chennai @ChennaiNoise** · [2026-09-23](https://x.com/ChennaiNoise/status/2102691387187831049)
+> 
+> Genuinely try to slow down give way to a vehicle, five more will squeeze through and the one behind is already discussing about your 3 generations...
+> 
+> That's why vehicles keep moving at every possible gap on the road.
+
+> **Zenyatta Mondatta @rockyreems** · [2026-09-23](https://x.com/rockyreems/status/2102730099347038305)
+> 
+> Exactly why Westerners and Europeans in particular get taken for a ride. Being soft and gullible doesn’t get you anywhere. 😜
+
+> **karthik 🇮🇳 @its\_karthikg** · [2026-09-23](https://x.com/its_karthikg/status/2102699933275173240)
+> 
+> Very true being introvert and soft are unrelatable with the rude country this is
+
+> **Vizuara @VizuaraAI** ·
+> 
+> Kernel Engineering Workshop by Dr. Raj Dandekar (MIT PhD): https://kernelworkshop.vizuara.ai/?twclid=25dkxmt84mrlli4qmi5xhev9yg
+
+> **Prateek Chachra @DarziniServes** · [2026-09-23](https://x.com/DarziniServes/status/2102687571931226259)
+> 
+> This is why it shocks me that me being nice isnt exploited at all when I’m in the west infact people tend to trust me way more
+
+> **KURS @kiranurs** · [2026-09-23](https://x.com/kiranurs/status/2102693082823287122)
+> 
+> The moment you smile at a stranger, either they will think that you are a scammer or they will try to scam you.
+
+> **Dr Sangeetha MBBS,MD,Dch @SangeethaSwami1** · [2026-09-23](https://x.com/SangeethaSwami1/status/2102760368049418409)
+> 
+> Niceness is weakness waiting to be exploited in Indian culture esp if you are a woman or a junior.
+
+> **IknowKungFu @usernamegfy1213** · [2026-09-23](https://x.com/usernamegfy1213/status/2102740222857691479)
+> 
+> Learnt this the hard way. Also that account is from India so I dunno why he is even saying that unless he’s too sheltered.
+
+> **shanky shah @shankysanghi** · [2026-09-23](https://x.com/shankysanghi/status/2102711606052311330)
+> 
+> Basically he is suggesting to behave like Ambi. Andbit doesnt work in India.
+
+> **(blue tick) @vikaskattimani2** · [2026-09-23](https://x.com/vikaskattimani2/status/2102721696126189568)
+> 
+> No. People can sense being weak vs being polite. Some of the strongest people are polite.
+
+> **Takumi kun @Neon14570986** · [2026-09-23](https://x.com/Neon14570986/status/2102706915017171114)
+> 
+> He's talking about humans not subhumans.
 

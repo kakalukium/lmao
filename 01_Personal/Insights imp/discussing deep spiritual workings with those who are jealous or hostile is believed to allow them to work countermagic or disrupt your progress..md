@@ -53,3 +53,7 @@ In the sense, does my unsolicited info blood, in my still incipient energy prote
 
 More context, I could share the esoteric synchronicity I saw.
 
+
+
+- what does it mean devil omits the part where direct communication with God is impossible, and you need intermediaries. What kind of intermiderie, connecting this with jewish being third group, and their mysticism, studies on magick . What do you make of books from contemporary angeleotry practices, such as from GoM
+- 
