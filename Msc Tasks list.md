@@ -29,3 +29,7 @@ https://x.com/i/status/2084100887308640257
 https://x.com/i/status/2084435104424984715
 
 https://x.com/i/status/2089326292373999873
+
+
+https://x.com/RayPeatHeadShop/status/2104842506123026767
+[[AUTISM is a bigger public health crisis than obesity.]]

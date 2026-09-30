@@ -1,3 +1,6 @@
+---
+source: https://x.com/SIGMAPROFESSOR/status/2103870624204460227
+---
 
 
 ## Conversation[Kpaxs](https://x.com/Kpaxs)[@Kpaxs](https://x.com/Kpaxs)
@@ -65,3 +68,32 @@ Been waiting to see someone post this. Screw the concept of endless hard work. T
 Most of the misses I had were just gaps in the setup. Nothing told me what to do next, so I didn't.
 
 Controlling your environment is a hack
+
+https://x.com/SIGMAPROFESSOR/status/2103870624204460227
+you're exactly like a seed. This isn't a comparison or metaphor; it's the same phenomenon. A seed becomes a huge tree not through its own effort, that's the delusion. It grows by being in the right environment, with the right climate, enough sunlight, water, and everything else. Nature does the work. U just have to stay silent and not give up when u're suffering, bc u're growing. just show up and put urself at places. Stay. As there is no sign of a tree in a seed, there is no sign of greatness in you. Just let it work through you, on you.
+
+---
+
+## Comments
+
+> **The Power Of Manhood @PowerOfManhood** · [2026-09-26](https://x.com/PowerOfManhood/status/2103892040022933980)
+> 
+> A lot of people quit because they judge the process before the evidence appears.
+> 
+> Sometimes the smartest move is simply staying in the right soil long enough.
+> 
+> > **PROFESSOR @SIGMAPROFESSOR** · [2026-09-26](https://x.com/SIGMAPROFESSOR/status/2103898536354123941)
+> > 
+> > Exactly
+
+> **David Kaiser @Dav\_Kaiser** · [2026-09-26](https://x.com/Dav_Kaiser/status/2103887643306266726)
+> 
+> Beautiful
+
+> **Stratos Productions @stratosscript** · [2026-09-26](https://x.com/stratosscript/status/2103885061963546893)
+> 
+> ![Image](https://pbs.twimg.com/media/HTKAT0MXMAAxaEy?format=jpg&name=large)
+
+> **Alexander the GOAT @3267Tonlon** · [2026-09-26](https://x.com/3267Tonlon/status/2103874602548220103)
+> 
+> Awesome! True that ....

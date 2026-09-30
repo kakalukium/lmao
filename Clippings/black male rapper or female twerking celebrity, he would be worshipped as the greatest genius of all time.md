@@ -1,5 +1,5 @@
 ---
-source: https://x.com/MasterZephyr11/status/2065845656111976803
+source: https://x.com/Stopworkplacebu/status/2104295081218126159
 tags:
   - social-skills/pleb-mind
 nav: true
@@ -52,3 +52,105 @@ https://x.com/Stopworkplacebu/status/2093338201960136762?s=20
 > **Jeremy Peeples @Jeremy\_Peeples** · [2026-08-28](https://x.com/Jeremy_Peeples/status/2093344614778298719)
 > 
 > yeah it triggered the worst parts of rejection as a kid and was made so much worse by having managers "remind" me that I had my house riding on the job
+
+Educational Post
+https://x.com/Stopworkplacebu/status/2104295081218126159
+![Image](https://pbs.twimg.com/media/HTP1OWeWIAE9Xhl?format=jpg&name=large)
+
+---
+
+## Comments
+
+> **Menke BBQ @12\_menke** · [2026-09-27](https://x.com/12_menke/status/2104323880353488930)
+> 
+> Yeah it’s fucking bullying
+> 
+> > **Workplace Mental Health Resources @Stopworkplacebu** · [2026-09-27](https://x.com/Stopworkplacebu/status/2104334700844294405)
+> > 
+> > Sure is.
+> > 
+> > Reactive abuse.
+
+> **Difficult LJ @Moesby66** · [2026-09-27](https://x.com/Moesby66/status/2104317596908827039)
+> 
+> and these are almost always managers, and the workers who live up their asses. The entire boss class.
+>
+> > **Workplace Mental Health Resources @Stopworkplacebu** · [2026-09-27](https://x.com/Stopworkplacebu/status/2104334745370808426)
+> > 
+> > Correct
+
+> **Melodie @secrethoneygirl** · [2026-09-27](https://x.com/secrethoneygirl/status/2104310699434573950)
+> 
+> My experience exactly that .
+> 
+> I can't stand down for long .
+> 
+> Try giving grace it gets worse .
+
+> **Carlotta Pini 💙 🇺🇸🦅 @CarlottaPini** · [2026-09-27](https://x.com/CarlottaPini/status/2104297460013421041)
+> 
+> Is that what's happening?
+
+> **The Gentle Soul @thegentlesoul88** · [2026-09-27](https://x.com/thegentlesoul88/status/2104299189014544582)
+> 
+> Reactive Abuse at its finest
+
+> **Mr Abundance @Adamhalo2026** · [2026-09-27](https://x.com/Adamhalo2026/status/2104301353803579521)
+> 
+> Oh I know this one very well. it's sometimes really well hidden too which is more damaging over long term.
+
+Tactic of covert bullying.
+https://x.com/Stopworkplacebu/status/2104346604094316919
+![Image](https://pbs.twimg.com/media/HTQkFTnWcAAaK3l?format=jpg&name=large)
+
+---
+
+## Comments
+
+> **Hollowheart @Hollowheartz1** · [2026-09-28](https://x.com/Hollowheartz1/status/2104484113621061649)
+> 
+> This the most irritating shit I have ever experienced when this happens it's like you have no voice
+
+> **SargeMaximus 🇨🇦 @SargeMaxuimus** · [2026-09-27](https://x.com/SargeMaxuimus/status/2104349140578890146)
+> 
+> My family doing this rn as I caught my brother ramping up his shit. Now gaslighting to the max.
+
+> **Aditha Lee @AdithaLee** · [2026-09-28](https://x.com/AdithaLee/status/2104480670177464688)
+> 
+> It's real bad here in America. And it's sad b/c what if you're a fireman and those ppl you help are like ppl's lives you could help to save and your co-workers trash you and a fire happens and you have to save them but they argue w/u b/c they doubt ur credibility.
+
+> **Aditha Lee @AdithaLee** · [2026-09-28](https://x.com/AdithaLee/status/2104481428637397343)
+> 
+> It's called killing a person's influence and ability to make a difference in people's lives b/c of jealous and bored people.
+
+> **EFB @EFB659** · [2026-09-28](https://x.com/EFB659/status/2104573510169370625)
+> 
+> I live with that for decades. The truth will surface one day.
+
+> **Prickly @KVgonewild** · [2026-09-28](https://x.com/KVgonewild/status/2104509881420251624)
+> 
+> I have one who is no longer covert. The disparaging is quite public these days.
+
+> **Dinesh Dhongade @DineshDhon89104** · [2026-09-28](https://x.com/DineshDhon89104/status/2104391978825965730)
+> 
+> It works because most people are stupid and they think with their ego more than their Brain
+
+> **Aditha Lee @AdithaLee** · [2026-09-28](https://x.com/AdithaLee/status/2104481230724956255)
+> 
+> In such a scenario if it was possible to exist those people would loose their lives b/c they heard lies and rumors about you that influenced their decision to not listen to you as a fireman. I'm not going anywhere with you would be their answer.
+
+> **Pribumi Kecil @kelaminlunak** · [2026-09-28](https://x.com/kelaminlunak/status/2104529581625823684)
+> 
+> They do this because you're cis gender
+
+> **Anti UGLLIESS. @B\_AWorthy** · [2026-09-28](https://x.com/B_AWorthy/status/2104641128532451783)
+> 
+> So many tactics.
+
+> **sara rana @sararana1754295** · [2026-09-28](https://x.com/sararana1754295/status/2104383325926211885)
+> 
+> Yup
+
+> **Regina Hardy @ReginaH69938611** · [2026-09-27](https://x.com/ReginaH69938611/status/2104358435672236247)
+> 
+> 🎯
