@@ -19,3 +19,15 @@ There is ample evidence suggesting this, especially in india, all the way from t
 To all the way to how corrupt crony capitalism with zero investment into indigenous self sufficient R&D ecosystem.
 
 From an human evolutionary standpoint, my diet is more health promoting and pro - evolutionary, allowing me to express an more holistic intellect, around rationality, morality and to spot pattern in cross contextual domains to develo solutions to very hard engineering or life problems in general.
+
+
+
+
+
+my dad has to be an generous and an friendly backer with high financial capacity, and actively participate in helping me with household upkeep, have faith in me, and not be an rude person. 
+To be consistent and professional in paying me, and to not abusive about my financial dependence.  
+Supportive of my endeavors, because it shall not only help the two of us, but also shall help in finding mutual success. 
+More friendlier, and be financially professional in paying me on time. And not be rude or disrespectful, or abusive in general. whether financially, emotionally, or verbally. and Follow through spoken words. And actively participate in   helping with 
+
+
+You are being intellectually dishonest if you believe memorizing and meeting timebound deadline pressured environment, is the same intelligence as the ability to reason and think, because thinking itself is energetically more expensive, and most people have very little finite ability of this.

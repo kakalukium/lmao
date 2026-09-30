@@ -57,3 +57,31 @@ More context, I could share the esoteric synchronicity I saw.
 
 - what does it mean devil omits the part where direct communication with God is impossible, and you need intermediaries. What kind of intermiderie, connecting this with jewish being third group, and their mysticism, studies on magick . What do you make of books from contemporary angeleotry practices, such as from GoM
 - 
+
+
+
+
+https://x.com/amiraelus/status/2074070957807796717
+Its name is "objectivity". It is part of evolving spirituality, which is part of understanding, experiencing, and becoming representative of God.
+
+Method wise, objectivity works by **<u><b>triangulating science, religion, and mythology</b></u>**.
+
+Denying objectivity is denying God- which all matriarchs do in order to assert matriarchal legitimacy of ruling humanity.
+
+However, as the Devil always awaits on the other side, denying subjectivity is also denying God.
+
+Reality has a ternary structure- objectivity is composed of what is objective and what is subjective- which means, subjective is not denied by the objective, but integrated.
+
+So there is
+
+-something that is "best" always and everywhere- which is the definition of "Heaven"
+
+-something that is "best" sometimes, and by perpetual movement of the World it will become its opposite in time, which means, what was previously "best" will become eventually "worst"
+
+-something that is "best" only for some (places), because of the asymmetries of the World and the specificity of each particular position of existence
+
+Becoming able to identify which is which in real time is evolving spirituality.
+
+Being who I am, I can always provide this example: neutralizing the Devil is always "best" for humans, as it always falls back to Heaven. This is what you can also do "best" with information.
+
+Keep in mind that, also because reality is ternary in structure, while they are not on the same level of complexity, good always has some actual bad to it, and evil always has some good potential to it.

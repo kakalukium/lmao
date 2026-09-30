@@ -1,1 +1,2 @@
-Achknowleding existence of extra dimensionality to the complexity of this reality.
+Acknowledging existence of extra dimensionality to the complexity of this reality.
+

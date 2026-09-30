@@ -9,7 +9,7 @@ description: "\"If you can imagine yourself being happy in spite of rejection, t
 tags:
   - "clippings"
 ---
-*![[_attachments/eb71a8f57d4be28eaf25edfbe43a1024_MD5.jpg]]*
+*![[_attachments/eb71a8f57d4be28eaf25edfbe43a1024_MD5.jpg|0x0]]*
 
 “If you can imagine yourself being happy in spite of rejection, then “the power of no” becomes moot and you achieve outcome independence.”
 

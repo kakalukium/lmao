@@ -208,7 +208,8 @@ Personalised readings, ebooks, coaching sessions
 
 ---
 source: "https://x.com/Pat_Stedman/status/2092165058461626493"
----
+
+
 This is what so many "manifestation" people don't get. Visualizing some future outcome isn't enough.
 
 You have to:
