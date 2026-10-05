@@ -7,7 +7,7 @@ source: "https://x.com/bravewhitebooks/status/2104951842690224467"
 
 Source: https://cia.gov/readingroom/docs/CIA-RDP80R01731R003000180037-4.pdf…
 
-![[images/1de4611ad4305f6ab07f75dd1ae584fa_MD5.png]]
+![Image](https://pbs.twimg.com/media/HTZKWjaW0AAA7UI?format=png&name=large)
 
 ---
 
@@ -21,7 +21,7 @@ Source: https://cia.gov/readingroom/docs/CIA-RDP80R01731R003000180037-4.pdf…
 > > 
 > > In 1952 alone, this speech was published in Conde McGinley's Common Sense, Ron Gostick's Canadian Intelligence Service, and Lyrl Clark van Hyning's Women's Voice newspapers. I had an original of a similar issue, made photocopies of it, and sold it for $1,000 on eBay. It's legit.
 > > 
-> > ![[images/53e6446a1280ff6be6eb7f505b7d03a0_MD5.jpg]]
+> > ![Image](https://pbs.twimg.com/media/HTbYX59XEAEJvNz?format=jpg&name=large)
 
 > **Chris Davis @Timaeanism** · [2026-09-30](https://x.com/Timaeanism/status/2105110149694202070)
 > 
@@ -41,7 +41,7 @@ Source: https://cia.gov/readingroom/docs/CIA-RDP80R01731R003000180037-4.pdf…
 
 > **Côté Jean-Claude @GRANDCROC** · [2026-09-30](https://x.com/GRANDCROC/status/2105088388101775693)
 > 
-> ![[images/d8e4c236a13690973393465387555714_MD5.png]]![[images/661cc320cea81d3d2ba0de42a08c6882_MD5.jpg]]
+> ![Image](https://pbs.twimg.com/media/HTbGqyDWEAArll9?format=png&name=large) ![Image](https://pbs.twimg.com/media/HTbGup-WIAAQ75W?format=jpg&name=large)
 
 > **look @iiaiiix6** · [2026-09-30](https://x.com/iiaiiix6/status/2105117216077197587)
 > 
