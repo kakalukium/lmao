@@ -55,7 +55,7 @@ https://x.com/Stopworkplacebu/status/2093338201960136762?s=20
 
 Educational Post
 https://x.com/Stopworkplacebu/status/2104295081218126159
-![Image](https://pbs.twimg.com/media/HTP1OWeWIAE9Xhl?format=jpg&name=large)
+![[images/e3905dd0f25394161eabf44812898325_MD5.jpg]]
 
 ---
 
@@ -101,7 +101,7 @@ https://x.com/Stopworkplacebu/status/2104295081218126159
 
 Tactic of covert bullying.
 https://x.com/Stopworkplacebu/status/2104346604094316919
-![Image](https://pbs.twimg.com/media/HTQkFTnWcAAaK3l?format=jpg&name=large)
+![[images/87184b40f8ff183d12d1dcbd261151be_MD5.jpg]]
 [[if you see someone being abused, bullied, or mistreated and stay silent, you’re part of the problem]]
 
 
@@ -157,7 +157,7 @@ https://x.com/Stopworkplacebu/status/2104346604094316919
 > 
 > 🎯
 
-![Image](https://pbs.twimg.com/media/HTlP0FLXQAAFkyh?format=jpg&name=large)
+![[images/ef445dd7b98e34cf4ecb608380694502_MD5.jpg]]
 https://x.com/Stopworkplacebu/status/2105802060058767379
 ---
 

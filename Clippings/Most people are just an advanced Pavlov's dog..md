@@ -1,7 +1,7 @@
 ---
 source: "https://x.com/ItsAestheticsW/status/2103771183367979127"
 ---
-Most people are just an advanced Pavlov's dog.
+	Most people are just an advanced Pavlov's dog.
 
 The majority of people coincidentally believe the worldview their environment rewards them for having and punishes them for opposing. There are no principles.
 [[If you are attractive and in shape, you actually cannot work a 9-5 job, entrepreneurship is your path.]]

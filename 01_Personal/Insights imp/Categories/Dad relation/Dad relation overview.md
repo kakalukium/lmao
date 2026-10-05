@@ -8,6 +8,8 @@ updated: 2026-10-04
 - [[Personal finance & Boomer mindset to shoot down dreams and risk-taking in the young]]
 	- [[needs money, he has to awkwardly ask his father for cash.]]
 	- [[Don't accept responsibility with out demanding the authority that comes with it.]]
+	- [[dfsf]]
+- 
 
 
 #### <center><h4>Intel</h4></center>
