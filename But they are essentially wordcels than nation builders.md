@@ -24,3 +24,8 @@ Why has all the elite human capital in India not made any significant portion of
 > > > 
 
 ###### I am sure you have heard of Gautam Adani. But these same clerical parasites despise him because he is not Anglo-adjacent nor part of their risk-neutral ecosystem
+
+https://x.com/bvlldhist_alt/status/2105138007624016037
+The real social currency lies not on a High IQ v/s Low IQ spectrum but on a High Self-esteem v/s Low Self-esteem spectrum
+
+Few

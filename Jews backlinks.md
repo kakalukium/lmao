@@ -4,3 +4,7 @@
 
 [[one group is in the driver seat… getting everything that they want.]]
 
+[[And asked the Jews to leave. The Jews got pissed and made their puppet Churchill murder 75 million whites.]]
+
+[[Post by @bravewhitebooks on X]]
+

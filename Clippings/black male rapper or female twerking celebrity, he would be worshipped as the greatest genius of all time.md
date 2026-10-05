@@ -102,6 +102,8 @@ https://x.com/Stopworkplacebu/status/2104295081218126159
 Tactic of covert bullying.
 https://x.com/Stopworkplacebu/status/2104346604094316919
 ![Image](https://pbs.twimg.com/media/HTQkFTnWcAAaK3l?format=jpg&name=large)
+[[if you see someone being abused, bullied, or mistreated and stay silent, you’re part of the problem]]
+
 
 ---
 
@@ -154,3 +156,23 @@ https://x.com/Stopworkplacebu/status/2104346604094316919
 > **Regina Hardy @ReginaH69938611** · [2026-09-27](https://x.com/ReginaH69938611/status/2104358435672236247)
 > 
 > 🎯
+
+![Image](https://pbs.twimg.com/media/HTlP0FLXQAAFkyh?format=jpg&name=large)
+https://x.com/Stopworkplacebu/status/2105802060058767379
+---
+
+## Comments
+
+> **Terry Lewis Jr @TerryLewisJr2** · [2026-10-01](https://x.com/TerryLewisJr2/status/2105803726137209277)
+> 
+> My wife’s supervisor fits several of these
+
+> **EternityInMind @EternityInMindZ** · [2026-10-02](https://x.com/EternityInMindZ/status/2105817819753611547)
+> 
+> As do leaders of nations, so do leaders of commerce.
+> 
+> Maybe not all like this; but it's a high-ranking idea why I quit 'working'.
+
+> **Ray4\_Freedom @Ray4\_Freedom** · [2026-10-02](https://x.com/Ray4_Freedom/status/2105810961403871561)
+> 
+> Yep and there is more.
