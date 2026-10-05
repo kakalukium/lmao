@@ -1,0 +1,26 @@
+/* ==========================================================================
+   ISOLATE BLOCKQUOTES & CALLOUTS FROM GLOBAL ACCENT
+   ========================================================================== */
+
+/* 1. Reset Blockquote lines to a specific custom color (e.g., a nice grey or blue) */
+.theme-dark {
+  --blockquote-border-color: #414346 !important; /* Your preferred Quote line color */
+}
+
+/* 2. Reset Callout borders/lines to their natural semantic colors */
+.theme-dark {
+  --callout-color: #414346; /* Default blue for callouts, or change to preference */
+}
+
+/* 3. Force the override to ensure they ignore the #414346 accent */
+body.theme-dark .markdown-rendered blockquote,
+body.theme-dark .cm-s-obsidian .HyperMD-quote,
+body.theme-dark .callout {
+    --accent-active: #414346 !important; /* Forces the quote line to use this instead */
+    --accent-active-bg: #414346 !important;
+}
+
+/* 4. Fix Callout icons specifically if they are turning grey */
+body.theme-dark .callout-icon {
+    color: var(--callout-color) !important;
+}

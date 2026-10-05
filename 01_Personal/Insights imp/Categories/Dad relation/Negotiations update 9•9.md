@@ -1,6 +1,6 @@
 Mobile Games that shall be an hit. 
 Guts to be an entrepreneurial success. 
-Pfc dealing with msroaloty, rationality, system architecting
+Pfc dealing with morlaity, rationality, system architecting
 To develop my technical expertise, The prerequisite.d
 
 I have an genuine shot to be successful at this, don't want to sacrifice my genius talent
@@ -25,9 +25,14 @@ From an human evolutionary standpoint, my diet is more health promoting and pro 
 
 
 my dad has to be an generous and an friendly backer with high financial capacity, and actively participate in helping me with household upkeep, have faith in me, and not be an rude person. 
-To be consistent and professional in paying me, and to not abusive about my financial dependence.  
+To be consistent and professional in paying me, and to not be abusive about my financial dependence.  
 Supportive of my endeavors, because it shall not only help the two of us, but also shall help in finding mutual success. 
 More friendlier, and be financially professional in paying me on time. And not be rude or disrespectful, or abusive in general. whether financially, emotionally, or verbally. and Follow through spoken words. And actively participate in   helping with 
 
 
 You are being intellectually dishonest if you believe memorizing and meeting timebound deadline pressured environment, is the same intelligence as the ability to reason and think, because thinking itself is energetically more expensive, and most people have very little finite ability of this.
+
+
+
+
+when I am awaiting payments, its impossible for me to focus on one task, and I lose the  momentum of my study, I need you to realize my grievance and that you are not only financially abusive, but also stupid because you are creating an genuine hurdle for the mutual success of our bloodlines. I lose momentum for my studies, Everytime I have to await uncertain payments. 

@@ -34,7 +34,7 @@ Use your phone less.
 
 Because attention is not free.
 
-![Image](https://pbs.twimg.com/media/HTFhA8vXwAAA27J?format=png&name=large) ![Image](https://pbs.twimg.com/media/HTFhCntWoAAJSGD?format=png&name=large)
+![[images/986e9496e62859612b793f6effc8496f_MD5.png]]![[images/f710b36897332e7e03bc8fe1a07b174f_MD5.png]]
 
 ---
 
@@ -48,7 +48,7 @@ Because attention is not free.
 > 
 > 👍
 > 
-> ![Image](https://pbs.twimg.com/media/HTIFlQKaIAAphK1?format=png&name=large)
+> ![[images/e4c97d926fe5743514d131c624c93ff2_MD5.png]]
 
 > **kcuf ⬅️ @ignkcuf** · [2026-09-26](https://x.com/ignkcuf/status/2103719561472446744)
 > 
@@ -88,7 +88,7 @@ Because attention is not free.
 > 
 > Curious that there is a distinction between total screen time and addiction severity. This distinction appears significant.
 > 
-> ![Image](https://pbs.twimg.com/media/HTQO7YOWsAAtxiH?format=jpg&name=large)
+> ![[images/ad4ee80a1f8472e0734626ba0dfab809_MD5.jpg]]
 
 ---
 
@@ -109,7 +109,7 @@ experienced astral projectors report that phones don't exist in the astral plane
 
 > **rektober @rektober** · 2026-09-27
 > 
-> ![Image](https://pbs.twimg.com/media/HTQTegdacAAa45L?format=jpg&name=large)
+> ![[images/b1c5737bce8c4b2524e4ebc2e22d8fea_MD5.jpg]]
 
 ---
 

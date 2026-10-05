@@ -5,3 +5,8 @@
 *.tmp
 sync.ffs_db
 **/_attachments/
+*.mp4
+*.webm
+*.mp3
+media/
+

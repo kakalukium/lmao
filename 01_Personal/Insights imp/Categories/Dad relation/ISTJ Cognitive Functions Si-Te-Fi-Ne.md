@@ -25,7 +25,7 @@ In summary, based on the rules of MBTI function stacks, the noted tendency of IS
 
 **1:25** · That month, Donald's lawyer drew up an amendment to Fred's will that Donald's brother-in-law said was basically taking the whole estate and giving it to Donald. It doesn't pass the smell test, Fred said. Donald was not the one who broke under Fred's pressure. It was Freddy, the oldest son, who wanted to be an airline pilot. A chauffeur in the sky, Fred scorned. Freddy drank himself to death, dying in 1981 at the age of 42 of an alcohol-related disease.
 
-**1:52** · Donald, who has never drunk alcohol, said, "I do regret having put pressure on him, and that Freddy kept me off alcohol." She and Trump are certainly not self-made men, but they are not mere privileged heirs either. They are the sons that demanding fathers decided to invest in.
+**1:52** · Donald, who has never drunk alcohol, said, "I do regret having put pressure on him, and that Freddy kept me off alcohol." Xi and Trump are certainly not self-made men, but they are not mere privileged heirs either. They are the sons that demanding fathers decided to invest in.
 
 **2:10** · Trump did something that presidents rarely do on Tuesday, personally walking out of the tarmac at Joint Base Andrews to greet Xi's plane. When Trump landed in Beijing back in May, she sent his vice president, Han Jang, to greet him.
 

@@ -25,6 +25,13 @@ Worry ultra slowed
 someone wrote this song before and i can tell you where it's from
 https://youtu.be/AjONiE2EQAs?si=moSGfDZCDNjXb-G7
 
+https://youtu.be/yGHEis32s2Y
+Oh yeah- steve lacey visualizer
+
+Pultizer fountain in front of plaza hotel(New York City landmark)
+https://youtube.com/shorts/fqg8c1a0Mec
+
+
 toxic voltage
 https://youtu.be/_DPq_9eh5Cw?si=94VVJQvJz7IoFBzR
 >>>>>>> Stashed changes

@@ -31,7 +31,7 @@ Otherwise, unrealized ambition turns into resentment, and your own intelligence 
 
 The world is full of brilliant but disappointed people who waste their lives envying others and create nothing. Don’t become one of them.
 
-<<<<<<< Updated upstream
+Updated upstream
 https://x.com/i/status/2097596098894533063
 Boomers, farmers and tradesman being the salt of the earth people has to be the biggest pysop ever these people exude an unusual amount of glee in seeing the educated young men suffer.
 
@@ -67,4 +67,4 @@ causes people to dislike you.
 > **LXCKOFRXLIGIXN 2001 \* @LxckOfRxligixn** · [2026-09-07](https://x.com/LxckOfRxligixn/status/2096957760847958314)
 > 
 > .
->>>>>>> Stashed changes
+> 

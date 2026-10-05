@@ -92,8 +92,14 @@ you're exactly like a seed. This isn't a comparison or metaphor; it's the same p
 
 > **Stratos Productions @stratosscript** · [2026-09-26](https://x.com/stratosscript/status/2103885061963546893)
 > 
-> ![Image](https://pbs.twimg.com/media/HTKAT0MXMAAxaEy?format=jpg&name=large)
+> ![Image|458](https://pbs.twimg.com/media/HTKAT0MXMAAxaEy?format=jpg&name=large)
 
 > **Alexander the GOAT @3267Tonlon** · [2026-09-26](https://x.com/3267Tonlon/status/2103874602548220103)
 > 
 > Awesome! True that ....
+
+
+
+https://x.com/i/status/2092284862296154507
+You learn more when you’re in practice of that particular thing you want to be good about. You can’t possibly ‘think’ your way into being professional in the field.  On the course of your execution, you learn and observe more. Your good acts, your bad decisions. You notice and restrategize and continue executing. 
+>nothing beats the thrill of being in the arena

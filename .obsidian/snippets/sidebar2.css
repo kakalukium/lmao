@@ -1,47 +1,27 @@
-
-.nav-file-title.is-active
- {
+.nav-file-title.is-active {
   border-color: #000000 !important;
   background-color: #6c839c !important;
   font-weight: 190 !important;
   color: white !important;
 }
 
-
 strong,
-
 .cm-s-obsidian span.cm-formatting-strong,
-
 .cm-s-obsidian span.cm-strong {
-font-weight: 900 !important;
-
-
+  font-weight: 900 !important;
 }
-
-
 
  /* Example: Change body text color, font, and alignment */
 .markdown-preview-view {
   color: #c2c9c2 !important; /* Light gray text */
   font-weight: 300 !important;
-
-
-
 }
 
 /* Optional: Style text in editing mode */
 .cm-s-obsidian {
   color:  #d2ddd2 !important; /* Light gray text */
   font-weight: 300 !important;
-
-
 }
-
-
-
-
-
-
 
 /* Compact Dataview Tables */
 .dataview.table-view-table {
@@ -59,20 +39,15 @@ font-weight: 900 !important;
     line-height: 1.2;
 }
 
-
 /* 🔹 Selected text background + text color */
 .cm-s-obsidian ::selection {
   background: rgb(0, 45, 51) !important;
-  
 }
 
 /* 🔹 Reading mode selections */
 .markdown-preview-view ::selection {
   background: rgb(0, 45, 51) !important;
 }
-
-
-
 
 /* =========================================
    OBSIDIAN HEADER FONT SIZE SNIPPET
@@ -95,17 +70,6 @@ font-weight: 900 !important;
 .markdown-source-view.mod-cm6 .HyperMD-header-6 { font-size: 1.28em; line-height: 1.6;  }
 
 
-
-
-
-
-
-
-
-
-
-
-
 /*
     Obsidian Link Icons Snippet
     Fixed for Plain/Bare Links (v3)
@@ -113,15 +77,14 @@ font-weight: 900 !important;
 
 /* --- General Variables & Setup --- */
 body {
-    /* These variables ensure consistent sizing and spacing. */
-    /* Adjust these values if you want to change icon size or spacing globally. */
-    --link-icon-size-internal: 1.5em; /* Size for internal link icons (larger) */
-    --link-icon-size-external: 1em; /* Size for external link icons (larger) */
-    --link-icon-spacing: 0.35em; /* Space between icon and link text */
-    --link-icon-vertical-offset: 0em; /* Adjust for vertical alignment */
-    /* Color variables with sensible fallbacks (theme variables may override these) */
-    --link-icon-color-internal: var(--color-accent, #2762a1) !important;
-    --link-icon-color-external: var(--color-foreground, #4ea1ff) !important;
+    --link-icon-size-internal: 1.5em; 
+    --link-icon-size-external: 1em; 
+    --link-icon-spacing: 0.35em; 
+    --link-icon-vertical-offset: 0em; 
+
+    /* FIXED: Now accurately grabs your theme's Link Colors so they are never black */
+    --link-icon-color-internal: #395c69 !important;
+    --link-icon-color-external: #0766c0 !important;
 }
 
 /* --- Reading View (Unchanged) --- */
@@ -193,14 +156,6 @@ body {
 }
 
 /* 2. External Links [Text](URL) and Plain/Bare Links */
-/* 
-   EXPLANATION:
-   - We target .cm-link (for the text part of [text](url) and most bare links).
-   - We ALSO target .cm-url (for bare links that might only have .cm-url class).
-   - .not(:has(~ .cm-link)): This prevents the icon from appearing on the URL part 
-     of a Markdown link [text](url), because the URL part in that case has a "sibling" 
-     which is the text part. A standalone bare link has no such sibling.
-*/
 .markdown-source-view.mod-cm6 :is(.cm-link):not(.cm-hmd-internal-link):not(.cm-formatting-link):not(:has(~ .cm-link))::before {
     content: ' ';
     display: inline-flex;
@@ -221,7 +176,6 @@ body {
     mask-size: contain;
     background-color: var(--link-icon-color-external);
 }
-
 
 .markdown-source-view.mod-cm6 :is(.cm-url):not(.cm-string):not(.cm-hmd-internal-link):not(:has(~ .cm-link))::before {
     content: ' ';
@@ -244,7 +198,6 @@ body {
     background-color: var(--link-icon-color-external);
 }
 
-
 /* --- Compatibility / Overrides --- */
 
 /* If your theme already adds an external link arrow, this will remove it */
@@ -258,8 +211,6 @@ body {
     background-color: transparent !important;
 }
 
-
-
 /* Dims images in reading view and live preview */
 .markdown-preview-view img,
 .markdown-source-view img {
@@ -270,6 +221,60 @@ body {
 .image-hover-popover img {
     filter: brightness(0.6); 
 }
+
+
+/* =========================================================
+   SINGLE UNIFIED COLOR FOR ALL BLOCKQUOTE LINES
+   ========================================================= */
+
+:root {
+  /* Exact requested color for ALL blockquotes */
+  --quote-line-color: #414346; 
+}
+
+/* 1. Live Preview (Editor Mode) - All levels */
+.cm-s-obsidian .HyperMD-quote,
+.cm-s-obsidian .HyperMD-quote.HyperMD-quote-1,
+.cm-s-obsidian .HyperMD-quote.HyperMD-quote-2,
+.cm-s-obsidian .HyperMD-quote.HyperMD-quote-3,
+.cm-s-obsidian .HyperMD-quote.HyperMD-quote-4,
+.cm-s-obsidian .HyperMD-quote.HyperMD-quote-5,
+.cm-s-obsidian .HyperMD-quote.HyperMD-quote-6  {
+    border-left: 4px solid var(--quote-line-color) !important;
+    background: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+    margin-left: 0 !important;
+}
+
+/* Keep text padding in Live Preview */
+.cm-s-obsidian .HyperMD-quote .cm-line {
+    padding-left: 24px !important;
+}
+
+/* 2. Reading View - All levels (including nested) */
+.markdown-reading-view blockquote,
+.markdown-rendered blockquote,
+.markdown-rendered blockquote blockquote,
+.markdown-rendered blockquote blockquote blockquote {
+    border-left: 4px solid var(--quote-line-color) !important;
+    background: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+    margin-left: 0 !important;
+    padding-left: 16px !important;
+}
+
+/* 3. Strip extra background/border pseudoelements */
+.cm-s-obsidian .HyperMD-quote::before,
+.cm-s-obsidian .HyperMD-quote::after,
+.markdown-rendered blockquote::before,
+.markdown-rendered blockquote::after {
+    background: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
 /* ==============================
    LIVE PREVIEW (EDITOR MODE)
    ============================== */
@@ -360,60 +365,9 @@ body {
     background: none !important;
 }
 
-
 /* =========================================================
-   SINGLE UNIFIED COLOR FOR ALL BLOCKQUOTE LINES
+   CODE BLOCK LINE NUMBERS (FROM MAPLE)
    ========================================================= */
-
-:root {
-  /* Set your single quote line color here */
-  --quote-line-color: #414346; 
-}
-
-/* 1. Live Preview (Editor Mode) - All levels */
-.cm-s-obsidian .HyperMD-quote,
-.cm-s-obsidian .HyperMD-quote.HyperMD-quote-1,
-.cm-s-obsidian .HyperMD-quote.HyperMD-quote-2,
-.cm-s-obsidian .HyperMD-quote.HyperMD-quote-3,
-.cm-s-obsidian .HyperMD-quote.HyperMD-quote-4 {
-    border-left: 4px solid var(--quote-line-color) !important;
-    background: none !important;
-    box-shadow: none !important;
-    outline: none !important;
-    margin-left: 0 !important;
-}
-
-/* Keep text padding in Live Preview */
-.cm-s-obsidian .HyperMD-quote .cm-line {
-    padding-left: 24px !important;
-}
-
-/* 2. Reading View - All levels (including nested) */
-.markdown-reading-view blockquote,
-.markdown-rendered blockquote,
-.markdown-rendered blockquote blockquote {
-    border-left: 4px solid var(--quote-line-color) !important;
-    background: none !important;
-    box-shadow: none !important;
-    outline: none !important;
-    margin-left: 0 !important;
-    padding-left: 16px !important;
-}
-
-/* 3. Strip extra background/border pseudoelements */
-.cm-s-obsidian .HyperMD-quote::before,
-.cm-s-obsidian .HyperMD-quote::after,
-.markdown-rendered blockquote::before,
-.markdown-rendered blockquote::after {
-    background: none !important;
-    border: none !important;
-    box-shadow: none !important;
-}
-
-
-
-
-
 
 .cm-s-obsidian .cm-line.HyperMD-codeblock:not(.HyperMD-codeblock-begin):not(.HyperMD-codeblock-end)::before {
   counter-increment: code-line;
@@ -452,23 +406,16 @@ body {
   background: transparent !important;
 }
 
-
-
-
-
 /* ==========================================================================
-   1. GLOBAL TOKENS & DARK THEME COLOR SCHEME (HEX)
+   GLOBAL TOKENS & DARK THEME COLOR SCHEME (HEX)
    ========================================================================== */
 .theme-dark {
   /* Accent Colors (HEX) */
-  --base-accent-h: 205;
+  --base-accent-h: 20;
   --theme-accent-h: var(--base-accent-h);
   --color-opacity: 1;
 
-  --accent-active: #414346;
-  --accent-active-bg: #414346;
-  --accent-inactive: #414346;
-  --color-accent: #414346;
+
 
   /* Multi-color Semantic Palette (HEX) */
   --color-red: #d18989;
@@ -493,64 +440,11 @@ body {
   --background-modifier-hover: #3a4d5f33;
   --background-modifier-border: #4d5356bf;
   --background-modifier-border-hover: #70899999;
-
 }
 
 /* Make only the file/note icons in the sidebar white */
 body.theme-dark .nav-file-title::before {
-  color: #c4bebe !important;
-  opacity: 0.9; /* Optional: adjusts brightness of the white */
+  color: #9b8e8e !important;
+  opacity: 0.9; 
+
 }
-
-
-/* =========================================================
-   SINGLE UNIFIED COLOR FOR ALL BLOCKQUOTE LINES
-   ========================================================= */
-
-:root {
-  /* Exact requested color for ALL blockquotes */
-  --quote-line-color: #414346; 
-}
-
-/* 1. Live Preview (Editor Mode) - All levels */
-.cm-s-obsidian .HyperMD-quote,
-.cm-s-obsidian .HyperMD-quote.HyperMD-quote-1,
-.cm-s-obsidian .HyperMD-quote.HyperMD-quote-2,
-.cm-s-obsidian .HyperMD-quote.HyperMD-quote-3,
-.cm-s-obsidian .HyperMD-quote.HyperMD-quote-4 {
-    border-left: 4px solid var(--quote-line-color) !important;
-    background: none !important;
-    box-shadow: none !important;
-    outline: none !important;
-    margin-left: 0 !important;
-}
-
-/* Keep text padding in Live Preview */
-.cm-s-obsidian .HyperMD-quote .cm-line {
-    padding-left: 24px !important;
-}
-
-/* 2. Reading View - All levels (including nested) */
-.markdown-reading-view blockquote,
-.markdown-rendered blockquote,
-.markdown-rendered blockquote blockquote,
-.markdown-rendered blockquote blockquote blockquote {
-    border-left: 4px solid var(--quote-line-color) !important;
-    background: none !important;
-    box-shadow: none !important;
-    outline: none !important;
-    margin-left: 0 !important;
-    padding-left: 16px !important;
-}
-
-/* 3. Strip extra background/border pseudoelements */
-.cm-s-obsidian .HyperMD-quote::before,
-.cm-s-obsidian .HyperMD-quote::after,
-.markdown-rendered blockquote::before,
-.markdown-rendered blockquote::after {
-    background: none !important;
-    border: none !important;
-    box-shadow: none !important;
-}
-
-

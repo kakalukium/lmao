@@ -2,6 +2,8 @@
 source: https://x.com/Mark___Taylor/status/2104698219158511777
 tags:
   - female-dark-nature
+  - goyDepravities
+nav: true
 ---
 Many women’s brains are so fried on Jewish propaganda they actually think White men get invited and engage in gang rapes.
 
@@ -72,7 +74,7 @@ IRL it’s only blacks and Muslims doing that.
 > The message is correct, the blame isn't. It's not jews, it's neomarxists. Some jews are neomarxists, most aren't. Some jews are the problem, all neo-marxists are.
 
 https://x.com/OutlawKitsune/status/2104871568287416671
-Women really shouldn’t be allowed to participate in society. They’re too violent and evil.
+##### Women really shouldn’t be allowed to participate in society. They’re too violent and evil.
 
 ---
 
@@ -84,7 +86,8 @@ Women really shouldn’t be allowed to participate in society. They’re too vio
 
 > **Enigma @FlickeringFlam3** · [2026-09-29](https://x.com/FlickeringFlam3/status/2104912391477621178)
 > 
-> They want to earn the same as men but date a man who earns more but when he’s earning more that’s a “gender-pay gap” and needs correcting so we earn the same, but when we earn the same men arent meeting their standards of earning more so they refuse to date them but once a man
+
+###### They want to earn the same as men but date a man who earns more but when he’s earning more that’s a “gender-pay gap” and needs correcting so we earn the same, but when we earn the same men arent meeting their standards of earning more so they refuse to date them but once a man Earns more then there’s a gender-pay gap and that’s not okay so women need to be elevated to earn the same but then they don’t want to date broke losers who don’t earn more than them so men need to earn more, but then that’s a gender pay gap and that’s not fair ad infinitum
 
 > **Skye @Sky22252719** · [2026-09-29](https://x.com/Sky22252719/status/2104920980288078137)
 > 
@@ -100,4 +103,30 @@ Women really shouldn’t be allowed to participate in society. They’re too vio
 > 
 > https://tinyurl.com/mw4wcv97
 > 
-> ![Image](https://pbs.twimg.com/media/HTYblJWXoAAXxEz?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HTYblJgXcAAfRLP?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HTYblJXWYAAhBxu?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HTYblJVXAAAv3Fp?format=jpg&name=large)
+> ![[images/3743c2e7c171529ecad4b9f1afe6113e_MD5.jpg]]![[images/aaa164b0d589a65fb608d770e7165eb5_MD5.jpg]]![[images/73eca16f12d624841976063485415f62_MD5.jpg]]![[images/64332b6201ffce47d0f13484bad9eaf3_MD5.jpg]]
+
+
+
+---
+source: "https://x.com/MrBiglyTruth/status/2102201998623838679"
+published: 2026-09-22
+author:
+  - "[[@_AngryGrunt]]"
+---
+The jew works through the woman, who lords over the type-b male (95% of males). Which is why the jew pushed feminism. Which is why the jew pushed women into the workplace. Which is why the jew's msgng is almost exclusively aimed at women.
+
+###### Which is why the serpent approached Eve.
+
+---
+
+## Comments
+
+> **Truth4Freedom @MrBiglyTruth** · [2026-09-22](https://x.com/MrBiglyTruth/status/2102201998623838679)
+> 
+> Slaves and women are needed for both tyranny and democracies.... - Aristotle was correct.
+> 
+> ![[images/dc8b00412065cb5ae0d85a4e82d35d38_MD5.jpg]]
+
+> **Edever Grey @EGrey3717** · [2026-09-22](https://x.com/EGrey3717/status/2102236575794856262)
+> 
+> Pretty sure the designers of this system read his work for inspiration

@@ -1,11 +1,7 @@
-
-1. To generally have nourishing extrinsic environmental conditions and location fortune for 
-   my mind and body, to enable me to pursue advanced technical research and my life goals. 
-   Such as, my dad to be an generous and an friendly backer with high financial capacity, 
-   or my home being an quiet place to work and not become close to any kind of auditorily invasive construction or miscellaneous noise.
-2. Finding general product, business and subsequent financial success within my 20s.
+1. To generally have nourishing extrinsic environmental conditions and location fortune for my mind and body, to enable me to pursue advanced technical research and my life goals.  Such as, my dad to be an generous and an friendly backer with high financial capacity,  or my home being an quiet place to work and not become close to any kind of auditorily obnoxious construction or miscellaneous noise.
+2. Finding in general product, business and subsequent financial success within my twenties.
 3. Meeting my godly lover/ girlfriend organically and developing long term satisfactory love life, as early in life, within my 20s.
-4. Protection and nurture of mine psychic and spiritual integrity. 
+4. Protect and nurture of mine psychic and spiritual integrity. 
 5. Having the energy and power to carry out difficult tasks with self discipline, and the genius to research and maintain continued upward growth without feeling discomfort or falling into destructive habits.
 6. Eventually help me decouple myself from my dad's unreliable relationship, find and upgrade to an better housing to live in with my trusted entourage, lover and have an life of my own. As early, without any casualties to my loved ones. Break my generational curses. 
 

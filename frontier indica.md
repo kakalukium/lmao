@@ -1,6 +1,6 @@
 ---
 source: https://x.com/frontierindica/status/2102677641212076064
-tags:
+nav: true
 ---
 https://x.com/i/status/2080208545140875748
 https://x.com/i/status/2080308394527949065
@@ -261,7 +261,7 @@ Ur life will drastically change once u get that there is literally nothing calle
 ! HEAD
 
 !
-! 5c8b79170014d593b7c38ab1db7675278debc581
+! 
 
 
 
@@ -345,4 +345,19 @@ This doesn't work in low trust third world societies, particularly in India. If 
 > **Takumi kun @Neon14570986** · [2026-09-23](https://x.com/Neon14570986/status/2102706915017171114)
 > 
 > He's talking about humans not subhumans.
+
+---
+source: "https://x.com/frontierindica/status/2104604606785626325"
+published: 2026-09-27
+author:
+  - "[[@frontierindica]]"
+---
+###### It's not about privilege, it's about saving time and mental peace. Those muh bechare gareeb log are completely cut-throat low cunning devils who would destroy you and your whole family for a few thousand rupees extra if they ever got the chance.
+
+> **pragun @pragdua** · 2026-09-27
+> 
+> beyond a certain net worth, negotiating with people less privileged than you (cab drivers, house help, carpenters etc) causes rot to the soul.
+> 
+> just overpay and move on
+
 
