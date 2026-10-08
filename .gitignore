@@ -5,8 +5,13 @@
 *.tmp
 sync.ffs_db
 **/_attachments/
+<<<<<<< Updated upstream
 *.mp4
 *.webm
 *.mp3
 media/
 
+=======
+*.mp4  
+media/ 
+>>>>>>> Stashed changes

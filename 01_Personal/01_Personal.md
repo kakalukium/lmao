@@ -52,6 +52,7 @@ updated: 2026-10-08
 
 ## Insights imp
 - [[About All uni friend s]]
+- [[Insights imp]]
 - [[Maximizing resources]]
 - [[On Nobita]]
 - [[There is a certain divinity and sacredness in personal endeavours in your manifestation and sexuality.]]

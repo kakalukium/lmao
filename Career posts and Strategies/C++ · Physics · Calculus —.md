@@ -3,7 +3,7 @@ source: https://x.com/e_opore/status/2094995862875217977
 ---
 C++ · Physics · Calculus — Integrated Stem Bundle for CS students https://creatifystoredp.gumroad.com/l/mbpoy
 
-![[images/3d5a60a38de467fd5bdfdddc57d9632c_MD5.jpg]]
+![[images/3d5a60a38de467fd5bdfdddc57d9632c_MD5.jpg|342]]
 
 
 ---
@@ -15,7 +15,7 @@ PDF: https://graphics.stanford.edu/courses/cs205a-13-fall/assets/notes/cs205a\_n
 
 Video Lectures: https://youtube.com/playlist?list=PLQ3UicqQtfNvQ\_VzflHYKhAqZiTxOkSwi…
 
-![[images/4dc9fa36b8edc214c8e38f410c84f2d1_MD5.png]]
+![[images/4dc9fa36b8edc214c8e38f410c84f2d1_MD5.png|463]]
 
 ---
 
