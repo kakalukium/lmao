@@ -1,8 +1,8 @@
 ---
 cssclasses: ["zen-grid"]
 title: Categories
-created: 2026-10-07
-updated: 2026-10-07
+created: 2026-10-08
+updated: 2026-10-08
 ---
 
 # Categories

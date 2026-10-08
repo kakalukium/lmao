@@ -1,8 +1,8 @@
 ---
 cssclasses: ["zen-grid"]
 title: 01_Personal
-created: 2026-10-07
-updated: 2026-10-07
+created: 2026-10-08
+updated: 2026-10-08
 ---
 
 # 01_Personal
@@ -52,7 +52,6 @@ updated: 2026-10-07
 
 ## Insights imp
 - [[About All uni friend s]]
-- [[Insights imp]]
 - [[Maximizing resources]]
 - [[On Nobita]]
 - [[There is a certain divinity and sacredness in personal endeavours in your manifestation and sexuality.]]

@@ -1,4 +1,4 @@
-[[women are happy when they're unhappy. Few will get this.]]
+
 
 > **PROFESSOR @SIGMAPROFESSOR** · 2026-10-06
 > 

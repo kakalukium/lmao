@@ -18,6 +18,4 @@
 - [[liminal Capacity. uncertainity tolerance is the greatest indicator for your quality of life]]
   - [[the secret of life is that it's uncertain and unpredictable]]
 
-
-
-- 
+	
