@@ -12,6 +12,43 @@ Men who lack this energy inside themselves will often chase it through women
 
 Anima integration is when you stop requiring the feminine from the outside world, because it has become embodied in your spirit
 
+
+
+---
+source: "https://x.com/JackOfFaces/status/2105271766126039431"
+published: 2026-09-30
+author:
+  - "[[@JackOfFaces]]"
+---
+The masculine expression of God that lives within man is his conscience.
+
+The feminine expression of God that lives within man is his intuition.
+
+Once these two forces are aligned and followed religiously, life leads man down on his highest path.
+
+And showers him with gifts.
+
+> **JACK OF FACES @JackOfFaces** · 2026-09-30
+> 
+> "Why won't God speak to me if he exists?"
+> 
+> Because you don't speak to your conscience.
+> 
+> You want to speak to God?
+> 
+> God speaks in truth.
+> 
+> And you haven't yet taught yourself the language.
+> 
+> It is IMPOSSIBLE for a human to not be a believer - if he is RIGHT with his conscience.
+
+---
+
+## Comments
+
+> **Junnies @Junnies18** · [2026-10-01](https://x.com/Junnies18/status/2105551230726750374)
+> 
+> yesterday, reality pushed me to fear it but my intuition told me to believe in it. I choose to believe in life
 ---
 https://x.com/theralkia/status/2101296881921835066
 It is essential in relationships (romantic, platonic, familial, mentorship, etc.) to be able to discern projection from intuition.

@@ -2,7 +2,7 @@
 keep scooter parked and its keys outside of your room. I need it to get water.
 ```
 
-
+[[Whatsapp log 9•6]]
 
 ```
 [8/24, 4:32 AM] 🌸: How long do you need to buy me that PC and a desk. 
@@ -81,4 +81,4 @@ https://amzn.in/d/0hCf4qr4
 ```
 
 
-[[Whatsapp log 9•6]]
+

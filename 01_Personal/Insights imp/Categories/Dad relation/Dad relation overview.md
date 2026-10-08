@@ -14,7 +14,8 @@ updated: 2026-10-04
 
 #### <center><h4>Intel</h4></center>
 
-[[We are under constant psychic assault from fickle liars, oath breakers and gaslighters. Ruthless means cutting through the crap, and not accepting half measures or nonsense]] being imposed on you whilst holding others to account who try to get anything past you. 
+[[We are under constant psychic assault from fickle liars, oath breakers and gaslighters. Ruthless means cutting through the crap, and not accepting half measures or nonsense -U]] being imposed on you whilst holding others to account who try to get anything past you. 
+-U means updated check
 [[ISTJ Cognitive Functions Si-Te-Fi-Ne]]
 [[Professor Deserving backlinks]]
 

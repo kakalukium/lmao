@@ -4,5 +4,8 @@
 
 [[they will proceed to “bring you down to earth.” they will seek to “humble you.” they will seek to convince you it’s virtue to sit down and make little noise. make sure not to cast your pearls nor genius before them.]]
 
+[[if you are a modern man, your entire existence up until about 23 was designed specifically to castrate you into soul-less submission]]
+
+[[Professor Suffering backlinks]]
 
 

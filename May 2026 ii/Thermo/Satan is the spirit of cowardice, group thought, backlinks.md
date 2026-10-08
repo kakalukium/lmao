@@ -13,4 +13,11 @@
 - [[The game itself, like all games of its era, is a metaphor for overcoming learned helplessness. But you will win if you are non-fearful.]]
 - [[‘Real life’ is about solving problems under conditions of inescapable stress]]
 - [[You may NEVER put a spell on someone. The moment you try to affect someone’s will, even subtly, you step out of white initiation and enter Satanic–Luciferic magic.]]
+
+
+- [[liminal Capacity. uncertainity tolerance is the greatest indicator for your quality of life]]
+  - [[the secret of life is that it's uncertain and unpredictable]]
+
+
+
 - 

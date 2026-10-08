@@ -23,3 +23,23 @@ Being ruthless is simply what is required. Being ruthless is not being cruel. I 
 I love poetry as much as the next guy, and I accept this as the deepest poetry of all. If you want the freedom to be kind, you better show that you are an absolute weapon. There is no rest for man in this life, did you not know? The desire for rest, to be absolved, to not have to fight - to not be a warrior - it's all an illusion, all a lie, all a farce, a pretence, a seduction - believe in that, succumb to that and what do you think will become of you? Do you think there's a happy ending for you in that? I promise you, there isn't.
 
 A man is a weapon. Always has been. If a woman is a storm - then a man is a blade - cutting through the crap - all of it - accept no obfuscation nor misrepresentation - sanitise and purify and leave nothing but the savagery of truth in all its beautiful ugliness in your wake.
+
+
+
+
+
+Overcoming the feeling of male inadequacy. (Rampant in the west)
+
+###### Overcoming selfish upbringing and male narcissism that disallows you to act from a place of personal responsibility. (Also rampant in the west)
+
+If no one does anything - nothing changes.
+
+And then every man is perpetually a boy that never leaves his bedroom.
+
+"Nothing ever happens!", he cries out on the internet. That's the meme.
+
+But who exactly is supposed to make that something happen?
+
+Not you, right?
+
+That simple sentiment encapsulates the whole modern tragedy of the western man.

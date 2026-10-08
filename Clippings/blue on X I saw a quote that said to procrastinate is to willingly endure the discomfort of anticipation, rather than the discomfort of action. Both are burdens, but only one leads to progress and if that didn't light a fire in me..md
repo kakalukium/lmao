@@ -1,5 +1,7 @@
 ---
-source: "https://x.com/bluewmist/status/2069900098595934572"
+source: https://x.com/bluewmist/status/2069900098595934572
+tags:
+  - Individuation/creativity
 ---
 ## Conversation
 
