@@ -148,3 +148,44 @@ I stopped making excuses for it. Everyone gets busy but consistency isn’t abou
 
 >how do y’all deal with inconsistency in relationships?
 
+
+
+
+---
+source: "https://x.com/thebeautyofsaas/status/2109037745678987612"
+---
+the game never ends… I don’t think about winning or losing ever, on anything I do. I just keep playing the game - Micky Malka
+
+> **BOSS @thebeautyofsaas** · 2026-10-10
+> 
+> the antidote to a miserable life
+> 
+> \>clear head
+> 
+> \>knowing your mission and purpose
+> 
+> \>building your tribe (REAL relationships)
+> 
+> \>accepting that anything worth having will be hard
+> 
+> \>no more zero-sum games
+> 
+> \>total ownership of your choices
+> 
+> \>being useful to others
+> 
+> https://theunintuitive.com/p/antidote-to-a-miserable-life…
+> 
+> ![Image](https://pbs.twimg.com/media/HUTOphsWMAA2rtm?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HUTOphtXsAAm8_q?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HUTOphnXoAAs4KA?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HUTOphoX0AA8o9Z?format=jpg&name=large)
+
+---
+
+## Comments
+
+> **Saffat Bokul @saffat\_corp** · [2026-10-11](https://x.com/saffat_corp/status/2109136821141794846)
+> 
+> Just read the whole thing, just absolutely incredible that this is available for free.
+> 
+> > **BOSS @thebeautyofsaas** · [2026-10-11](https://x.com/thebeautyofsaas/status/2109184202793234658)
+> > 
+> > this means a lot. thank you!

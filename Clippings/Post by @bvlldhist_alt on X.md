@@ -1,0 +1,1 @@
+I’ve never seen a generation worship money as much as Boomers

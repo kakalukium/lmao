@@ -1,6 +1,12 @@
 ---
 nav: true
 ---
+
+Zherka
+@ZherkaOfficial
+Getting your life together means no pussy for a long ass time. You’ll be fine
+
+
 A modern woman gets proud of the fact
 
 she wastes a man’s time.

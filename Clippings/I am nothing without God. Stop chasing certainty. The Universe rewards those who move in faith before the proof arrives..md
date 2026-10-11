@@ -7,6 +7,12 @@ author:
 your problem is that you remember God only when falling. when soaring, the scriptures get stowed away. “I am self-made. I built myself from zero.” “I started with nothing.” but what about the fire that God placed in your soul? didn’t that fuel you along the way? what about the miracles that unfolded before your very eyes when you were on the verge of failing? were you responsible for these too? why do you love taking credit? arrogance, before anything, is sheer stupidity. it just misses the facts. you didn’t do it alone. God helped you.
 
 ---
+source: "https://x.com/BlondB00/status/2109030428535672834"
+
+follow for more ego-annihilating God-reminding reality checks.
+
+![Image](https://pbs.twimg.com/media/HUTH_kkXoAAtaw8?format=jpg&name=large)
+---
 
 ## Comments
 
