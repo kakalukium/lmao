@@ -1,8 +1,8 @@
 ---
 cssclasses: ["zen-grid"]
 title: 01_Personal
-created: 2026-10-08
-updated: 2026-10-08
+created: 2026-10-11
+updated: 2026-10-11
 ---
 
 # 01_Personal
@@ -24,6 +24,7 @@ updated: 2026-10-08
 
 ### 2026
 - [[August - sep 1st]]
+- [[October 1 - 10th]]
 - [[Untitled]]
 
 #### April 2026
@@ -56,6 +57,7 @@ updated: 2026-10-08
 - [[Maximizing resources]]
 - [[On Nobita]]
 - [[There is a certain divinity and sacredness in personal endeavours in your manifestation and sexuality.]]
+- [[Untitled]]
 - [[discussing deep spiritual workings with those who are jealous or hostile is believed to allow them to work countermagic or disrupt your progress.]]
 
 ### Categories

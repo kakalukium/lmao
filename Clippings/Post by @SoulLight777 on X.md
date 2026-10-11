@@ -49,7 +49,7 @@ The shift from competition to cooperation is therefore not weakness, it is a sig
 > 
 > Let us remember who we are, be restored, becoming stronger than before that we may be filled so we can pour out and help others along the path…
 > 
-> ![Image](https://pbs.twimg.com/media/HUHruKHWYAAQMFN?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HUHruKOXYAAS0Pc?format=jpg&name=large)
+> ![[images/1ee60ad29cb53332109d5c5ea1632366_MD5.jpg]]![[images/a4f8598dcffb2902ac26262d46e4e14c_MD5.jpg]]
 
 > **Alien Human from Gaia 🌎 @randombear\_bear** · [2026-10-08](https://x.com/randombear_bear/status/2108170963636682810)
 > 

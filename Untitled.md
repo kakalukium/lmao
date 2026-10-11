@@ -21,7 +21,7 @@ If your cells produce energy via light and your thoughts generate said light, yo
 > 
 > Researchers detected a mysterious 71.0-terahertz vibration signal. this frequency is only present in healthy,
 > 
-> ![Image](https://pbs.twimg.com/media/HUCPYxTa0AAb3ix?format=jpg&name=large)
+> ![[images/474db450eb5b0404ef9a43794f4e1688_MD5.jpg]]
 
 ---
 
@@ -91,7 +91,7 @@ Because this quantum state actually acts as a highly efficient channel to modula
 
 our bodies literally use quantum mechanics to generate the energy that keeps us alive.
 
-![Image](https://pbs.twimg.com/media/HUCPYxTa0AAb3ix?format=jpg&name=large)
+![[images/474db450eb5b0404ef9a43794f4e1688_MD5.jpg]]
 
 ---
 

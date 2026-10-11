@@ -16,7 +16,7 @@ Many IRL friends are terrified of their GFs becoming ridiulized over literal non
 > 
 > In the information age, materializing ideology requires a widely shared hierarchy of meaning. x.com/RayPeatHeadSho…
 > 
-> ![Image](https://pbs.twimg.com/media/HOnf36YbsAA0WyM?format=jpg&name=large)
+> ![[images/414546f02be0d629c4bccd9f95b1a0ef_MD5.jpg]]
 
 ---
 
@@ -48,7 +48,7 @@ Phase III — Coming soon!
 > 
 > Remember, all it takes is the flip of a switch to classify you as hostile. x.com/bioenergeticme…
 > 
-> ![Image](https://pbs.twimg.com/media/HTtN9Yxa8AAKGVL?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/GyDEdJ0WUAESYcA?format=jpg&name=large)
+> ![[images/867b7a14df8d7b01a208561e15fbf155_MD5.jpg]]![[images/4a403bd603e980c80fa368b5b167c544_MD5.jpg]]
 
 
 
@@ -86,7 +86,7 @@ It’s like their entire purpose is to portray humanity in the most undignified 
 > 
 > he wants to make us undignified, ugly, selfish, unlovable creatures—he’s even chosen a tribe to do his bidding x.com/joelwberry/sta…
 > 
-> ![Image](https://pbs.twimg.com/media/GNXB2oOWUAIlydN?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/GNXB2oWXUAAdBkJ?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/GNXB2oOXwAADe8q?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/GNXB2oOWIAEfppo?format=jpg&name=large)
+> ![[images/612b3c462651c75da337a664a9dbb7b7_MD5.jpg]]![[images/5d3786d12b171ac25dc7ec10462644fe_MD5.jpg]]![[images/470404615919ce145efc90c113c431b6_MD5.jpg]]![[images/307286d453c7436afd4182b06ff9419f_MD5.jpg]]
 
 ---
 
@@ -108,4 +108,4 @@ It’s like their entire purpose is to portray humanity in the most undignified 
 > 
 > correct thats because lan M\*Ies Dhung is a tr&nny Ioser
 > 
-> ![Image](https://pbs.twimg.com/media/Gee3EDHWYAE20lz?format=png&name=large)
+> ![[images/90a847b7a50d7e43e3d7289a0337cbfe_MD5.png]]

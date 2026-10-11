@@ -7,7 +7,7 @@ Goras will lose their mind if they read Indian criminal law lmao
 > 
 > Amazing things happening on Threads
 > 
-> ![Image](https://pbs.twimg.com/media/HUFGLn5XAAAZwUO?format=jpg&name=large)
+> ![[images/92f23c7ddbb0d49948bcc74d1ef588be_MD5.jpg]]
 
 ---
 

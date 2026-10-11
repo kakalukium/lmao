@@ -42,7 +42,7 @@ If you watched your parents divorce as a child, you went through something harde
 > 
 > Al-Zutt wants to play.
 > 
-> ![Image](https://pbs.twimg.com/media/HP52EnWXkAAc6Ww?format=jpg&name=large)
+> ![[images/8487fc9a27d4af565293adcee8ea2363_MD5.jpg]]
 
 > **jay knight جليل𝕏 @jay\_knightt** · [2026-08-17](https://x.com/jay_knightt/status/2089437469875777958)
 > 

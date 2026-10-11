@@ -29,7 +29,7 @@ Friend told us some stories a bit ago:
 > 
 > actual foto of op’s friend:
 > 
-> ![Image](https://pbs.twimg.com/media/HUTTllYXYAAiwKA?format=jpg&name=large)
+> ![[images/6f01c6d9060feb7576499a34bba0a09b_MD5.jpg]]
 
 > **Based Capitalist @BasedCapital101** · [2026-10-10](https://x.com/BasedCapital101/status/2109051086292353132)
 > 

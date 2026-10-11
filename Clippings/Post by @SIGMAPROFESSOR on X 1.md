@@ -19,7 +19,7 @@ you cannot defeat evil by persuading it to stop being evil, that is how you lose
 > 
 > That’s total BS.
 > 
-> ![Image](https://pbs.twimg.com/media/HUHLcQUXMAABari?format=jpg&name=large)
+> ![[images/2aa08169ff3e5f3efbbda68d3db40172_MD5.jpg]]
 
 > **M i n e r v a @noblessefemina** · [2026-10-08](https://x.com/noblessefemina/status/2108209569315029303)
 > 

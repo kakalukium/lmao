@@ -9,7 +9,7 @@ The child remained underwater for seven minutes before a bystander pulled him ou
 
 This Indian woman is a practicing hematologist and oncologist in America.
 
-![Image](https://pbs.twimg.com/media/HUJWYEpWcAAIV5w?format=jpg&name=large)
+![[images/28eff2255dfcc614a25452e8a9010f93_MD5.jpg]]
 
 ---
 
@@ -45,7 +45,7 @@ This Indian woman is a practicing hematologist and oncologist in America.
 > 
 > A: Culturally, if the woman had made an effort to save the kid then she would have no or low Izzat. The act of saving indicates a lower tier (below the drowning victim), ignoring the drowning culturally signals that she is too important or above
 > 
-> ![Image](https://pbs.twimg.com/media/HUJ-Eb8akAAsSo5?format=jpg&name=large)
+> ![[images/9233557f21f930227c3f54d126308659_MD5.jpg]]
 
 > **Galath @W0rkerOfSecrets** · [2026-10-09](https://x.com/W0rkerOfSecrets/status/2108389190702715264)
 > 

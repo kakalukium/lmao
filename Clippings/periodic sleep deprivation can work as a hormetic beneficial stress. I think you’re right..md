@@ -19,7 +19,7 @@ Anything is better, more relaxing than tossing/turning in bed.
 > 
 > Those of you from UMC homes: I bet your dad slept less than 6-hours a night, and yet maintained a relatively energetic x.com/raypeatheadsho…
 > 
-> ![Image](https://pbs.twimg.com/media/HUNqq_hboAAzgNm?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/G7EbJNkbcAAVptV?format=jpg&name=large)
+> ![[images/3e7bdb8c92145727f6d97125b3ecfd55_MD5.jpg]]![[images/afc40a69eb24290b482a278931e3de25_MD5.jpg]]
 
 ---
 
@@ -43,7 +43,7 @@ Late night coffee is a reasonable gamble. 50/50 chance you’ll either sleep ver
 > 
 > You’ll be groggy in the day anyway, might as well be awake AF at night! x.com/raypeatheadsho…
 > 
-> ![Image](https://pbs.twimg.com/media/HQHBYTcbkAABeRP?format=jpg&name=large)
+> ![[images/49ae11938abf8ebbc18d2873442aa9a6_MD5.jpg]]
 
 ---
 
@@ -75,7 +75,7 @@ There's some interesting research on sleep deprivation and how effective it is a
 > > 
 > > Those of you from UMC homes: I bet your dad slept less than 6-hours a night, and yet maintained a relatively energetic x.com/raypeatheadsho…
 > > 
-> > ![Image](https://pbs.twimg.com/media/G7EbJNkbcAAVptV?format=jpg&name=large)
+> > ![[images/afc40a69eb24290b482a278931e3de25_MD5.jpg]]
 
 > **Michael @M1chael\_\_W** · [2026-10-11](https://x.com/M1chael__W/status/2109127349815968157)
 > 
