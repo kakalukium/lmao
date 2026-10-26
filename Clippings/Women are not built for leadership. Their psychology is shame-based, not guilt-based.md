@@ -29,7 +29,7 @@ Hens don't crow at dawn. For a reason.
 > 
 > What opinion about women do you have that makes people feel like this?
 > 
-> ![Image](https://pbs.twimg.com/media/G30GTE_X0AA92_4?format=jpg&name=large)
+> ![[images/a6e95ecc7e345bf0e5496307b41d236b_MD5.jpg]]
 
 ---
 
@@ -45,7 +45,7 @@ Hens don't crow at dawn. For a reason.
 > 
 > Then what did this woman do?
 > 
-> ![Image](https://pbs.twimg.com/media/HT-LxyWW0AABzQw?format=jpg&name=large)
+> ![[images/8c99cffcfc393a12cd377889e7d4959d_MD5.jpg]]
 
 https://x.com/Cr7Godbrand/status/2109968665600721381
 Because MEN process failure privately. WOMEN need an audience to rename it VICTORY.

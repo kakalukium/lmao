@@ -57,4 +57,4 @@ Absolutely vile creatures
 > 
 > nietzsche ressentiment
 > 
-> ![Image](https://pbs.twimg.com/media/HUgui1EXgAAggX-?format=jpg&name=large)
+> ![[images/3001444a3c26c9efddde94cefff5890a_MD5.jpg]]

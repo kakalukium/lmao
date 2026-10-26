@@ -15,7 +15,7 @@ Just as pornography can stimulate the human sex drive without providing any actu
 > > 
 > > can a predicate exist without a subject?
 > > 
-> > ![Image](https://pbs.twimg.com/media/HUMdpOVXcAAmHGH?format=jpg&name=large)
+> > ![[images/509c16be63994a97479f46a7db00c873_MD5.jpg]]
 
 > **Luke @basilisk256** · [2026-10-16](https://x.com/basilisk256/status/2110954310624587847)
 > 

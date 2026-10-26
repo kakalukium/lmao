@@ -1,8 +1,8 @@
 ---
 cssclasses: ["zen-grid"]
 title: Insights imp
-created: 2026-10-07
-updated: 2026-10-07
+created: 2026-10-26
+updated: 2026-10-26
 ---
 
 # Insights imp
@@ -10,6 +10,7 @@ updated: 2026-10-07
 - [[Maximizing resources]]
 - [[On Nobita]]
 - [[There is a certain divinity and sacredness in personal endeavours in your manifestation and sexuality.]]
+- [[Untitled]]
 - [[discussing deep spiritual workings with those who are jealous or hostile is believed to allow them to work countermagic or disrupt your progress.]]
 
 ## Categories
@@ -31,3 +32,4 @@ updated: 2026-10-07
 
 ### Relations
 - [[In the dating game. There are n sample candidates]]
+- [[In the dating game. There are n sample candidates. Love is a service you rent, you must eternally make payments with looks and competence.]]

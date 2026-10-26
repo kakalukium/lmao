@@ -18,9 +18,9 @@ A Louis Vuitton handbag or iPhone means nothing to the owners. They are cheap, m
 
 > “A really efficient totalitarian state would be one in which the all-powerful executive of political bosses and their army of managers control a population of slaves who do not have to be coerced, because they love their servitude.” —Aldous Huxley
 
-![](https://qph.cf2.quoracdn.net/main-qimg-2f6b71bc3f746242ef5f5d81246f70df)
+![[images/5e95f6427f1c27f1d5b599605f459f8e_MD5.png]]
 
-![](https://qph.cf2.quoracdn.net/main-qimg-ec7fe6a498b5cbe509093567410c1488)
+![[images/ecf104b2ea705e8d25440322c7ee13d7_MD5.png]]
 
 This is why those with robust metabolisms and high neurodevelopmental ceilings (like the hunter-gatherer) — often called “neurodivergent”, “lazy”, or “useless” on the farm for not being useful to the farmer — dedicate so much of time to pursuing their hobbies in material reality over meddling in social reality to negotiate for status alongside all the other cattle — because their survival doesn’t rest on their owners giving their domesticated ass hand-outs. They are attacked by the owners of the farm for “not being useful” because they do not consume the slop the farm produces (demanding honey and meat instead of the oat and barley that’s been rationed for them) or produce surplus for their owners. The farm animals too attack them out of resentment for not being able to live their lives.
 
@@ -49,7 +49,7 @@ Anyone in corporate knows this. If you don’t let yourself be controlled or deg
 
 Someone like the current US president doesn’t rise to his level of fame without having sold his freedoms and dignity to a powerful class a long time ago. Today, he has been elevated to this level only because he helped the hierarchy survive, and they brought him up for being a useful idiot, knowing well he would never rise to challenge their authority
 
-![](https://qph.cf2.quoracdn.net/main-qimg-26dc4e7ac1979437f1ee037cc723fc13)
+![[images/1de99dc26981148fa47719c17c896880_MD5.jpg]]
 
 Trump, a puppet in the hands of a Mossad agent
 

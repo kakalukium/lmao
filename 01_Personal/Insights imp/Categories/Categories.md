@@ -1,8 +1,8 @@
 ---
 cssclasses: ["zen-grid"]
 title: Categories
-created: 2026-10-08
-updated: 2026-10-08
+created: 2026-10-26
+updated: 2026-10-26
 ---
 
 # Categories
@@ -23,3 +23,4 @@ updated: 2026-10-08
 
 ## Relations
 - [[In the dating game. There are n sample candidates]]
+- [[In the dating game. There are n sample candidates. Love is a service you rent, you must eternally make payments with looks and competence.]]

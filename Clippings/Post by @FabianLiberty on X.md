@@ -77,7 +77,7 @@ Finding out your son or daughter you raised for 18 years is another man's child 
 > > > > > 
 > > > > > Stop embarrassing yourself and go ask this to Zulu or Mann Sharma whom I also assume you haven’t identified as feminists yet who would tell you what contextual certainty is and whether you should be suspicious whether someone cheated on you and lied to you because there is a statistical possibility
 > > > > > 
-> > > > > ![Image](https://pbs.twimg.com/media/HU8_QrlXcAAWxEF?format=jpg&name=large)
+> > > > > ![[images/5019f27ef4ad60022f0a3acfcb98ef51_MD5.jpg]]
 > > > > > 
 > > > > > > **FabianLiberty @FabianLiberty** · [2026-10-19](https://x.com/FabianLiberty/status/2112004801202377036)
 > > > > > > 

@@ -35,7 +35,7 @@ That's a cult cosplaying as justice. Next plan is to acquit women of murder.
 > 
 > Hit me with the harshest reality of life
 > 
-> ![Image](https://pbs.twimg.com/media/HAOhdY7WIAAs6bZ?format=jpg&name=large)
+> ![[images/ffdea92ce9370d83d0def7da87a55e8c_MD5.jpg]]
 
 ---
 
@@ -59,4 +59,4 @@ That's a cult cosplaying as justice. Next plan is to acquit women of murder.
 > 
 > I agree this..
 > 
-> ![Image](https://pbs.twimg.com/media/HUmUZa3WAAA7rBc?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HUmUe35WMAAf0RF?format=png&name=large) ![Image](https://pbs.twimg.com/media/HUmUf2nX0AEr3WZ?format=jpg&name=large)
+> ![[images/0f5957f74844f2d2cd36a58e4af84aed_MD5.jpg]]![[images/6e4267c60ab08e9d2478ffe02399f314_MD5.png]]![[images/6a23bc42aec3060354ad1d7703b04ea2_MD5.jpg]]

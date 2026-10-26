@@ -15,7 +15,7 @@ A woman living in a patriarchal white male order oriented by the ethic of self-c
 
 > **William Lamb @BedeBecketBacon** · [2026-10-19](https://x.com/BedeBecketBacon/status/2112143481074311621)
 > 
-> ![Image](https://pbs.twimg.com/media/HU_XR-PXwAEt6vX?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HU_XR-LWYAA5JZ6?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HU_XR-aXQAArv_G?format=jpg&name=large)
+> ![[images/07d4c2a11f1009c9bb2923b81d9212a2_MD5.jpg]]![[images/b6e275d1e7f8ec8efa6129075e1cd255_MD5.jpg]]![[images/cecd6db3237a52997aea20b515ec6dfb_MD5.jpg]]
 
 > **Delbert T. Scroggins @TroondeAragua** · [2026-10-18](https://x.com/TroondeAragua/status/2111903711039541700)
 > 
@@ -35,7 +35,7 @@ A woman living in a patriarchal white male order oriented by the ethic of self-c
 > 
 > Western media
 > 
-> ![Image](https://pbs.twimg.com/media/HU8shNhXgAA1uDo?format=jpg&name=large)
+> ![[images/33742d805cae3a57b2849c9c742483c7_MD5.jpg]]
 
 > **pp 🇭🇷 @HrPrethodnica** · [2026-10-19](https://x.com/HrPrethodnica/status/2112106097234567457)
 > Ç
