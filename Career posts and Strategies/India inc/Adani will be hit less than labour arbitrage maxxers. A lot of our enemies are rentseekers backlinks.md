@@ -1,3 +1,10 @@
+[[anything more than write Bloatware code, paper pushing, middle-manship, status arbitrage and collecting bribes as Government servants backlinks]]
+
+
+
+
+
+
 Every single (actually about 80%)
 
 Bvlldhist tweet
