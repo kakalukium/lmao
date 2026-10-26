@@ -34,5 +34,10 @@ https://youtube.com/shorts/fqg8c1a0Mec
 
 toxic voltage
 https://youtu.be/_DPq_9eh5Cw?si=94VVJQvJz7IoFBzR
->>>>>>> Stashed changes
+
+
+
+
+Memory reboot slowed
+https://youtu.be/BX7exLYSEy8
 

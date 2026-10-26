@@ -104,3 +104,6 @@ I am falling sick, Getting too ahead of myself, unable to maintain steady mental
 
 
 Once I feel more energetically balanced/protected, I shall start more deeper dives into technical mastery.
+
+
+The world aims to exploit 
