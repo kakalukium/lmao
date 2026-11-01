@@ -3,6 +3,9 @@
 > [!NOTE]
 > Being in the worst position in life is a rare blessing: a chance to prove the monster u are, the beast u can become, the opportunity to become a story, an inspiration, someone who changes the entire game. Lowkey u're really lucky to be that unlucky Mf.
 
+> [!NOTE]
+> Life is all about sex. Life is driven by sex. Sex is what creates life and ends it. Every living thing is born of it, and every movement in the world revolves around it- though few are honest enough to admit it. Every duty, every passion, every desire, every ambition - they are all variations of the same underlying force: sex. Passion is nothing but the refined expression of that primal energy. Take sex away, and life loses its meaning. Life is sex, and sex is life. It may sound absurd, but that’s the plain truth. Every pursuit - whether for wealth, knowledge, or recognition - arises from impressions gathered in a world steeped in sexual energy. Business, marketing, art, technology, politics - everything ultimately revolves around power, and power exists for the sake of sex. To renounce sex is to renounce the world itself. That is why saints turn away from it - because once the root desire is dropped, nothing worldly remains interesting. Every action matters only because there is victory or defeat, success or failure. Strip life of that duality, and it collapses into stillness. The urge for victory is born of ego, and ego sprouts from the desire to possess, to command - at its core, the desire for sex. Money, power, fame - they are all subtle currencies of attraction, means to impress and dominate in the game of desire. Humans act “honorable,” but beneath their civility lies the same biological truth: life is about sex. Those who deny it merely wish to appear noble while dancing to the same ancient rhythm. 
+
 ---
 
 

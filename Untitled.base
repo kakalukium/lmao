@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - '!file.name.contains("MD5")'
+        - file.ctime >= "2026-10-01"
     sort:
       - property: file.ctime
         direction: DESC

@@ -5,7 +5,7 @@
 
 [[Most of your Medicine, steel, cement, toothbrushes are made by low low lala companies.]]
 
-[[Age of Garage startups is overAge of Bloatware is over The Hardware era requires National Champion-Government]]
+[[Age of Garage startups is over Age of Bloatware is over The Hardware era requires National Champion-Government]]
 
 
 

@@ -119,13 +119,13 @@ The jew works through the woman, who lords over the type-b male (95% of males). 
 
 ---
 
-## Comments
+
 
 > **Truth4Freedom @MrBiglyTruth** · [2026-09-22](https://x.com/MrBiglyTruth/status/2102201998623838679)
 > 
-> Slaves and women are needed for both tyranny and democracies.... - Aristotle was correct.
+> Slaves and women are needed for both tyranny and democracies.... - Aristotle was orrcect.
 > 
-> ![[images/dc8b00412065cb5ae0d85a4e82d35d38_MD5.jpg]]
+> ![[images/dc8b00412065cb5ae0d85a4e82d35d38_MD5.jpg|618]]
 
 > **Edever Grey @EGrey3717** · [2026-09-22](https://x.com/EGrey3717/status/2102236575794856262)
 > 

@@ -233,4 +233,6 @@ Here GRAIL which sells the Galleri serum test for detecting DNA tumor markers ha
 > 
 > Trump and Dump stock but also the product is very promising. Galleri test has been in the market for years but it is closer to FDA approval (or so market seems to think). FDA approval will push it above competitors and into Insurance coverage
 > 
-> ![[images/6d4c86e5e19b75553df9addd02b7caca_MD5.png]]
+> ![[images/6d4c86e5e19b75553df9addd02b7caca_MD5.png|285]]
+
+

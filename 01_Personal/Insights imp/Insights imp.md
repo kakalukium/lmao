@@ -1,8 +1,8 @@
 ---
 cssclasses: ["zen-grid"]
 title: Insights imp
-created: 2026-10-26
-updated: 2026-10-26
+created: 2026-11-01
+updated: 2026-11-01
 ---
 
 # Insights imp

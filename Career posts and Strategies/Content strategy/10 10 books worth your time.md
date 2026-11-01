@@ -176,7 +176,7 @@ the game never ends… I don’t think about winning or losing ever, on anything
 > 
 > https://theunintuitive.com/p/antidote-to-a-miserable-life…
 > 
-> ![Image](https://pbs.twimg.com/media/HUTOphsWMAA2rtm?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HUTOphtXsAAm8_q?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HUTOphnXoAAs4KA?format=jpg&name=large) ![Image](https://pbs.twimg.com/media/HUTOphoX0AA8o9Z?format=jpg&name=large)
+> ![[images/959fb31f37666cd143f60a7670a3edd4_MD5.jpg]]![[images/0410d720a948cb467011b5ca57ee50df_MD5.jpg]]![[images/0e0d89ca94ec1e2274095a21faa90ab6_MD5.jpg]]![[images/08f70cda991d1b187f7c131dd8c74d5d_MD5.jpg]]
 
 ---
 

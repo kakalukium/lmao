@@ -1,8 +1,8 @@
 ---
 cssclasses: ["zen-grid"]
 title: 01_Personal
-created: 2026-10-26
-updated: 2026-10-26
+created: 2026-11-01
+updated: 2026-11-01
 ---
 
 # 01_Personal
@@ -12,6 +12,44 @@ updated: 2026-10-26
 - [[Thought from jun 6th 10 48PM]]
 - [[Untitled]]
 - [[Zen Browser]]
+
+### 2025
+- [[14th August 2025]]
+- [[15th august]]
+- [[16th july 2025]]
+- [[17th August]]
+- [[21st August]]
+- [[29th August]]
+- [[9th August 2025]]
+
+### 2026
+- [[August - sep 1st]]
+- [[October 1 - 10th]]
+- [[Untitled]]
+
+#### April 2026
+- [[20 th april]]
+- [[25th April 9AM]]
+- [[30th April]]
+- [[April 30th]]
+
+#### June
+- [[June 12th]]
+- [[June 1st - june 8th]]
+
+#### July 2026
+- [[July 15th-30th]]
+- [[Untitled]]
+
+#### March 2026
+- [[21st March]]
+- [[23rd march]]
+- [[24th March]]
+- [[Timeline position hint]]
+
+#### May 2026
+- [[May 10th - 16th]]
+- [[May 21st]]
 
 ## Insights imp
 - [[About All uni friend s]]
@@ -42,44 +80,6 @@ updated: 2026-10-26
 #### Relations
 - [[In the dating game. There are n sample candidates]]
 - [[In the dating game. There are n sample candidates. Love is a service you rent, you must eternally make payments with looks and competence.]]
-
-### 2025
-- [[14th August 2025]]
-- [[15th august]]
-- [[16th july 2025]]
-- [[17th August]]
-- [[21st August]]
-- [[29th August]]
-- [[9th August 2025]]
-
-### 2026
-- [[August - sep 1st]]
-- [[October 1 - 10th]]
-- [[Untitled]]
-
-#### April 2026
-- [[20 th april]]
-- [[25th April 9AM]]
-- [[30th April]]
-- [[April 30th]]
-
-#### July 2026
-- [[July 15th-30th]]
-- [[Untitled]]
-
-#### June
-- [[June 12th]]
-- [[June 1st - june 8th]]
-
-#### March 2026
-- [[21st March]]
-- [[23rd march]]
-- [[24th March]]
-- [[Timeline position hint]]
-
-#### May 2026
-- [[May 10th - 16th]]
-- [[May 21st]]
 
 ## Monthly Budget
 - [[Pharmaceuticals]]
