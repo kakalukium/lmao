@@ -41,3 +41,10 @@ https://youtu.be/_DPq_9eh5Cw?si=94VVJQvJz7IoFBzR
 Memory reboot slowed
 https://youtu.be/BX7exLYSEy8
 
+1) https://youtube.com/shorts/BZf9YkFkmO8
+   https://youtu.be/lCKU-tI-upI?si=sfONaEu6-zB8ncuk worry slowed
+2) FUNK SIGILO (SLOWED). h6itam
+   https://youtube.com/shorts/iDNZ0D9drf4
+
+
+

@@ -51,3 +51,12 @@ Being impeccable in a system that wasn't meant for you isn't virtue. It's obedie
 
 https://x.com/i/status/2093612114841673951
 Never accept the role that others seek to assign to you. Around you, people are constantly defining your limits, your function, your place in the hierarchy. The day you internalize this definition, you become interchangeable, predictable, incapable of the slightest initiative outside of what is permitted to you. If the framework of others serves your interests for a moment, make use of it. Never let it become your identity. Players do not negotiate within the established rules. They redefine the game.
+
+
+
+
+---
+
+Women learn about a man’s individuality to get him to stay.
+
+Men have to learn about a woman’s hive mind to get her to stay.

@@ -3,6 +3,11 @@ source: https://x.com/itispsychomath/status/2094972998512263203
 tags:
   - mental-health
 ---
+
+Anger is an low IQ emotion.
+
+
+
 It's not that it's too late to make it in life after a certain age, it's just that the more you wait and the older you are, the more past negative beliefs take a hold of you to make any change possible.
 
 If I am a betting man, I agree with @ItIsHoeMath that it is indeed too late for him.
