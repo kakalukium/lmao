@@ -576,3 +576,49 @@ BACKEND ENGINEERING ROADMAP
 Grab Backend Engineering Ebook: https://codewithdhanian.gumroad.com/l/ungqng
 
 ![[images/24c73b7ea7735e6b527162881cda4ddd_MD5.jpg]]
+
+C/C++ is the toolchain to build the tech of the future
+
+> **Elon Musk @elonmusk** · 2026-11-10
+> 
+> Real men manage their own memory
+> 
+> ![Image](https://pbs.twimg.com/media/HWw1gOoWIAA3_uR?format=jpg&name=large)
+
+---
+
+## Comments
+
+> **Abhishek🌱 @Abhishekcur** · [2026-11-10](https://x.com/Abhishekcur/status/2120129261206196619)
+> 
+> FACTSSS
+
+> **noel @noel\_bhe** · [2026-11-10](https://x.com/noel_bhe/status/2120143972115132601)
+> 
+> wait until he hears of smart pointers
+> 
+> > **Dmitrii Kovanikov @ChShersh** · [2026-11-10](https://x.com/ChShersh/status/2120156457870242191)
+> > 
+> > Sometimes stupid pointers are just fine
+
+> **Mutual Funds Sahi Hai @MFSahiHai** ·
+> 
+> From sharing childhood memories to creating new ones, the bond between siblings is one to cherish forever. ❤️
+> 
+> Wishing you and your loved ones a joyful and blessed Bhai Dooj!
+> 
+> ![Image](https://pbs.twimg.com/media/HWz8ePya0AA3zGh?format=jpg&name=large)
+
+> **Praveen Sitaraman @PraveenSitarama** · [2026-11-10](https://x.com/PraveenSitarama/status/2120231364746514494)
+> 
+> Rust is a better version of C/C++. It delivers the same performance and low level control of C/C++, with much stronger memory-safety guardrails.
+> 
+> Though an argument could be made that AI generated code with C/C++ safety rules, custom skills and automated checks could close some
+> 
+> > **Dmitrii Kovanikov @ChShersh** · [2026-11-10](https://x.com/ChShersh/status/2120237532956770640)
+> > 
+> > If Rust is better, how so there are no Rust jobs?
+
+> **dhina karan @dhina\_kara5049** · [2026-11-10](https://x.com/dhina_kara5049/status/2120149305000591792)
+> 
+> Do they teach C++ in university programming courses?

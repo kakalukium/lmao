@@ -2,6 +2,9 @@
 keep scooter parked and its keys outside of your room. I need it to get water.
 ```
 
+
+In the interest of me studying longer hours, plz co-operate in scooter availability for water on demand. 
+
 [[Whatsapp log 9•6]]
 
 ```

@@ -8,6 +8,11 @@ Someone said, "If you don't fight for your love, there is no love." It is a comp
 
 ---
 
+https://x.com/SerdoSnape/status/2116902837494133184?a=ouH54HC5auhQJnuGIVI&s=19
+Love has never been something deserved, nor will it ever be. You’ve never earned anyone’s love, nor deserved it. Someone either loves you without reason or doesn’t. What you do might at most provide the foundation, but it’s never the cause. To someone who doesn’t love you, the other person’s effort only grates on them.
+
+[[The greatest gift u can ever give ur woman is ur presence. If she keeps demanding more, the love is fading. The more demands, the less love.]]
+
 ## Comments
 
 > **Sahana @Sahanasatianaat** · [2026-06-09](https://x.com/Sahanasatianaat/status/2064410194583650322)

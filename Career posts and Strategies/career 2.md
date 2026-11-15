@@ -10,7 +10,7 @@ description:
 [[For front-end ReactJS, Angular, Next.js, TypeScript.  For back-end]]
 
 
-
+[[general software engineer with AI,]]
 
 
 
