@@ -10,6 +10,8 @@ The only downside is that u won't get others sympathy which u get by believing o
 > Life when you believe that good things will happen to you
 
 ---
+[[People subconsciously keep inviting problems into their lives just to enjoy the suffering because they've been brainwashed by fiction and poetry to love i]]
+
 
 ## Comments
 

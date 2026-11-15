@@ -43,7 +43,7 @@ I've compiled ALL of my dating insights and learning points over 15+ years into 
 
 https://zylvie.com/aruvinchan/p/moderndatingsurvivalguide/coupon/TWITTERBRO…
 
-![Image](https://pbs.twimg.com/media/HV0u4lmWYAEqrcq?format=jpg&name=large)
+![[images/6df44a4b65dcec3946d64fc7af60e5d5_MD5.jpg]]
 
 ---
 

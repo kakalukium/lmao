@@ -1,5 +1,5 @@
 1. To generally have nourishing extrinsic environmental conditions and location fortune for my mind and body, to enable me to pursue advanced technical research and my life goals.  Such as, my dad to be an generous and an friendly backer with high financial capacity, conceding and proactively supporting my financial demands. or my home being an quiet place to work and not become close to any kind of auditorily obnoxious construction or miscellaneous noise. 
-2. Finding in general product, business and subsequent financial success within my twenties.
+2. Finding general product, business and subsequent financial success within my twenties.
 3. Meeting my godly lover/ girlfriend organically and developing long term satisfactory love life, as early in life, within my 20s.
 4. Protect and nurture of mine psychic and spiritual integrity. 
 5. Having the energy and power to carry out difficult tasks with self discipline, and the genius to research and maintain continued upward growth without feeling discomfort or falling into destructive habits.
@@ -10,7 +10,7 @@ my dad has to be an generous and an friendly backer with high financial capacity
 To be consistent and professional in paying me, and to not abusive about my financial dependence. 
 
 
-Need the funds so that I can establish healthy boundaries with dad(such as the threat to your life or your lover, because of his relations with mischievous questionable people) , and to not be an victim of his unreliability and financial abuse.
+Need the funds so that I can establish healthy boundaries with dad(such as the threat to your life or your lover, because of his relations with mischievous .people) , and to not be an victim of his unreliability and financial abuse.
 
 Mentally, indeed my life's positive outcome isn't short of divine intervention, and  remembering God with humility and gratitude, and staying taciturn and quiet about whatever progress we make, not giving into dramatic satanic emotions of ecstaticized self-righteous hubris remains a challenge. 
 

@@ -50,4 +50,4 @@ Employers who don’t pay enough for their employees to responsibly afford rent 
 > 
 > #BoomerFatigue
 > 
-> ![Image](https://pbs.twimg.com/media/HSUrpH7bIAA5JXv?format=jpg&name=large)
+> ![Image](_attachments/HSUrpH7bIAA5JXv_17947644193041193.jpg)

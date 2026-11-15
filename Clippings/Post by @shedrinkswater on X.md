@@ -14,7 +14,7 @@ Such men are rarely chasing success alone. they want psychic expansion, spiritua
 > 
 > Such men are rarely chasing success alone. they want psychic expansion, spiritual transformation, mastery, financial
 > 
-> ![Image](https://pbs.twimg.com/media/HTZzh8_aYAA72Tz?format=jpg&name=large)
+> ![Image](_attachments/HTZzh8_aYAA72Tz_17947644340352316.jpg)
 
 ---
 
@@ -73,7 +73,7 @@ There is tenderness here, but there is also pressure. Both people are building t
 
 > **me @milohtic** · [2026-09-29](https://x.com/milohtic/status/2105043173659541562)
 > 
-> ![Image](https://pbs.twimg.com/media/HTadm-xWgAEhq7O?format=jpg&name=large)
+> ![Image](_attachments/HTadm-xWgAEhq7O_17947644276611645.jpg)
 
 > **Alexander Draconis / Serynder @SeryPuff** · [2026-09-29](https://x.com/SeryPuff/status/2105059320442523867)
 > 

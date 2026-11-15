@@ -8,6 +8,18 @@ You cannot fully love a person who cannot overwhelm you, for even though not all
 
 What are your thoughts on falling in love several times through your life? Is that even possible? Is there some kind of limit to it? I'd say so since being overwhelmed by multiple people throughout your life seems disingenuous.[776](https://x.com/BetoGRR4/status/2069463710767198419/analytics)[JDW₿⏻](https://x.com/johndtwaldron)[@johndtwaldron](https://x.com/johndtwaldron)
 
+---
+I do not believe the soul is designed to break itself into little pieces, fragment, compartmentalise, and stretch itself in multiple directions. Totality seeks a single vessel, but totality demands paradox because desire operates on contradictory endpoints - eg: tenderness and ruthlessness, inspiring and soothing, chaste and ravenous etc.
+
+When it cannot find *everything* within a single individual, there are a few paths.
+
+The first path is solitude - no romance, no merging. Giving up. This is usually most attractive to those who have been the most drained, demoralised and profoundly wounded by failed attempts at merging. When you are tired, you begin to value peace more than intensity, and begin routing beauty through peace rather than devotion. Solitude also doesn't require you to try. To risk yourself. It is safe. This is also part of its allure. It offers the least because you risk the least, but the only pain it can offer you is loneliness - it does not require you to face yourself or to change.
+
+The second is trade-off, to accept a lower/lesser form love - this can still be meaningful in some way, but it is not totalising in the sense it fully captures the spirit and shows you the highest beauty. This lover would possess desirable traits, but not embody the full paradox that registers as divinity. In mainstream parlance, you would call this "settling" (and even then, there are different degrees of settling, anywhere from almost perfect, to totally garbage can be called settling)
+
+The third path would be some form of polygamy - looking for the various aspects that make up the perfect paradox distributed across different people in fragments, feeding multiple needs from disparate sources, because you have not met the totalising person with a high enough density of soul to inhabit all the integrated archetypal contradictions needed to possess you utterly.
+
+---
 [10h](https://x.com/johndtwaldron/status/2069488788015853639)
 
 What if they do all that and still leave[228](https://x.com/johndtwaldron/status/2069488788015853639/analytics)[𝕽𝖔𝖘𝖊 𝓩𝓕](https://x.com/zainabrose96)[@zainabrose96](https://x.com/zainabrose96)

@@ -11,7 +11,7 @@ source: "https://x.com/BlondB00/status/2109030428535672834"
 
 follow for more ego-annihilating God-reminding reality checks.
 
-![Image](https://pbs.twimg.com/media/HUTH_kkXoAAtaw8?format=jpg&name=large)
+![Image](_attachments/HUTH_kkXoAAtaw8_17947644270876389.jpg)
 ---
 
 ## Comments

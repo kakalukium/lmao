@@ -1,13 +1,14 @@
 ---
 cssclasses: ["zen-grid"]
 title: 01_Personal
-created: 2026-11-01
-updated: 2026-11-01
+created: 2026-11-15
+updated: 2026-11-15
 ---
 
 # 01_Personal
 - [[Bury Sensous Playlist]]
 - [[Multi-column syntaxes]]
+- [[Signal Keys]]
 - [[Test this]]
 - [[Thought from jun 6th 10 48PM]]
 - [[Untitled]]
@@ -33,23 +34,23 @@ updated: 2026-11-01
 - [[30th April]]
 - [[April 30th]]
 
+#### July 2026
+- [[July 15th-30th]]
+- [[Untitled]]
+
 #### June
 - [[June 12th]]
 - [[June 1st - june 8th]]
 
-#### July 2026
-- [[July 15th-30th]]
-- [[Untitled]]
+#### May 2026
+- [[May 10th - 16th]]
+- [[May 21st]]
 
 #### March 2026
 - [[21st March]]
 - [[23rd march]]
 - [[24th March]]
 - [[Timeline position hint]]
-
-#### May 2026
-- [[May 10th - 16th]]
-- [[May 21st]]
 
 ## Insights imp
 - [[About All uni friend s]]
